@@ -1,0 +1,1 @@
+Conjunto de representaciones relacionadas mutuamente y cargadas de afectos.

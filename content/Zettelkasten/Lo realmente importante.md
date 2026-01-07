@@ -1,0 +1,1 @@
+Aquí quiero ir registrando las cosas que hacen que la vida valga la pena vivirse.

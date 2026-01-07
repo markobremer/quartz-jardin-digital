@@ -1,0 +1,3 @@
+Fenómeno del mundo animal que representa el corolario del hecho de que los [[Sistemas lejos del equilibrio]] requieren consumir energía para mantener sus niveles bajos de [[Entropía]] y continuar existiendo. 
+
+Desde la perspectiva subjetiva, es algo que se experimenta como un empuje o presión hacia la realización de un fin. Su (no)cumplimiento está asociado a la aparición de (dis)placer, con lo cual es posible hipotetizar que este último constituye el mecanismo esculpido por la evolución para movilizar la conducta, aunque ello ya supone asumir la posición de que la conciencia y la experiencia fenomenológica pueden tener efectos causales sobre el comportamiento, lo cual es un campo en disputa.

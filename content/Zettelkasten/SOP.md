@@ -1,0 +1,4 @@
+---
+aliases:
+  - Standard Operational Procedures
+---

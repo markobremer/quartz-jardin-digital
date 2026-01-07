@@ -1,0 +1,4 @@
+
+Fenómeno que relaciona los ciclos respiratorios con la frecuencia cardíaca a través de la influencia del nervio vago. Cuando inhalamos, el ritmo cardíaco aumento, y cuando expiramos, disminuye. La magnitud de la diferencia entre crestas y valles ha sido asociada al nivel de activación del sistema nervioso autónomo -en relación a la influencia del "freno vagal" sobre la rama parasimpática constantemente activa- y, en consonancia, es utilizado como un índice del nivel de estrés de un individuo.
+
+> *Patterns of vagal functioning are commonly indexed by respiratory sinus arrhythmia (RSA), which describes fluctuations in heart rate across the respiration cycle in response to environmental demands (...) Temporary decreases in RSA, a marker of vagal brake withdrawal, allow an individual to respond rapidly to changing environmental demands while conserving or delaying other stress response systems (e.g., HPA axis) for more acute demands* ([[@Ostlund2017-md]], p. 2)

@@ -1,0 +1,1 @@
+Muchas veces me he topado con comentarios de personas ilustradas, impactadas con la debacle de la educación Chilena. La impresión es que esta ha ido sistemáticamente decreciendo en calidad

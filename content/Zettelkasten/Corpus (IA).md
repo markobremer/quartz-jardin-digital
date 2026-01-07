@@ -1,0 +1,1 @@
+Se refiere al conjunto de texto en base al cual es entrenado un [[LLM|modelo de lenguaje]].

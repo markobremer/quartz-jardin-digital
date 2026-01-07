@@ -1,0 +1,5 @@
+Una de las características que nos define como especie es nuestra capacidad de crear cultura y ser sostenidos por ella. 
+
+En términos sencillos, la cultura es toda aquella acumulación intergeneracional de aprendizajes que son transmitidos gracias a la [[parada pedagógica|Parada pedagógica]] del ser humano, así como también de una serie de mecanismos, rituales e instituciones que se constituyen sobre ellas.
+
+Esto permite que el [[Nicho Ecológico]] cultural que los seres humanos cultivan, se vaya enriqueciendo progresivamente de [[Dispositivos Cognitivos]] que amplifican de manera significativa y sistemática nuestras capacidades, en lo que [[Lev Vygotsky]] llamó el desarrollo de las habilidades cognitivas superiories, y que sus seguidores –agrupados en la escuela de la [[Teoría sociocultural]]– siguieron reflexionando.

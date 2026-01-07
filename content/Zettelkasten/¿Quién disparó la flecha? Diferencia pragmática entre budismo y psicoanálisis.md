@@ -1,0 +1,3 @@
+En la parábola de la flecha, el Buda muestra que en el dharma no importa hacer un análisis del origen de cada instancia de sufrimiento, sino que basta con tener claro la comprensión general del fenómeno como resultado del apego, para operar con el procedimiento terapéutico del soltar. Es despertar.
+
+En [[Psicoanálisis]], en contraste, lo que se hace es rastrear las [[Asociación Libre|asociaciones]] significantes que soportan ese sufrimiento en particular, para entender en qué medida sus redes asociativas están enmarañadas, y así entender qué operación hace falta para generar un cambio en su organización que permita aliviar ese sufrimiento. Es reacomodar.

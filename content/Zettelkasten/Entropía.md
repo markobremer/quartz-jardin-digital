@@ -1,0 +1,1 @@
+Es una medida del nivel de orden en un determinado sistema. Si bien es una idea que intuitivamente ha estado presente desde hace cientos de años, el primero en formularla algorítmicamente fue Ludwig Bolztmann, a través de la mecánica estadística.

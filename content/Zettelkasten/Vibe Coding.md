@@ -1,0 +1,1 @@
+Neologismo post LLM que hace referencia a la capacidad que hoy en día tienen los muggles de la programación para crear su propio software o resolver problemas mediante código sin necesidad de tener competencias en el ámbito.

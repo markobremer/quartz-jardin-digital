@@ -1,0 +1,3 @@
+En el entrenamiento de un [[LLM]], se [[Embeddings|vectorizan]] todos los [[Tokens|tokens]] del [[Corpus (IA)|conjunto de texto]] para luego hacer análisis de la relación matemática entre cada una de ellas, generando así un modelo probabilístico que especifica que probabilidad hay de que cada uno de los tokens disponibles sea la palabra que sigue al contexto específico.
+
+Este análisis se puede realizar múltiples veces. Cada una de estas pasadas se denomica [[Epoch (IA)|época]].

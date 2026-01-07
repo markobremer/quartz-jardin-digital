@@ -1,0 +1,3 @@
+[En un texto medieval del 1300](https://www.ilpost.it/2023/01/17/marckalada-galvano-fiamma-paolo-chiesa-america/), escrito por el fraile Galvano Fiamma, se hace mención de una tierra llamada “Marckalada”, ubicada más hacia el oeste que Groenlandia. En el texto, se hace la siguiente descripción:
+
+> E ancora oltre, verso occidente, c’è una terra chiamata Marckalada. Gli abitanti del posto sono dei giganti: esistono edifici di pietre così grosse che nessun uomo sarebbe in grado di metterle in posa, se non grandissimi giganti. Lì si trovano alberi verdi, animali e moltissimi uccelli. Però non c’è mai stato nessun marinaio che sia riuscito a sapere con certezza notizie su questa terra e sulle sue caratteristiche.

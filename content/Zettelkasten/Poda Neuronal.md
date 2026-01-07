@@ -1,0 +1,5 @@
+Se refiere a momentos críticos del desarrollo del [[Sistema nervioso]], en donde se purgan cientos de millones de neuronas que no demostraron ser requeridas para el funcionamiento del organismo.
+
+En términos topológicos, estas transiciones marcan un cambio en las características del [[Paisaje Adaptativo]], pasando de un terreno maleable y en movimiento, a uno rígido y estable.
+
+En términos de estrategia para encontrar a los *fittest* circuitos, se asemeja a un [[Teoría de la Evolución|proceso evolutivo]]. He escuchado mencionar estrategias similares por parte del estado Chino para desarrollar mercados altamente eficientes, como en el caso de las celdas fotovoltáicas y la electromovilidad, en donde proveen de incentivos iniciales para la proliferación de empresas en sectores determinados, para luego cambiar las condiciones buscando generar una lucha a muerte en donde sólo las más eficientes sobreviven.

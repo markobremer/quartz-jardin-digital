@@ -1,0 +1,3 @@
+Los modelos de lenguaje son *¿software?* cuyo propósito es predecir texto en función de un input determinado. 
+
+Para lograrlo, lo que hacen es entrenarse en base a un [[Corpus (IA)]], el cual traducen a una representación vectorial de [[Tokens|los elementos del texto]] que permite luego realizar operaciones matemáticas y así agruparlos por similaridad en base a la probabilidad real que tuvieron de aparecer de manera cercana en el corpus. De esta manera, asignan una probabilidad a cada una de las palabras del corpus de ser la siguiente a la que fue previamente ingresada.

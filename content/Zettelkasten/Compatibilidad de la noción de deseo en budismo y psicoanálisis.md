@@ -1,0 +1,5 @@
+En [[psicoanálisis]] el [[Deseo]] dinamiza. La falta de deseo se conceptualiza como una enfermedad libidinal: la depresión. El deseo sería el resultado de un estado fundamental de falta, que Terrence Deacon propone que es constitutivo de la vida misma. En otras palabras, el deseo es bueno. Los problemas emergen cuando se enreda o cuando se obtura.
+
+En [[Budismo]] el deseo estanca. Se asocia a la idea de aferrarse a una fantasía de estabilidad cuando el universo y la vida en una sopa ebullente de nacimiento y muerte de fenómenos. La estabilidad que percibimos es sólo reificación de procesos. Al verlos de esta manera, no comprendemos su naturaleza fundamental y construimos nuestras soluciones vitales sobre premisas falsas. Aferrarse a esta ilusión es lo que genera sufrimiento, comprender este error es el primer paso hacia la liberación del mismo, camino que fue declarado por Siddharta Gautama en sus cuatro nobles verdades.
+
+Ambas lecturas parecen ser irreconciliables… ¿hay algo que no estoy entendiendo bien? ¿Hay algún punto en el que se encuentran? En caso contrario, ¿Pueden ambas dos ser ciertas y/o efectivas a la vez?
