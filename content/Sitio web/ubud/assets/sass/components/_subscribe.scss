@@ -1,0 +1,95 @@
+/*------------------------------------*\
+  Components > Subscribe Form
+\*------------------------------------*/
+
+@use "../settings/type";
+@use '../components/button';
+@use "../vendor/mq";
+
+.c-subscribe {
+  position: relative;
+  overflow: hidden;
+  padding: var(--space-32);
+  border-radius: var(--space-4);
+  background-color: var(--background-secondary);
+
+  @include mq.mq($from: tablet) {
+    padding: var(--space-64);
+  }
+
+  @include mq.mq($from: desktop) {
+    padding: var(--space-96);
+  }
+
+  &__content {
+    position: relative;
+    z-index: 1;
+    max-width: 540px;
+    margin: auto;
+  }
+
+  &__heading {
+    font-size: type.$type--h-xs;
+    line-height: type.$type--h-xs-lh;
+    font-family: var(--gh-font-heading, var(--font-family));
+  }
+
+  &__icon {
+    position: absolute;
+    top: -141px;
+    right: -121px;
+
+    svg {
+      fill: var(--background-primary);
+    }
+  }
+}
+
+.c-subscribe-form {
+  .c-alert {
+    display: none;
+  }
+
+  .c-btn {
+    @extend .c-btn--loading;
+
+    &:after {
+      display: none;
+    }
+  }
+
+  &.loading .c-btn {
+    &:after {
+      display: block;
+    }
+  }
+
+  &.success .c-alert--success,
+  &.invalid .c-alert--invalid,
+  &.error   .c-alert--error  {
+    display: block;
+  }
+}
+
+.c-form-group {
+  @include mq.mq($from: tablet) {
+    display: flex;
+  }
+
+  &__btn {
+    @include mq.mq($until: tablet) {
+      width: 100%;
+    }
+
+    @include mq.mq($from: tablet) {
+      flex: 3;
+      margin-left: var(--space-16);
+    }
+  }
+
+  &__input {
+    @include mq.mq($until: tablet) {
+      margin-bottom: var(--space-16);
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "Skip to content": "تخطى الى المحتوى",
+  "Table of Contents": "جدول المحتويات",
+
+  "Search": "بحث",
+
+  "Comments": "تعليقات",
+
+  "Loading": "جار التحميل",
+  "More Posts ↓": "↓ تحميل المزيد",
+  "All Posts →": "→ جميع المشاركات",
+
+  "Recent Posts": "المشاركات الاخيرة",
+  "Featured Posts": "المشاركات المميزة",
+  "Related Posts": "المنشورات ذات الصلة",
+  "Page Not Found": "الصفحة غير موجودة",
+  "Published with {ghostLink} & {themeLink}": "نشرت مع {ghostLink} & {themeLink}",
+
+  "Share on Twitter": "انشر على تويتر",
+  "Share on Facebook": "انشر على الفيسبوك",
+  "Share on LinkedIn": "انشر على لينكد إن",
+  "Share on Pinterest": "انشر على بينترست",
+  "Share via Email": "انشر على الإيميل",
+  "Copy link": "انسخ الرابط",
+  "Link copied to clipboard": "تم نسخ الرابط",
+
+  "Archive": "أرشيف",
+  "Tags": "التصنيفات",
+  "1 min read": "1 دقيقة قراءة",
+  "% min read": "% دقائق قراءة",
+
+  "Paid": "مدفوع",
+  "Members": "للأعضاء",
+  "Public": "عام",
+
+  "Account": "الحساب",
+  "Log in": "تسجيل الدخول",
+  "Subscribe": "اشترك",
+  "Membership": "عضوية",
+  "Your email address": "عنوان بريدك الإلكتروني",
+  "{siteTitle} Newsletter": "النشرة الإخبارية",
+  "Please check your inbox and click the link to complete the login.": "يرجى التحقق من صندوق الوارد الخاص بك والنقر فوق الارتباط لإكمال تسجيل الدخول.",
+  "Please check your inbox and click the link to confirm your subscription.": "يرجى التحقق من صندوق الوارد الخاص بك والنقر على الرابط لتأكيد اشتراكك.",
+  "Please enter a valid email address!": "من فضلك أدخل بريد أليكترونى صحيح!",
+  "An error occurred, please try again later.": "لقد حدث خطأ، رجاء أعد المحاولة لاحقا.",
+
+  "Already have an account?": "هل لديك حساب؟",
+  "Don't have an account yet?": "لا تملك حسابا حتى الآن؟",
+
+  "This content is for Members": "هذا المحتوى للأعضاء",
+  "This content is for Paid Members": "هذا المحتوى مخصص للأعضاء المشتركين",
+  "This content is for Subscribers on the ": "هذا المحتوى للمشتركين على ",
+  "Upgrade your account": "قم بترقية حسابك",
+  "Join the newsletter to receive the latest updates in your inbox.": "انضم إلى النشرة الإخبارية لتلقي آخر التحديثات."
+}

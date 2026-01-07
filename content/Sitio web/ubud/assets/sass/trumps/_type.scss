@@ -1,0 +1,42 @@
+/*------------------------------------*\
+  Trumbs > Typography
+\*------------------------------------*/
+
+// Font Size
+
+.u-type-base {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+}
+
+.u-type-sm {
+  font-size: var(--font-size-xsmall);
+  line-height: var(--line-height-xsmall);
+}
+
+.u-type-xs {
+  font-size: var(--font-size-xxsmall);
+  line-height: var(--line-height-xxsmall);
+}
+
+// Font Weight
+
+.u-type-400 {
+  font-weight: var(--font-weight-normal);
+}
+
+.u-type-500 {
+  font-weight: var(--font-weight-medium);
+}
+
+.u-type-600 {
+  font-weight: var(--font-weight-semibold);
+}
+
+.u-type-uppercase {
+  text-transform: uppercase;
+}
+
+.u-type-italic {
+  font-style: italic;
+}

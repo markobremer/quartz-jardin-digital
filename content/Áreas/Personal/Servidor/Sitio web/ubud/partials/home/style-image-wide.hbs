@@ -1,0 +1,34 @@
+{{!-- Homepage / Image Wide Style --}}
+
+{{#page}}
+  {{#if feature_image}}
+    <div class='o-grid'>
+      <div class='o-grid__col'>
+        <div class='c-home-wide-media'>
+          <img
+            alt='{{ title }}'
+            class='c-home-image-wide lazyload'
+            srcset='
+              {{ img_url feature_image size='home-image-wide-small' format='webp' }}  536w,
+              {{ img_url feature_image size='home-image-wide-medium' format='webp' }} 1120w,
+              {{ img_url feature_image size='home-image-wide-large' format='webp' }}  2240w'
+            sizes='(min-width: 1280px) 1120px, (min-width: 640px) 87.74vw, calc(100vw - 32px)'
+            src='{{ img_url feature_image size='home-image-wide-large' format='webp' }}'
+          >
+        </div>
+      </div>
+    </div>
+  {{/if}}
+
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+      <div class='c-home-wide-content'>
+        <section class='c-content'>
+          {{ content }}
+
+          {{> home/subscribe-form }}
+        </section>
+      </div>
+    </div>
+  </div>
+{{/page}}

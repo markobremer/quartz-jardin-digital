@@ -1,0 +1,98 @@
+/*------------------------------------*\
+  Components > Member Plan
+\*------------------------------------*/
+
+@use "../settings/type";
+@use "../vendor/mq";
+
+.c-membership-plans {
+  border-radius: var(--space-4);
+  background-color: var(--background-secondary);
+
+  @include mq.mq($from: desktop) {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+  }
+}
+
+.c-membership-plan {
+  padding: var(--space-32);
+
+  @include mq.mq($from: desktop) {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    padding: var(--space-40);
+  }
+
+  + .c-membership-plan {
+    @include mq.mq($until: desktop) {
+      border-top: 1px solid var(--background-primary);
+    }
+
+    @include mq.mq($from: desktop) {
+      border-left: 2px solid var(--background-primary);
+    }
+  }
+
+  &__header {
+    position: relative;
+    padding-bottom: var(--space-24);
+  }
+
+  &__title {
+    font-size: type.$type--h-xxs;
+    line-height: type.$type--h-xxs-lh;
+    font-weight: var(--font-weight-semibold);
+    margin-bottom: var(--space-16);
+  }
+
+  &__sign {
+    vertical-align: top;
+    display: inline-block;
+    margin-top: var(--space-4);
+  }
+
+  &__amount {
+    font-size: type.$type--h-lg;
+    line-height: type.$type--h-lg-lh;
+  }
+
+  &__content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  &__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: var(--space-32);
+
+    li {
+      position: relative;
+      font-size: var(--font-size-xxsmall);
+      line-height: var(--line-height-xxsmall);
+      padding: 0 0 var(--space-16) var(--space-24);
+
+      &:before {
+        display: block;
+        position: absolute;
+        content: '✓';
+        left: 0;
+        top: calc(var(--space-2) * -1);
+        font-size: var(--font-size-xsmall);
+        line-height: var(--line-height-xsmall);
+        font-weight: var(--font-weight-bold);
+        color: var(--color-success);
+      }
+
+      &:last-child {
+        padding-bottom: 0;
+      }
+    }
+  }
+}

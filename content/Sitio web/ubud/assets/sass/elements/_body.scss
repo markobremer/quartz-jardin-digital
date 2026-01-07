@@ -1,0 +1,16 @@
+/*------------------------------------*\
+  Elements > Page
+\*------------------------------------*/
+
+body {
+  direction: ltr;
+  color: var(--color-text-primary);
+  background-color: var(--background-primary);
+  overflow-x: hidden;
+  font-family: var(--gh-font-body, var(--font-family));
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+
+  -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}

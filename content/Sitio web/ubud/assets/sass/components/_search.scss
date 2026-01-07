@@ -1,0 +1,17 @@
+// ------------------------------------
+// Components > Search
+// ------------------------------------
+
+@use "../vendor/mq";
+
+.toggle-search-button {
+  border: 0;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+
+  @include mq.mq($from: desktop) {
+    vertical-align: bottom;
+  }
+}

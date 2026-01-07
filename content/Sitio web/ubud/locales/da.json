@@ -1,0 +1,55 @@
+{
+  "Skip to content": "spring til indhold",
+  "Table of Contents": "Indholdsfortegnelse",
+
+  "Search": "Søg",
+
+  "Comments": "Kommentarer",
+
+  "Loading": "Indlæser",
+  "More Posts ↓": "Flere indlæg ↓",
+  "All Posts →": "Alle indlæg →",
+
+  "Recent Posts": "Seneste indlæg",
+  "Featured Posts": "Udvalgte indlæg",
+  "Related Posts": "Relaterede indlæg",
+  "Page Not Found": "Siden blev ikke fundet",
+  "Published with {ghostLink} & {themeLink}": "Udgivet med {ghostLink} & {themeLink}",
+
+  "Share on Twitter": "Del på Twitter",
+  "Share on Facebook": "Del på Facebook",
+  "Share on LinkedIn": "Del på LinkedIn",
+  "Share on Pinterest": "Del på Pinterest",
+  "Share via Email": "Del via e-mail",
+  "Copy link": "Kopier link",
+  "Link copied to clipboard": "Link kopieret til udklipsholder",
+
+  "Archive": "Arkiv",
+  "Tags": "Mærker",
+  "1 min read": "1 minut læses",
+  "% min read": "% minut læses",
+
+  "Paid": "betalt",
+  "Members": "Medlemmer",
+  "Public": "Offentlig",
+
+  "Account": "Konto",
+  "Log in": "Log ind",
+  "Subscribe": "Tilmeld",
+  "Membership": "Medlemskab",
+  "Your email address": "Din email adresse",
+  "{siteTitle} Newsletter": "{siteTitle} Nyhedsbrev",
+  "Please check your inbox and click the link to complete the login.": "Kontroller din indbakke, og klik på linket for at fuldføre login.",
+  "Please check your inbox and click the link to confirm your subscription.": "Kontroller din indbakke, og klik på linket for at bekræfte dit abonnement.",
+  "Please enter a valid email address!": "Indtast venligst en gyldig e-mailadresse!",
+  "An error occurred, please try again later.": "Der opstod en fejl. Prøv venligst igen senere.",
+
+  "Already have an account?": "har du allerede en bruger?",
+  "Don't have an account yet?": "Har du ikke en konto endnu?",
+
+  "This content is for Members": "Dette indhold er til medlemmer",
+  "This content is for Paid Members": "Dette indhold er til betalte medlemmer",
+  "This content is for Subscribers on the ": "Dette indhold er for abonnenter på ",
+  "Upgrade your account": "Opgrader din konto",
+  "Join the newsletter to receive the latest updates in your inbox.": "Deltag i nyhedsbrevet for at modtage de seneste opdateringer i din indbakke."
+}

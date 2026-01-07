@@ -1,0 +1,3 @@
+En base a [esta entrevista](https://readwise.io/reader/shared/01ke8g5z4w69ychbkr22w0d6sm) a [[Anette Karmiloff-Smith]], trabajar sobre su ejemplo (y, eventualmente, otros similares) para explicar el concepto de [[modelos cognitivos]]: qué son, cómo [[Aprendizaje|se desarrollan]] y qué efectos tienen sobre nuestra concepción del mundo y comportamiento.
+
+Pensar de qué manera se puede vincular con implicancias en términos [[Psicoterapia|clínicos]] y educacionales

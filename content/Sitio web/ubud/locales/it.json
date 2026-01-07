@@ -1,0 +1,55 @@
+{
+  "Skip to content": "Salta al contenuto",
+  "Table of Contents": "Sommario",
+
+  "Search": "Ricerca",
+
+  "Comments": "Commenti",
+
+  "Loading": "Caricamento",
+  "More Posts ↓": "Altri articoli ↓",
+  "All Posts →": "Tutti gli articoli →",
+
+  "Recent Posts": "Articoli recenti",
+  "Featured Posts": "In evidenza",
+  "Related Posts": "Articoli correlati",
+  "Page Not Found": "Pagina non trovata",
+  "Published with {ghostLink} & {themeLink}": "Pubblicato con {ghostLink} & {themeLink}",
+
+  "Share on Twitter": "Condividi su Twitter",
+  "Share on Facebook": "Condividi su Facebook",
+  "Share on LinkedIn": "Condividi su LinkedIn",
+  "Share on Pinterest": "Condividi su Pinterest",
+  "Share via Email": "Condividi via email",
+  "Copy link": "Copia link",
+  "Link copied to clipboard": "Link copiato negli appunti",
+
+  "Archive": "Archivio",
+  "Tags": "Tag",
+  "1 min read": "1 minuto",
+  "% min read": "% minuti",
+
+  "Paid": "Abbonati",
+  "Members": "Iscritti",
+  "Public": "Pubblico",
+
+  "Account": "Account",
+  "Log in": "Login",
+  "Subscribe": "Iscriviti",
+  "Membership": "Membership",
+  "Your email address": "Il tuo indirizzo email",
+  "{siteTitle} Newsletter": "{siteTitle} Newsletter",
+  "Please check your inbox and click the link to complete the login.": "Controlla la tua casella di posta e fai clic sul link per completare il login.",
+  "Please check your inbox and click the link to confirm your subscription.": "Controlla la tua casella di posta e fai clic sul link per confermare l'iscrizione.",
+  "Please enter a valid email address!": "Si prega di inserire un indirizzo email valido!",
+  "An error occurred, please try again later.": "Si è verificato un errore, riprova più tardi.",
+
+  "Already have an account?": "Hai già un account?",
+  "Don't have an account yet?": "Non hai ancora un account?",
+
+  "This content is for Members": "Questo contenuto è per gli iscritti",
+  "This content is for Paid Members": "Questo contenuto è per gli abbonati",
+  "This content is for Subscribers on the ": "Questo contenuto è per gli abbonati sul ",
+  "Upgrade your account": "Aggiorna il tuo account",
+  "Join the newsletter to receive the latest updates in your inbox.": "Iscriviti alla newsletter per ricevere gli ultimi aggiornamenti nella tua casella di posta."
+}

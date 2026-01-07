@@ -1,0 +1,26 @@
+/*------------------------------------*\
+  Components > Alerts
+\*------------------------------------*/
+
+.c-alert {
+  font-size: var(--font-size-xxsmall);
+  line-height: var(--line-height-xxsmall);
+  font-weight: var(--font-weight-medium);
+  margin-top: var(--space-16);
+
+  &:empty {
+    display: none;
+  }
+}
+
+.c-alert--success {
+  color: var(--color-success);
+}
+
+.c-alert--invalid {
+  color: var(--color-error);
+}
+
+.c-alert--error {
+  color: var(--color-error);
+}

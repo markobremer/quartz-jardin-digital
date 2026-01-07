@@ -1,0 +1,1069 @@
+
+
+
+
+
+
+
+
+
+
+
+Hoja de Ruta
+Modelo de Análisis Prospectivo Proyecta Chile 2050
+Septiembre 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACLARATORIA: 
+En el presente documento se utilizan de manera inclusiva términos como “el asistente”, “el mediador “el beneficiario” y sus respectivos plurales para aludir al género masculino y femenino. Esta opción obedece a que no existe acuerdo universal respecto de cómo nombrar conjuntamente a ambos géneros en el idioma español, salvo usando “o/a”, “los/las” y opciones similares, considerando que este tipo de recursos supone una saturación gráfica que puede dificultar la comprensión de la lectura del documento.
+Contenido
+Contenido	3
+1.	Introducción	4
+1.1.	Proyecta Chile 2050 y la Fundación Encuentros del Futuro	4
+1.2.	Prospectiva y Hojas de Ruta: Definiciones generales	5
+1.3.	Alcance y contenido de este documento	6
+1.3.1. Alcance específico de este documento	6
+1.3.2. Estructura del documento	7
+2.	Referentes	9
+2.1.	Experiencias internacionales	9
+Australian National Outlook 2019	9
+España 2050	10
+Project Ireland 2040	11
+OECD Strategic Foresight Unit (*)	12
+Colabora.Lat Asuntos del Sur (*)	12
+2.2.	Experiencias nacionales	12
+Tenemos que hablar de Chile	13
+Política Nacional Minera 2050	14
+Política Energética Nacional 2050 (Actualización 2022)	15
+2.3.	Proyecta Chile	16
+2.4.	Análisis comparativo	16
+3.	Modelo	18
+3.1.	Áreas	18
+3.2.	Equipos	18
+3.3.	Procesos	19
+3.3.1. Mesas temáticas	19
+3.3.2. Hoja de Ruta	19
+3.3.3. Consideraciones generales	20
+4.	Referencias	21
+
+Introducción
+Este documento presenta el Modelo de Análisis Prospectivo Proyecta Chile 2050, producto de una consultoría encargada por la Fundación Encuentros del Futuro (FEF), cuyo objetivo general es "construir una hoja de ruta para Proyecta Chile 2050, en base al diseño e implementación de una metodología consistente y replicable, capaz de incidir en distintos momentos de la Agenda Pública y de Gobierno". Este modelo se nutre de la experiencia desarrollada durante la consultoría, particularmente de la elaboración del Documento de Recomendaciones a Candidaturas Presidenciales 2025, primer hito de corto plazo en el marco de la iniciativa Proyecta Chile 2050.
+Proyecta Chile 2050 y la Fundación Encuentros del Futuro
+La Fundación Encuentros del Futuro es una iniciativa colaborativa generadora de bienes públicos que articula a expertos, instituciones académicas y actores del sector público y privado para impulsar soluciones colectivas y formular políticas públicas basadas en evidencia científica. A través de esta red de colaboración, busca democratizar el acceso al conocimiento, anticipar desafíos emergentes y diseñar respuestas con proyección de largo plazo, contribuyendo a la construcción de un futuro más sostenible. Su visión es ser un punto de encuentro relevante que impulse el diálogo y la acción transversal, la colaboración y la diversidad, donde las políticas públicas y el conocimiento generen un impacto de convergencia, positivo y de trascendencia social.
+Proyecta Chile 2050, como iniciativa específica dentro de la Fundación, tiene como objetivo crear una hoja de ruta para que Chile tenga una visión común compartida que le permita enfrentar los desafíos y aprovechar las oportunidades que trae el futuro. Busca desarrollar una estrategia país, promover el diálogo y la conversación, e instaurar capacidad y cultura de prospectiva nacional. Entre sus objetivos específicos se encuentran: comprender las grandes transformaciones que moldearán el futuro de Chile y construir diagnósticos estratégicos; definir nuevas estrategias para abordar escenarios futuros desde perspectivas económicas, sociales, ambientales e institucionales; abrir espacios para la integración de diversas voces a través de procesos de diálogo abierto; y priorizar propuestas para traducirlas en objetivos estratégicos claros que promuevan el diseño de un sistema integrado y dinámico de políticas públicas.
+El modelo que se presenta en este documento busca contribuir al logro de objetivos estratégicos clave para la Fundación y para Proyecta Chile: recuperar la esperanza en un futuro próspero, promover una cultura nacional de prospectiva, y posicionar a la FEF como una plataforma generadora constante y sistemática de políticas de Estado que sirvan como referente para la acción colectiva y la toma de decisiones a nivel nacional, anticipándose proactivamente a los desafíos del país para abordarlos de manera exitosa y acercarse al futuro deseado.
+Prospectiva y Hojas de Ruta: Definiciones generales
+Para comprender el alcance y naturaleza de este documento, es fundamental establecer el marco conceptual que lo sustenta. La prospectiva estratégica constituye una disciplina que trasciende la simple predicción del futuro para convertirse en un proceso de construcción colectiva de futuros posibles y deseables. Michel Godet, figura central de la escuela francesa de prospectiva, la define como "una anticipación (preactiva y proactiva) para iluminar las acciones presentes con la luz de los futuros posibles y deseables" (Godet & Durance, 2007, p. 6). Esta definición subraya dos dimensiones esenciales: la anticipación no es un fin en sí mismo, sino que debe orientar la acción, y esta acción debe ser tanto preactiva (prepararse para cambios esperados) como proactiva (provocar cambios deseados).
+La prospectiva se distingue radicalmente de la previsión (forecasting) y de la planificación estratégica tradicional. Mientras la previsión opera desde el pasado hacia el futuro, extrapolando tendencias históricas y presupone un futuro único y probable, la prospectiva opera desde futuros posibles hacia el presente, reconociendo la existencia de múltiples futuros posibles (futuribles), ninguno predeterminado, todos susceptibles de ser construidos mediante la acción estratégica (Godet, 2007). Como señala la Oficina de Planeamiento y Presupuesto de Uruguay (2016, p. 10), "mientras la previsión clásica busca que el pasado explique el futuro, la prospectiva trata de explicar el pasado por medio del futuro".
+En el ámbito de las políticas públicas de largo plazo, la prospectiva se constituye como una herramienta fundamental para el diseño estratégico, permitiendo trascender los ciclos políticos de corto plazo. Como explica Jorge Máttar, director del ILPES-CEPAL, "esta propuesta requiere de una visión a largo plazo y la prospectiva permite precisamente analizar los caminos más adecuados para las transformaciones necesarias y contribuir así a mejorar el diseño y la aplicación de políticas públicas" (CEPAL, 2014).
+Una hoja de ruta prospectiva (roadmap) constituye un instrumento metodológico específico que integra la dimensión temporal-espacial con la exploración de múltiples futuros para orientar la acción estratégica. El UNDP Foresight Playbook (2022, p. 51) la define como "el método de prospectiva que se utiliza para trazar la combinación de pasos —acciones, estrategias, políticas, programas, intervenciones y recursos— que se necesitan para alcanzar un futuro preferido o una meta de desarrollo futura". Robert Phaal, de la Universidad de Cambridge, propone que roadmapping es "la aplicación de una lente estratégica estructurada temporal-espacial" (Kerr & Phaal, 2022), enfatizando que no se trata simplemente de crear un mapa sino de aplicar un marco analítico que estructura información estratégica a lo largo del tiempo.
+Crucialmente, una hoja de ruta prospectiva no es un plan de proyecto detallado ni un cronograma exhaustivo, sino que una representación de alto nivel que muestra dirección estratégica, grandes trayectorias e hitos significativos, pero manteniendo flexibilidad para adaptarse conforme evoluciona el contexto (Phaal, 2019). Se caracteriza por su orientación al largo plazo (típicamente 10-30 años), su naturaleza dinámica y actualizable, su construcción sobre trabajo colaborativo y multisectorial, y su capacidad de gestionar la incertidumbre como elemento central mediante la exploración de múltiples escenarios futuros.
+Alcance y contenido de este documento
+Este documento presenta el Modelo de Análisis Prospectivo Proyecta Chile 2050, un sistema integral diseñado para que la Fundación Encuentros del Futuro opere de manera permanente como plataforma generadora de políticas de Estado basadas en análisis prospectivo y construcción colaborativa.
+El modelo propuesto integra dos dimensiones operativas complementarias:
+Primera dimensión: Producción continua de análisis temáticos. Las mesas temáticas operan de manera permanente, activándose según criterios políticos y técnicos para generar recomendaciones de política pública en áreas estratégicas específicas. Esta dimensión asegura que Proyecta Chile 2050 responda continuamente a desafíos emergentes y mantenga actualizada su base de conocimiento prospectivo.
+Segunda dimensión: Integración periódica en Hojas de Ruta. Cada cuatro años, los productos generados por las mesas temáticas se integran en un documento político-estratégico que se publica con 9-12 meses de anticipación a la primera vuelta presidencial. Este documento sintetiza y articula las propuestas en una carta de navegación nacional que establece prioridades, secuencias temporales y articulaciones entre diferentes áreas estratégicas, ofreciendo a Chile una visión de largo plazo que trasciende coyunturas políticas inmediatas.
+El carácter dinámico del modelo se manifiesta en múltiples niveles: los documentos integradores se renuevan periódicamente incorporando nuevos conocimientos y ajustando prioridades; las mesas temáticas pueden renovarse, fusionarse, abrirse o cerrarse según aparezcan nuevos desafíos estratégicos o cambios disruptivos; y la propia metodología puede actualizarse mediante evaluaciones periódicas que aseguren mejora continua.
+Alcance específico de este documento
+Este documento constituye una propuesta metodológica diseñada específicamente para generar análisis y recomendaciones temáticas basadas en prospectiva, y para integrarlas en hojas de ruta periódicas. Es importante señalar que la estructura organizacional que se propone—articulada en tres áreas: política, técnica y de desarrollo de contenidos—es lo suficientemente flexible y genérica como para sostener otras variantes metodológicas que puedan surgir de la experiencia de implementación o de necesidades específicas futuras.
+En este sentido, el documento debe leerse como un marco de referencia que establece un modelo probado y fundamentado a partir de la experiencia de esta consultoría, pero no como una prescripción rígida que excluya adaptaciones o innovaciones metodológicas. El modelo puede evolucionar mediante procesos sistemáticos de evaluación y mejora continua, manteniendo la flexibilidad necesaria para responder a un entorno en constante cambio mientras preserva la coherencia estratégica de largo plazo que caracteriza el enfoque prospectivo.
+Estructura del documento
+El documento se organiza en las siguientes secciones:
+Sección 2: Referentes. Desarrolla un análisis de experiencias internacionales y nacionales de ejercicios prospectivos y hojas de ruta, identificando características metodológicas, alcances y aprendizajes relevantes. A partir de este análisis comparativo, se examina lo que ha desarrollado Proyecta Chile hasta el momento, identificando similitudes, diferencias y aspectos rescatables que informan el diseño del modelo propuesto.
+Sección 3: Modelo. Presenta el núcleo del Modelo de Análisis Prospectivo Proyecta Chile 2050, estructurado en tres niveles de especificidad creciente:
+Sección 3.1: Áreas. Describe la arquitectura organizacional general del modelo, articulada en tres áreas complementarias que operan de manera integrada: el Área Política (orientación estratégica, decisiones de activación de mesas, liderazgo de incidencia y de la Hoja de Ruta periódica), el Área Técnica (definición de estándares de calidad, verificación de productos, monitoreo de criterios técnicos), y el Área de Desarrollo de Contenidos (producción de documentos temáticos y provisión de insumos estructurados). Las tres áreas se describen con igual nivel de detalle en sus funciones principales, aunque solo el Área de Desarrollo de Contenidos se profundiza en las subsecciones siguientes, dado que constituye el foco central del producto comprometido por esta consultoría.
+Sección 3.2: Equipo del Área de Desarrollo de Contenidos. Detalla la conformación del Área de Desarrollo de Contenidos, detallando roles, funciones y responsabilidades específicas. Se describen tres niveles de coordinación (Coordinador General, Coordinador de Mesas, Coordinador de Contenidos), los participantes directos del proceso (facilitadores, coordinadores expertos elegidos por las mesas, participantes de mesas temáticas) y los participantes indirectos (invitados temáticos, stakeholders y ciudadanía en procesos de consulta).
+Sección 3.3: Procesos del Área de Desarrollo de Contenidos. Detalla los dos procesos fundamentales que opera esta área: (1) el desarrollo de mesas temáticas y la elaboración de sus productos, describiendo la secuencia metodológica tanto para mesas nuevas como para mesas recurrentes; y (2) el proceso de elaboración de la Hoja de Ruta periódica, explicando cómo se integran los productos temáticos en el documento político-estratégico cuatrienal.
+Sección 4: Referencias. Lista las fuentes bibliográficas y documentales utilizadas en el desarrollo de este documento.
+Este modelo representa la síntesis de aprendizajes capturados durante la consultoría, particularmente del proceso de elaboración del Documento de Recomendaciones a Candidaturas Presidenciales 2025, optimizando aspectos que funcionaron exitosamente e incorporando mejoras en dimensiones que presentaron desafíos operativos o metodológicos.
+
+Referentes
+Experiencias internacionales
+A continuación, se mencionan las experiencias internacionales que corresponden a referentes metodológicos en torno a ejercicios de prospectiva, como el que se realiza en el marco de Proyecta Chile 2050. La revisión e integración de estas experiencias a la propuesta refiere a la consideración de elementos transversales o únicos a estos procesos que mejoran un ejercicio de prospectiva. Lo anterior se consideró tanto para la consultoría elaborada, y el desarrollo de las mesas temáticas, así como la inclusión de estos elementos en la propuesta de Hoja de Ruta, que se presentan en las siguientes secciones de este informe. 
+Australian National Outlook 2019
+La experiencia Australian National Outlook, segunda versión, se presenta como una de las iniciativas internacionales más relevante, como un ejemplo de planificación estratégica con participación multisectorial, liderado por la agencia científica nacional CSIRO, en colaboración con el National Australian Bank y más de 20 organizaciones de los sectores empresariales, académico y social. 
+El proceso comienza con una pregunta guía que corresponde a ¿Qué tipo de país podría ser Australia en 2060? Y, ¿Qué decisiones deben tomarse hoy para lograrlo? Ante estas preguntas, este ejercicio prospectivo buscó identificar los desafíos estructurales que enfrenta el país en diversas áreas político-socio-económicas; Modelar escenarios futuros para anticipar riesgos y oportunidades; Proponer rutas de acción; Y, movilizar una conversación nacional sobre el futuro del país. 
+Este ejercicio contó con la participación de más de 50 líderes de 20 organizaciones relevantes, de sectores de las ciencias, la academia, empresas, representantes de la sociedad civil y think tanks. 
+Este proceso se llevó a cabo a través de diferentes fases, que corresponden a: 
+	•	Exploración inicial, en que se escaneraron más de 100 temas relevantes a ser considerados
+	•	Priorización de 13 temas nacionales claves
+	•	Aplicación de modelos integrados para simular escenarios futuros 
+	•	Deliberación 
+	•	Síntesis de la fase anterior por medio de la redacción de un informe principal y técnico
+	•	Publicación y difusión del documento y los hallazgos. 
+Específicamente se realizaron 8 talleres presenciales estratégicos y multisectoriales durante 18 meses, donde en cada sesión se discutieron resultados de modelamiento, validación de escenarios y elaboración de recomendaciones. 
+Los temas abordados se agruparon en 3 grandes áreas -Recursos naturales y energía; Productividad y servicios; Ciudades e infraestructura- y en cada área se abordan una serie de sub-temas que le dieron mayor profundidad a las conversaciones. 
+Es destacable además de este procesoa que la construcción de escenarios prospectivos se realizó mediante un enfoque foresight, que combinó análisis cuantitativo con procesos cualitativos de diálogo y co-creación. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La importancia de construir visiones compartidas con mirada de largo plazo, que permitan anticiparse a escenarios futuros y orientar decisiones presentes de manera informada y consensuada
+	•	El valor de una colaboración multisectorial real, que combine datos duros con visiones desde la práctica y la ciudadanía, permitiendo una planificación más robusta y viable
+	•	El rol estratégico de la ciencia y la tecnología como base para la acción colectiva, especialmente cuando se combina con metodologías participativas, liderazgo compartido y enfoque territorial
+	•	Esta experiencia demuestra como un país puede movilizar ciencia, capacidades institucionales y voluntad política para co-construir una hoja de ruta hacia un futuro deseable, con enfoque sistémico, colaborativo y centrado en el bienestar intergeneracional.
+España 2050
+Otra experiencia relevante internacional en planificación estratégica y prospectiva es España 2050, el primer ejercicio colectivo de prospectiva estratégica realizado en el país, impulsado por la Oficina Nacional de Prospectiva y Estrategia del Gobierno de España. Este ejercicio se propuso como una hoja de ruta colectiva para anticipar los desafíos y oportunidades que enfrentará el país en las próximas tres décadas, con el objetivo de construir una visión compartida y sostenible en el futuro. 
+El propósito de España 2050 es doble: Mejorar la comprensión de los desafíos sociales, económicos y medioambientales que España deberá afrontar hasta 2050; Generar, a partit de un diálogo multiactor, una Estrategia Nacional de Largo Plazo que permita fijar prioridades, coordinar esfuerzos y garantizar la prosperidad y el bienestar de la ciudadanía en el futuro. 
+Este ejercicio fue coordinado por la Oficina Nacional de Prospectiva y Estrategia, quienes convocaron a más de 100 expertos de diversas disciplinas, entre ellas economía, sociología, ciencia política derecho, historia, medio ambiente, entre otras.  
+Este proceso se llevó a cabo a través de diferentes fases, que corresponden a: 
+	•	Diagnostico histórico y comparativo que permitió analizar la evolución de España en los últimos 40 años
+	•	Identificación de 9 desafíos estructurales del país
+	•	Elaboración de más de 200 propuestas concretas
+	•	Definición de 50 metas cuantificables (objetivos e indicadores) para 2050
+	•	Redacción del documento con la participación de un centenar de expertos por medio de un trabajo colaborativo y multidisciplinario. 
+	•	Presentación pública y apertura a diálogo nacional. 
+Se procuró que fuera un proceso que permitiera realizar un ejercicio de prospectiva estratégica con enfoque empírico y apartidista. En esta línea, hubo un fuerte énfasis en el uso de evidencia y datos, revisando 500 series de datos y 1.650 publicación científicas. Además, se caracterizó por ser un proceso multidisciplinario, colaborativo y abierto, planteado como un ejercicio nacional con vocación de país. 
+Se destaca que la experiencia España 2050 demuestra como un país puede movilizar ciencia, capacidades institucionales y voluntad política para co-construir nua hoja de ruta hacia un futuro deseable, con enfoque sistémico, colaborativo y centrado en el bienestar intergeneracional. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La importancia de construir visiones compartidas con miradas de largo plazo, que permitan anticiparse a escenarios futuros y orientar decisiones presentes de manera informada y consensuada
+	•	El valor de una colaboración multisectorial real, que combine datos duros con visiones desde la práctica y la ciudadanía, permitiendo una planificación más robusta y viable
+	•	El rol estratégico de la ciencia y la tecnología como base para la acción colectiva, especialmente cuando se combina con metodologías participativas, liderazgo compartido y enfoque territorial. 
+Project Ireland 2040
+Project Ireland 2040 se desarrolla como una iniciativa estratégica integral del Gobierno de Irlanda para poder planificar el crecimiento y desarrollo del país hasta el año 2040. Se compone del National Planning Framework (NPF), que establece la estrategia espacial y la visión a largo plazo, y el National Development Plan (NDP), que detalla la inversión pública necesaria para lograr los objetivos del NPF.
+Este ejercicio se propone con un horizonte temporal hacia el 2040, pero desde que comenzó a desarrollarse en el año 2018, se ha planificado la revisión del NDP cada 5 años, y la construcción de informes anuales y regionales como instancias de monitoreo y evaluación. 
+Este proceso se propuso transformar el país para hacerlo más sostenible, resiliente y equitativo, así como guiar el crecimiento poblacional, alinear la planificación territorial con la inversión pública por primera vez en el país y evitar la dispersión de recursos promoviendo un desarrollo equilibrado entre zonas urbanas y rurales.
+El proceso fue llevado a cabo por el gobierno central, departamentos ministeriales, gobiernos locales y regionales, actores del sector privado, la sociedad civil y comunidades locales, instituciones académicas y de investigación, y la ciudadanía por medio de consultas públicas. 
+Este proceso se llevó a cabo a través de diferentes fases, que corresponden a: 
+	•	Diagnóstico y diseño estratégico
+	•	Lanzamiento oficial
+	•	Implementación progresiva mediante proyectos regionales y sectoriales
+	•	Monitoreo y evaluación anual
+	•	Revisión del NDP para extender la planificación hasta el 2035. 
+Project Ireland 2040 se estructura en torno a reuniones al menos 4 veces al año, cuentas públicas, la realización de talleres regionales y sectoriales para la implementación y seguimiento, y presentaciones parlamentarias y revisiones presupuestarias. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La importancia de planificación proactiva y a largo plazo
+	•	Modalidad participativa con mecanismos de consulta, pero también de retroalimentación
+	•	Ejercicio con énfasis en la transparencia de la metodología, con uso de herramientas como el MyProjectIreland Tracker. 
+OECD Strategic Foresight Unit
+Esta experiencia internacional destaca por ser una institucionalidad con propósito de prospectiva dentro de la OECD. Esta unidad tiene como objetivo principal apoyar la formulación de políticas públicas más efectivas y resilientes, mediante el uso de la prospectiva estratégica como herramienta central de gobernanza anticipatoria.
+La idea de esta unidad institucional busca ayudar a los gobiernos a anticipar transformaciones emergentes, así como promover una cultura de pensamiento de futuros en la formulación e políticas, y fortalecer la capacidad de adaptación de los sistemas públicos frente a incertidumbre y disrupciones. 
+El trabajo de esta unidad se caracteriza por ser multinivel y multiactoral, así como realizar un trabajo basado en evidencia y escenario, participativo y colaborativo. Si bien se utilizan herramientas como el Strategic Foresight Toolkit, este es flexible y adaptable según los temas abordados, permitiendo seguir una estructura transversal, pero pertinente.
+Esta unidad opera de forma permanente dentro de la Secretaría General de la OECD, pero los ejercicios prospectivos se desarrollan en función de temas emergentes, con actualizaciones periódicas según el contexto global.
+Las intervenciones de la unidad se desarrollan en diferentes fases y en torno a un enfoque metodológico que consiste en: 
+	•	Identificación de señales de cambio y tendencias emergentes
+	•	Exploración de disrupciones potenciales en múltiples dominios y áreas
+	•	Construcción de escenarios para distintos futuros posibles
+	•	Pruebas de estrés de políticas frente a esos escenarios 
+	•	Diseño de estrategias adaptativas y recomendaciones de política pública. 
+Para llevar a cabo este ejercicio se propone la realización de talleres de prospectiva, ejercicios de escenario y sesiones de co-creación. Las temáticas que se abordan en esta unidad y en las cuales se estructuran estos talleres corresponden, entre otros, inteligencia artificial, biotecnología, gobernanza anticipatoria, transformaciones sociales, disrupciones ambientales, resiliencia institucional y diseño de políticas adaptativas. 
+En estos talleres participan los gobiernos miembros, expertos temáticos, expertos internacionales en prospectiva, innovación, tecnología y políticas públicas, direcciones técnicas miembros de la OECD (Ciencia, Tecnología, Gobernanza, entre otras) y organismos multilaterales y think tanks asociados. Además, de estas instancias la unidad propone el desarrollo de ejercicios de forecasting colectivo y consultas intersectoriales.
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	Inclusión de la prospectiva en una institución articuladora.
+	•	Ejercicio de prospectiva como algo frecuente y que se propone para responder a las temáticas emergentes.
+	•	Uso de herramientas metodológicas que estructuran el funcionamiento, pero se adaptan a las diferentes temáticas e instancias de trabajo. 
+Colabora.Lat Asuntos del Sur
+Finalmente, se considera la iniciativa Colabora.Lat Asuntos del Sur, realizada a raíz de la pandemia del COVID-19 en el mundo. Esta estrategia buscó diseñar un nuevo modelo de gobernanza post COVID-19 en algunos países de América Latina, mediante el uso de metodologías de prospectivas para enfrentar problemas complejos, multidimensionales y de alta incertidumbre.
+La iniciativa buscó generar diagnósticos y escenarios futuros, proponer estrategias colaborativas de gobernanza democrática, fortalecer la legitimidad, efectividad y factibilidad de políticas públicas, y promover la inclusión, paridad de género y participación ciudadana de los países involucrados. 
+Colabora.Lat se desarrolló durante tres años (2021-2023) donde participaron más de 140 personas de America Latina. Las sesiones de trabajo se realizaron en los países de Argentina, Bolivia, Chile, Colombia, Guatemala y México, con la participación de representantes de sectores como la academia, sector público, sociedad civil y organismos multilaterales. 
+La metodología consistió en el despliegue de múltiples fases, que corresponden a: 
+	•	Definición del objeto de estudio, por medio de la selección temática crítica y formulación de preguntas prospectivas
+	•	Investigación y análisis preparatorio a través de entrevistas, talleres y recolección de datos
+	•	Construcción de escenarios
+	•	Divulgación, debate e incidencia por medio de mesas de discusión, publicación de documentos y recomendaciones políticas. 
+Para llevar a cabo esta experiencia se llevaron a cabo 14 sesiones de imaginación prospectiva entre los países participantes. Estas sesiones incluyeron el desarrollo de talleres con expertos, talleres con población objetivo -juventudes, funcionarios, sociedad civil-, entrevistas semiestructuradas y sesiones creativas para la construcción de escenarios. Se llevaron a cabo por medio de ciclos mensuales, con una planificación sugerida de 4 meses por escenario. Además, entre las temáticas abordadas destacan la participación política de juventudes, gobernanza de vacunas, salud pública, cooperación regional para el desarrollo sustentable, gobernanza democrática en contextos de crisis e inclusión y justica social. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	Ejercicios de prospectiva exploratoria centrada en escenarios posibles
+	•	Metodología multimodal, mezclando diversos recursos como talleres, entrevistas y análisis documental
+	•	Inclusión en el ejercicio de actores sociales generalmente no considerados en este tipo de ejercicios como lo son los representantes de la juventud
+	•	Uso de herramientas de planificación estratégica como FODA y matrices de escenarios. 
+Experiencias nacionales
+A continuación, se mencionan las experiencias nacionales que corresponden a referentes metodológicos en torno a ejercicios de prospectiva, como el que se realiza en el marco de Proyecta Chile 2050. La revisión e integración de estas experiencias a la propuesta refiere a la consideración de elementos transversales o únicos a estos procesos que mejoran un ejercicio de prospectiva. Lo anterior se consideró tanto para la consultoría elaborada, y el desarrollo de las mesas temáticas, así como la inclusión de estos elementos en la propuesta de Hoja de Ruta, que se presentan en las siguientes secciones de este informe. 
+Tenemos que hablar de Chile
+Una de las experiencias más significativas en participación ciudadana reciente en el país es la iniciativa “Tenemos que Hablar de Chile”, impulsada por la Universidad de Chile y la Pontificia Universidad Católica de Chile. Este proceso se configuró como un ejercicio nacional de escucha activa, colaboración interinstitucional y articulación territorial, en el contexto del proceso constituyente, y destacó por su capacidad de integrar diversas metodologías participativas, junto a espacios de sistematización y análisis apoyados por tecnologías de vanguardia. 
+El propósito de esta iniciativa fue promover el encuentro ciudadano, la cohesión social y la construcción de una ruta país compartida, a través de procesos de participación masiva, representativa y deliberativa. La iniciativa busca llevar la voz de la ciudadanía a las autoridades y actores responsables de la toma de decisiones, especialmente en contextos de transformación institucional como el proceso constituyente.
+Las actividades se desarrollaron de forma continua entre 2020 y 2024, con hitos específicos cada año. Se mantuvo una lógica de ciclos temáticos, que se fueron adaptando a las coyunturas como el proceso constituyente y las elecciones presidenciales. 
+En esta iniciativa participaron más de 300.000 personas de diferentes zonas geográficas del país. El perfil de los convocados y participantes fue amplio y variado, se invitó a la ciudadanía general, expertos, jóvenes, representantes territoriales y actores institucionales. Además, se buscó que existiera representatividad analítica en variables como género, edad, territorios e ingresos. 
+La metodología consistió en el despliegue de múltiples fases y acciones con diversa modalidades -híbridas, multicanal, multimodal, inclusiva- que correspondieron a: 
+	•	Conversaciones digitales autoconvocadas. 
+	•	Consultas ciudadanas abiertas. 
+	•	Cabildos temáticos (sobre sistema político, constitución, etc.). 
+	•	Chile a Escala: muestra representativa de 1 de cada 1.000 habitantes. 
+	•	Constitubot: chatbot informativo y participativo vía WhatsApp. 
+	•	Encuentros presenciales como el "Encuentro por Chile" en Estación Mapocho.
+Cada tipo de sesión que se menciona fue facilitada y contó con una guía metodológica, para asegurar su calidad deliberativa. Además, todas estas sesiones han sido acompañadas por procesos de sistematización y análisis, con informes entregados a autoridades y difundidos públicamente.
+Las temáticas tratadas fueron diversas, donde destacan los temas de constitución y sistema político, derechos sociales, desafíos del país hacia el futuro, identidad, cohesión social participación, educación, salud, medioambiente. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La importancia de combinar deliberación presencial, herramientas digitales y contenidos accesibles para llegar a audiencias diversas .
+	•	La validación de metodologías participativas híbridas como mecanismos legítimos de construcción colectiva de futuro. 
+	•	El rol de la tecnología en ampliar el acceso y sistematizar la voz ciudadana en tiempo real. 
+Política Nacional Minera 2050
+Otra referencia nacional y un antecedente metodológico relevante es la Política Nacional Minera 2050. Este proceso fue liderado por el Ministerio de Minería de Chile entre 2019 y 2021, en que se diseñó como un espacio de consulta y deliberación de alcance nacional, orientado a construir una visión compartida para el desarrollo futuro del sector minero. 
+Este proceso tuvo como propósito no solo fomentar el desarrollo sostenible e la industria minera y potenciar su contribución al país alineándola con los grandes desafíos del siglo XXI, sino que también establecer un nuevo contrato social entre la ciudadanía y la minería, así como construir una visión compartida de largo plazo en torno a la minería, convirtiéndola en un motivo de orgullo nacional. 
+Para la elaboración de esta Política participaron más de 3.500 personas, y el perfil de los participantes correspondió a representantes de la industria minera, gremios y asociaciones, organizaciones de la sociedad civil, pueblos originarios, miembros de la academia, servicios públicos y gobiernos locales y ciudadanía interesada en el desarrollo futuro de la minería. Además, este proceso buscó representatividad de género en su desarrollo, contando con más del 30% de participación femenina en las diferentes etapas. 
+Este proceso se llevó a cabo a través de diferentes fases, que corresponden a: 
+	•	Diagnóstico y análisis técnico
+	•	Evaluación ambiental estratégica
+	•	Diseño participativo
+	•	Redacción del documento base
+	•	Validación del documento y retroalimentación
+	•	Lanzamiento oficial (2021). 
+Este proceso participativo se extendió por dos años, por medio de sesiones de diferente tipo -presenciales y virtuales- en que destacan la realización de talleres, comisiones, encuentros y sesiones de trabajo en diferentes regiones del país. 
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La validación de procesos amplios de participación territorial y sectorial como base para políticas de Estado. 
+	•	El valor de una planificación con visión de futuro, basada en datos, consensos intersectoriales y estándares internacionales. 
+	•	La posibilidad de articular a múltiples actores en torno a desafíos estratégicos del país, integrando conocimiento técnico, gobernanza colaborativa y enfoques de sostenibilidad. 
+Política Energética Nacional 2050 (Actualización 2022)
+Finalmente, se consideró como referente metodológico de prospectiva el proceso de actualización de la Política Energética Nacional 2050, publicada en 2022 por el Ministerio de Energía. Este proceso constituye un ejercicio reciente de planificación estatal orientado a guiar la transición energética del país con una mirada estratégica, sustentable y participativa. Esta actualización se llevó a cabo en un contexto de aceleración del cambio climático, transformación productiva y demandas sociales por un desarrollo más equitativo e inclusivo, establecimiento una hoja de ruta con metas a 2030 y 2050. 
+El propósito de la actualización de esta Política corresponde a establecer protagonismo climático en las líneas de acción del sector energético; asegurar acceso equitativo a energías limpias, ciudades sustentables, transportes sostenibles y educación energética; así como establecer una nueva identidad productiva, lo que se vería reflejado en la transformación de la matriz productiva nacional. 
+Para la actualización de la Política participaron más de 1.300 personas en este proceso, y el perfil de los participantes correspondió a representantes del sector público y privad, sociedad civil, academia y pueblos indígenas. Se buscó que este proceso contara con enfoque de género y territorial, para hacerlo más representativo. 
+Para llevar a cabo esta actualización este proceso  se llevó a cabo a través de diferentes fases, que corresponden a: 
+	•	Diagnóstico del contexto energético y climático
+	•	Proceso participativo multiescalar
+	•	Mesas temáticas con expertos
+	•	Evaluación Ambiental Estratégica 
+	•	Redacción y validación del documento final. 
+Las metodologías utilizadas para este proceso tuvieron diferentes formatos, entre los que destacan: 
+	•	Realización de talleres regionales participativos realizados en todas las capitales regionales
+	•	Mesas temáticas (9) con 8 a 9 sesiones cada una. Las temáticas abordadas en estas mesas corresponden a Energía sin emisiones; Acceso equitativo y calidad de vida; Transporte sustentable; Educación energética; Desarrollo económico inclusivo; Capital humano; Sustentabilidad social y ambiental; Industria suficiente; Desarrollo local y descentralización. 
+	•	Comité consultivo, como instancia político-estratégico de validación
+	•	Coordinación interinstitucional con órganos del Estado en el marco de la Evaluación Ambiental Estratégica.
+Este proceso se caracterizó por ser un proceso participativo, descentralizado y con un carácter multiactoral. Además, la metodología se desarrolló en formatos presenciales y virtuales para garantizar la correcta ejecución.
+Elementos destacados y claves para Proyecta Chile 2050: 
+	•	La utilidad de procesos deliberativos para construir acuerdos de largo plazo en torno a desafíos estructurales. 
+	•	La importancia de establecer metas claras con indicadores de avance y monitoreo permanente. 
+	•	La necesidad de integrar múltiples escalas de participación para garantizar legitimidad, pertinencia territorial y sostenibilidad. 
+Proyecta Chile 2050
+Proyecta Chile también como un ejercicio de prospectiva, se presenta como un ejercicio que busca generar una hoja de ruta compartida y transversal para el desarrollo del país hacia el 2050, basado en la evidencia científica, consensos multisectoriales y participación activa de actores relevantes. Proyecta Chile 2050 permite que estas ideas, consensos e información levantada incida en la agenda pública y de gobierno. 
+Proyecta Chile 2050 es una propuesta impulsada por todo el ecosistema de educación superior, sector público y privado. De esta iniciativa participan diferentes actores, que a su vez tienen distintos roles dentro de este proceso. 
+Este proceso se estructura en base a diferentes fases, que corresponden a:
+	•	Selección de temática crítica por actores de Proyecta Chile 2050.
+	•	Convocatoria de comité de expertos para reflexión inicial.
+	•	Presentación a Consejo de Rectoras/es y Academia Chilena de Ciencias.
+	•	Inicio de trabajo de submesas: 
+	•	Priorización de temáticas.
+	•	Sesiones de expertos.
+	•	Construcción de propuestas.
+	•	Votación (80% de aprobación).
+	•	Validación final por sectores.
+	•	Bosquejo del documento.
+	•	Trabajo del Petit Comité: integración final multisectorial.
+	•	Edición e impresión del documento por Biblioteca del Congreso Nacional y FEF.
+	•	Cierre: evaluación de impacto y proyección de futuras iniciativas.
+
+El trabajo de las submesas, como elemento central de Proyecta Chile 2050, se desarrolla en torno a sesiones de 90 minutos, con una frecuencia que generalmente es semanal, de manera virtual, durante un total de 10 a 14 semanas. 
+Estas sesiones responden a una estructura preestablecida, que 
+¿Cuál es la experiencia de Proyecta Chile en el desarrollo de análisis de prospectiva y elaboración de propuestas articuladas en hojas de ruta?
+	•	Análisis del estado actual de Proyecta Chile en relación a sus desafíos (brechas, oportunidades de mejora).
+Análisis comparativo
+A con
+	•	¿En qué medida lo presentado se asemeja/diferencia de lo realizado por Proyecta Chile y sus aspiraciones futuras?
+	•	¿Qué aspectos de estas experiencias son rescatables, dadas las características de Proyecta Chile (trayectoria pasada, experiencia, capacidades, capital social, aspiraciones, etc.)? ¿Por qué?
+Iniciativa
+Propósito
+Metodología
+Tipo de participantes
+Periodicidad
+Proyecta Chile 2050
+Construir hoja de ruta país hacia 2050 con participación multisectorial y evidencia científica.
+	•	Mesas temáticas, sub-mesas
+	•	Uso de IA para sistematización
+	•	Validación por sectores
+	•	Participación de un Petit Comité.
+Representantes del sector público, privado, academia, sociedad civil, expertos, Consejo de Rectoras/es.
+	•	10 Sesiones semanales 
+	•	Ciclo 2025 con proyección a replicarse en futuros ciclos presidenciales.
+
+Política Nacional Minera 2050
+Desarrollar una política de Estado para una minería sostenible, inclusiva y competitiva.
+	•	Evaluación Ambiental Estratégica
+	•	Realización de talleres 
+	•	Conformación de comisiones
+	•	Validación multiactor.
+Representantes de la Industria, gremios, pueblos originarios, academia, ciudadanía, servicios públicos.
+Proceso de 2 años.
+Política Energética Nacional 2050
+Transformar el sistema energético hacia la carbono neutralidad y equidad territorial.
+	•	Talleres regionales
+	•	Mesas temáticas
+	•	Evaluación Ambiental Estratégica
+	•	Comité consultivo
+	•	Enfoque territorial.
+Representantes de la ciudadanía, sector público y privado, pueblos indígenas, academia.
+Actualización cada 5 años (última en 2022).
+Tenemos que Hablar de Chile
+Promover cohesión social y visión compartida mediante participación ciudadana masiva.
+	•	Conversaciones digitales
+	•	Cabildos
+	•	Consultas, Chile a Escala, Constitubot.
+Representantes de ciudadanía general, expertos, jóvenes, actores institucionales.
+Ciclos temáticos desde 2020; adaptado a coyunturas nacionales.
+España 2050
+Diseñar una estrategia nacional de largo plazo basada en evidencia y diálogo experto.
+	•	Diagnóstico histórico
+	•	Análisis comparado
+	•	Metas cuantificables
+	•	Propuestas.
+Expertos/as, ministerios, AIReF, Banco de España, JRC UE.
+Documento estratégico con horizonte 2050; sujeto a actualización futura.
+Project Ireland 2040
+Guiar el desarrollo territorial y la inversión pública de forma integrada y sostenible.
+	•	Elaboración de National Planning Framework 
+	•	Elaboración de National Development Plan
+	•	Realización consultas públicas.
+Representantes del gobierno central, gobiernos locales, sector privado, ciudadanía.
+Revisión del NDP cada 5 años; horizonte 2040.
+Australian National Outlook 2019
+Explorar escenarios futuros para Australia y proponer rutas hacia un desarrollo sostenible.
+	•	Modelamiento científico
+	•	Talleres estratégicos
+	•	Construcción de escenarios.
+CSIRO, empresas, academia, sociedad civil, think tanks.
+Informe 2019 como segunda edición; sin frecuencia fija.
+OECD Strategic Foresight Unit
+Apoyar políticas públicas resilientes mediante prospectiva estratégica y gobernanza anticipatoria.
+	•	Análisis de señales
+	•	Escenarios
+	•	Stress-testing de políticas
+	•	Toolkit prospectivo.
+Gobiernos OCDE, expertos, direcciones técnicas, multilaterales.
+Unidad permanente; proyectos según temas emergentes.
+Colabora.Lat – Asuntos del Sur
+Diseñar modelos de gobernanza post-COVID con enfoque prospectivo e inclusivo.
+	•	Escenarios
+	•	Talleres
+	•	Entrevistas
+	•	Narrativas de futuro
+	•	Análisis FODA.
+Academia, sector público, sociedad civil, juventudes, multilaterales.
+Proyecto 2021–2023; replicable en futuras crisis.
+
+Modelo
+Áreas
+El modelo propuesto se organiza en torno a tres áreas funcionales complementarias: Área Política, Área Técnica y Área de Desarrollo de Contenidos. Esta organización responde a un análisis de las funciones esenciales que deben cubrirse para el funcionamiento integral de Proyecta Chile 2050, más que a una prescripción rígida de estructura organizacional.
+Las áreas descritas representan conjuntos de funciones y responsabilidades que pueden implementarse de diversas formas según la realidad institucional de la Fundación Encuentros del Futuro. No es necesario que estas tres áreas se traduzcan en tres equipos separados, tres departamentos o tres líneas jerárquicas independientes. En otras palabras, la Fundación tiene autonomía para determinar: si las áreas se constituyen como equipos separados o funciones distribuidas en su estructura existente; qué roles específicos asume cada función descrita; cómo se nombran y organizan internamente las responsabilidades; y qué mecanismos concretos de coordinación se establecen entre áreas. Lo esencial es garantizar que las funciones asociadas a cada área estén cubiertas y que exista claridad sobre quién las asume.
+Lo que el modelo sí prescribe son: las funciones esenciales que deben cubrirse, los principios de coordinación entre áreas, los flujos de trabajo críticos (especialmente para el Área de Desarrollo de Contenidos), y los estándares de calidad y rigor metodológico que deben mantenerse.
+Independientemente de cómo se implementen las áreas, debe existir coordinación fluida entre ellas mediante: instancias periódicas de reunión entre responsables de cada área, flujos de información claros y oportunos, protocolos de decisión ante tensiones o prioridades en conflicto, y una cultura de colaboración que privilegie objetivos institucionales sobre autonomías de área. El modelo asume que las tres áreas operan de manera integrada y complementaria, no como silos independientes.
+Las Áreas Política y Técnica (secciones 3.1.1 y 3.1.2) se describen solo a nivel de funciones generales, sin detallar equipos, roles específicos ni procesos operativos. La Fundación determina su implementación según su contexto institucional. Algunas de estas funciones ya existen en FEF, otras requieren desarrollo.
+El Área de Desarrollo de Contenidos (sección 3.1.3, profundizada en 3.2 y 3.3) se describe con mayor nivel de detalle: funciones, equipos, roles y procesos. Esta focalización se justifica porque es el núcleo operativo del modelo y donde se concentra la innovación metodológica propuesta por esta consultoría. Es también el área donde se identificaron mayores oportunidades de mejora a partir de los aprendizajes de la experiencia.
+El diseño de estas tres áreas responde a principios fundamentales de la prospectiva estratégica desarrollados en la sección anterior:
+	•	Integración de anticipación y acción (Godet, 2007): Las Áreas Técnica y Política anticipan mediante horizon scanning, mientras el Área de Contenidos ejecuta la producción de análisis prospectivos
+	•	Rigor metodológico y participación (OCDE, UNESCO): El Área Técnica garantiza estándares internacionales, mientras el Área de Contenidos facilita procesos altamente participativos con expertos y stakeholders
+	•	Incidencia en políticas públicas (CEPAL): El Área Política lidera la función de influencia en agenda pública y gobierno, articulando conocimiento técnico con estrategia política
+Esta propuesta de áreas y funciones se fundamenta en los aprendizajes de la consultoría 2025, que evidenció algunas oportunidades de mejora, dentro de las cuales se encuentran la separación de funciones de aseguramiento de calidad; la gestión estratégica de red de expertos como función permanente e institucional, no ad-hoc por mesa; la coordinación clara entre generación sostenida de Policy Papers y elaboración periódica de Hojas de Ruta; y la criticidad de roles específicos como el Coordinador de Contenidos, cuya ausencia en la iteración actual generó dificultades asociadas a la sedimentación del conocimiento e identificación de resonancias entre mesas.
+El modelo articula la producción de dos tipos de productos diferenciados:
+	•	Policy Papers: Documento que resume de manera concisa información fundamentada en evidencia con el propósito de asistir en la toma de decisiones sobre políticas públicas. En el contexto de prospectiva estratégica, los policy papers integran análisis de futuros posibles con recomendaciones de largo plazo, fundamentados en evidencia actual y explorando escenarios divergentes (OECD, 2023). Estos documentos son producidos continuamente por el Área de Contenidos a partir del trabajo de mesas temáticas y están dirigidos a especialistas y tomadores de decisión.
+	•	Hoja de Ruta Documento estratégico elaborado cada 4 años, que integra y sintetiza los contenidos provistos por los Policy Papers acumulados. Dirigido a ciudadanía en general y al mundo político en específico, su intención es posicionarse como una carta de navegación para el país. A diferencia de los Policy Papers, en la Hoja de Ruta se privilegia el storytelling político, permitiéndose hacer énfasis, priorizaciones y selecciones estratégicas de las propuestas generadas en los Policy Papers.
+La articulación entre ambos productos está inspirada en mejores prácticas internacionales, particularmente el modelo finlandés de prospectiva gubernamental. Finlandia ha institucionalizado un sistema de prospectiva que combina producción continua de análisis temáticos mediante comités sectoriales de expertos (análogos a las mesas temáticas de Proyecta Chile) con síntesis periódicas de gobierno que integran estos análisis en documentos estratégicos de incidencia política (Government Foresight Reports cada período legislativo). Este modelo permite acumulación sistemática de conocimiento prospectivo sectorial que periódicamente se articula en narrativas integradoras para orientar la acción gubernamental de largo plazo (Oficina del Primer Ministro de Finlandia, 2023). Proyecta Chile 2050 adapta este principio mediante la producción continua de Policy Papers temáticos y su integración cuatrienal en Hojas de Ruta alineadas con el ciclo político-electoral chileno.
+Las descripciones que siguen utilizan un tono prescriptivo para comunicar con claridad la propuesta. Este tono debe interpretarse dentro del marco metodológico aquí establecido: se describe cómo debería funcionar el modelo si se implementa según esta propuesta, con el entendimiento de que la Fundación puede adaptar la implementación a su realidad institucional siempre que las funciones esenciales queden cubiertas y los principios de coordinación se respeten.
+Dimensión
+Área Política
+Área Técnica
+Área de Desarrollo de Contenidos
+Función principal
+Dirección estratégica e incidencia política
+Aseguramiento de calidad y rigor metodológico
+Producción de análisis prospectivos
+Responsabilidad clave
+Decidir qué y cuándo convocar mesas; liderar Hoja de Ruta
+Definir estándares y validar productos
+Operar mesas temáticas; generar Policy Papers
+Horizon scanning
+Señales políticas (clima político, ventanas de oportunidad)
+Señales técnicas (evidencia, criterios de reapertura)
+No aplica directamente
+Producto principal
+Hoja de Ruta periódica (cada 4 años)
+Estándares de calidad y validaciones
+Policy Papers (producción continua)
+Audiencia
+Ciudadanía y mundo político
+Equipos internos y mesas temáticas
+Especialistas y tomadores de decisión
+Nivel de detalle en modelo
+Solo funciones generales
+Solo funciones generales
+Funciones + equipos + procesos (3.2 y 3.3)
+Estado actual en FEF
+Algunas funciones existen
+No existe (necesidad identificada)
+Existe (Coordinador/a General lidera)
+Relación con pluralismo
+Supervisa diversidad política de mesas
+Define estándares de rigor
+Reporta composición de mesas
+Autoridad
+Decisión final en conflictos y convocatorias
+Validación técnica de productos
+Control de fidelidad de Policy Papers
+
+	•	Área Política
+El Área Política constituye la cabeza estratégica de Proyecta Chile 2050, responsable de definir la dirección de la organización, tomar decisiones sobre qué y cuándo convocar mesas temáticas, y liderar la elaboración periódica de las Hojas de Ruta que buscan incidir en la agenda pública y de gobierno. Es también la instancia de autoridad final ante conflictos entre áreas o procesos.
+Funciones principales
+Dirección estratégica. El Área Política define hacia dónde se dirige la organización y cuáles son las prioridades de largo plazo de Proyecta Chile 2050, asegurando coherencia entre la producción de análisis prospectivos y los objetivos de incidencia política de la Fundación.
+Horizon scanning político. Esta área realiza un monitoreo continuo de señales políticas del entorno, identificando ventanas de oportunidad para incidir en la agenda pública, detectando necesidades emergentes en el contexto político nacional e internacional, y tomando determinaciones sobre la convocatoria o reapertura de mesas temáticas.
+Decisión de convocatoria de mesas. El Área Política determina cuándo y qué mesas abrir o reabrir, considerando tanto las señales del horizon scanning político (clima político, oportunidades de incidencia) como las señales del Área Técnica (cumplimiento de criterios técnicos de reapertura). Cuando señales de ambas áreas convergen en una misma temática, esto robustece el argumento de convocatoria. La decisión final es prerrogativa del Área Política.
+Liderazgo en la elaboración de la Hoja de Ruta. El Área Política coordina la elaboración de la Hoja de Ruta cada 4 años, siendo responsable del storytelling integrador dirigido a la ciudadanía y el mundo político. Para ello, lidera un equipo de escritura colaborativo que puede incluir periodistas, editores de la Fundación o colaboradores externos. Integra los insumos provistos por el Área de Contenidos, toma las decisiones finales sobre énfasis, priorizaciones y selección de contenidos, y asegura la publicación del documento 9-12 meses antes de la primera vuelta presidencial para maximizar su incidencia.
+Resguardo del pluralismo político. Dada su función de incidencia, el Área Política debe velar por la transversalidad y diversidad política en la composición de las mesas temáticas. Si bien no ejecuta la convocatoria específica (función del Área de Contenidos), sí supervisa la composición general de las mesas, monitorea que los criterios de diversidad y heterogeneidad se cumplan, y recibe reportes regulares del Área de Contenidos sobre la composición resultante de cada mesa.
+Gestión de red de expertos como prioridad estratégica institucional
+El pluralismo político y la validación transversal de las recomendaciones de Proyecta Chile 2050 dependen críticamente de la gestión estratégica de la red de expertos. Esta función debe constituirse como una prioridad institucional permanente, no limitada a ciclos específicos de mesas, sino como un activo estratégico de largo plazo de la Fundación.
+Función permanente de identificación y cultivo. La Fundación debe sistematizar y mantener actualizada una base de actores relevantes por temática, reconociendo que estos actores cambian en el tiempo y que nuevos expertos emergen continuamente. Las actividades clave incluyen: elaboración continua de listados (mapeo de redes) de instituciones, comunidades y especialistas potenciales; difusión de convocatorias abiertas mediante boletines, redes sociales y organizaciones aliadas; y actualización dinámica de la base de expertos.
+Perfilamiento sistemático para garantizar diversidad. Un elemento central de esta gestión es el perfilamiento sistemático de expertos según categorías de diversidad establecidas por la Fundación. Este perfilamiento permite promover la diversidad en la composición de las mesas temáticas, constituyendo una estrategia fundamental para asegurar la transversalidad política de las propuestas generadas.
+La Fundación debe establecer categorías explícitas para caracterizar a los expertos, incluyendo al menos:
+	•	Tendencia política: Identificación de orientación política del experto
+	•	Sector de procedencia: Público, privado, académico, sociedad civil, otros
+	•	Especialidad temática: Áreas de expertise específicas
+	•	Otras categorías relevantes que FEF determine según sus objetivos de pluralismo
+Esta categorización debe aplicarse de manera consistente en la identificación y perfilamiento de todos los expertos que integran la red de Proyecta Chile 2050.
+Monitoreo de diversidad en composición de mesas. El Área de Contenidos reporta periódicamente al Área Política sobre la composición de cada mesa según las categorías establecidas, permitiendo identificar desequilibrios o sesgos. El Área Política supervisa que se mantenga la heterogeneidad en todas las mesas, pudiendo solicitar ajustes cuando detecta desequilibrios significativos.
+Ubicación institucional sugerida. Se sugiere ubicar esta función en el Área Política, por coherencia con sus responsabilidades de horizon scanning político, decisión de convocatoria y cultivo de relaciones estratégicas de largo plazo. La coordinación con el Área de Contenidos es esencial: el Área Política mantiene la base de expertos perfilados y define parámetros de diversidad para cada mesa; el Área de Contenidos ejecuta la convocatoria específica usando la base disponible.
+Recomendación crítica: La Fundación debe institucionalizar esta función asignándola a un área o rol específico con dedicación continua (no esporádica). La experiencia evidencia que la ausencia de gestión sistemática de red de expertos dificulta garantizar diversidad y anticipación en la convocatoria.
+Sugerencia de implementación: Consejo Asesor Político
+En línea con el espíritu colaborativo y participativo de la Fundación, se sugiere considerar la conformación de un Consejo Asesor Político con función específica de complementar el horizon scanning político del Área Política. Este consejo podría operar mediante reuniones semestrales, con composición pluralista (actores de diversas perspectivas políticas), para retroalimentar la lectura política interna de FEF con miradas externas diversas. Su objetivo sería enriquecer la identificación de señales políticas que permitan priorizar la convocatoria de mesas en momentos estratégicos.
+	•	Área Técnica
+El Área Técnica es el garante de calidad metodológica y rigor científico de los productos de Proyecta Chile 2050. Su función esencial es definir estándares de calidad para todos los productos (finales e intermedios), validar que los documentos cumplan con criterios internacionales de prospectiva estratégica, y monitorear señales técnicas que fundamenten decisiones de reapertura de mesas.
+Funciones principales
+Definición de estándares de calidad. El Área Técnica establece parámetros de calidad para productos finales (Policy Papers) y productos intermedios (actas de sesiones, documentos de visión, diagnósticos, propuestas). Define criterios específicos de calidad, especifica formatos y estructuras (por ejemplo, la estructura de actas por cada tipo de sesión), los cuales están disponibles antes del comienzo de las actividades de las mesas.
+Validación de productos terminados. Una vez finalizados los ciclos de mesa, el Área Técnica revisa los productos finales antes de su publicación, contrastándolos con los criterios de calidad establecidos. Esta validación asegura que los Policy Papers cumplan con estándares internacionales de documentos prospectivos.
+Horizon scanning técnico. El Área Técnica monitorea continuamente señales técnicas basadas en los criterios de reapertura que define cada mesa temática al concluir su ciclo. Identifica cambios relevantes en evidencia científica, contexto sectorial o tendencias técnicas que sugieran la necesidad de reabrir una mesa. Emite señales que el Área Política considera al tomar decisiones de convocatoria o reapertura.
+Respaldo científico. Transversalmente, el Área Técnica asegura el rigor metodológico y la fundamentación empírica del sistema completo, aportando expertise en prospectiva estratégica que fortalece la credibilidad y legitimidad técnica de Proyecta Chile 2050.
+Flujo de aseguramiento de calidad
+El flujo de aseguramiento de calidad integra las funciones del Área Técnica con las del Área de Contenidos de la siguiente manera:
+	•	El Área Técnica define criterios de calidad y formatos (antes del inicio de las mesas)
+	•	El Área de Contenidos (Coordinador de Mesas + Facilitadores) guía a las mesas para completar las estructuras definidas
+	•	El Área de Contenidos (Coordinador de Contenidos) revisa productos intermedios y verifica cumplimiento de estándares
+	•	Si hay brechas: el Coordinador de Contenidos informa al Coordinador de Mesas, quien se coordina con Facilitadores para realizar las mejoras necesarias
+	•	El Área Técnica valida productos finales antes de su publicación
+Implementación sugerida
+Perfil requerido. Se requiere un especialista en prospectiva estratégica con expertise metodológico, experiencia en diseño y aseguramiento de calidad de procesos prospectivos, y conocimiento de estándares internacionales en productos de prospectiva. No se requiere expertise temática en áreas específicas de las mesas (salud, educación, etc.), pues su función se centra en la calidad metodológica, no en el contenido sustantivo. Esta persona debe trabajar constantemente en conjunto con FEF (no esporádicamente).
+Modalidad de implementación. Se sugieren dos opciones: (1) Contratación interna de un especialista en prospectiva, recomendado para asegurar continuidad; o (2) Externalización inicial mediante convenio con universidad o panel académico, para evaluar la necesidad antes de internalizar. La sugerencia es comenzar por externalización y evaluar la necesidad de internalización según el volumen de trabajo que demande el sistema.
+	•	Área de Desarrollo de Contenidos
+El Área de Desarrollo de Contenidos es el núcleo operativo del modelo, responsable de la producción continua de análisis prospectivos mediante mesas temáticas, la generación de Policy Papers como documentos técnicos especializados, y la provisión de insumos estructurados para la elaboración periódica de las Hojas de Ruta.
+Funciones principales
+Producción continua de documentos temáticos (Policy Papers). Esta área opera bajo los estándares definidos por el Área Técnica para ejecutar mesas temáticas según programas metodológicos validados. Genera Policy Papers como productos técnicos dirigidos a especialistas y tomadores de decisión. La capacidad operativa recomendada es de 3-6 mesas simultáneas, evitando la sobrecarga que dificulta el aseguramiento de calidad.
+Provisión de insumos para Hoja de Ruta periódica. El Área de Contenidos provee contenidos estructurados al Área Política para la elaboración de la Hoja de Ruta cada 4 años. Realiza análisis de contenido entre Policy Papers para identificar resonancias temáticas, convergencias y tensiones entre propuestas de diferentes mesas. Actúa como garante de fidelidad, verificando que los contenidos de las mesas no se deformen en el proceso de redacción de la Hoja de Ruta. Participa en el equipo de escritura colaborativo y se pronuncia ante desviaciones significativas respecto a propuestas originales, aunque no tiene poder de veto sobre decisiones finales del Área Política.
+Gestión operativa de convocatoria. Ejecuta la convocatoria específica de participantes para cada mesa, utilizando la base de expertos perfilados que mantiene el Área Política. Reporta la composición resultante al Área Política para supervisión de heterogeneidad y balance político.
+Profundización en secciones siguientes
+Esta área se profundiza significativamente en las secciones 3.2 (Equipos) y 3.3 (Procesos), donde se detallan los roles específicos, las dinámicas de coordinación interna y los flujos de trabajo para la producción de Policy Papers y la colaboración en Hojas de Ruta.
+La focalización en esta área se justifica porque es el corazón operativo del modelo y donde se concentra la innovación metodológica propuesta por esta consultoría. Es también el área donde se identificaron las mayores oportunidades de mejora a partir de los aprendizajes de la experiencia. Solo para esta área se detallan equipos, roles y procesos específicos; para las Áreas Política y Técnica solo se describen funciones, dejando la implementación a determinación de la Fundación.
+	•	Coordinación Inter-Áreas
+Horizon scanning como función transversal
+El horizon scanning es una tarea continua que cada área realiza según su ámbito de competencia. El Área Política monitorea continuamente señales políticas (clima político, ventanas de oportunidad, cambios en agenda pública). El Área Técnica monitorea continuamente señales técnicas (nuevas evidencias científicas, cambios en tendencias sectoriales, cumplimiento de criterios de reapertura definidos por mesas). Cada área define internamente cómo organiza esta función, sin prescripción de roles específicos desde el modelo.
+Instancia de coordinación trimestral
+Para articular el horizon scanning distribuido y tomar decisiones sobre convocatoria de mesas, se propone una instancia de coordinación trimestral entre las tres áreas con el siguiente propósito: determinar la cola de convocatoria de mesas para los meses siguientes.
+La dinámica de estas reuniones trimestrales incluye: (1) cada área presenta las señales identificadas en el trimestre; (2) se exponen los medios de verificación de cada señal; (3) se argumenta la importancia y urgencia de cada señal; (4) se discute conjuntamente para priorizar qué mesas convocar o reabrir; (5) se actualiza la cola de convocatoria; y (6) se anticipa la composición de las próximas mesas para asegurar participantes con tiempo suficiente. La decisión final sobre cuándo y qué mesas convocar o reabrir es prerrogativa del Área Política.
+	•	Síntesis: Integración del Modelo de Áreas
+El modelo de tres áreas (Política, Técnica, Desarrollo de Contenidos) responde a la necesidad de diferenciar funciones esenciales que, operando de manera coordinada, permiten a Proyecta Chile 2050 producir análisis prospectivos rigurosos, metodológicamente sólidos y políticamente relevantes.
+La articulación temporal entre producción continua (mesas temáticas generando Policy Papers) e integración periódica (Hojas de Ruta cada 4 años) está coordinada por el Área Política, que lidera la síntesis política-estratégica del trabajo continuo del Área de Contenidos, con validación técnica del Área Técnica.
+La diferenciación de productos (Policy Papers técnicos para especialistas vs. Hoja de Ruta estratégica para ciudadanía y política) permite maximizar tanto el rigor técnico como la incidencia política. La publicación completa de los Policy Papers genera trazabilidad y ofrece acceso a distintos niveles de profundidad de descripción de las propuestas generadas por Proyecta Chile.
+La colaboración tripartita en la elaboración de la Hoja de Ruta (Área Política coordina escritura, Área Técnica supervisa estándares, Área de Contenidos promueve fidelidad de las propuestas) equilibra storytelling político, rigor metodológico y representación fiel del trabajo de las mesas expertas. El Área Política retiene autoridad final para decisiones, con conciencia de potenciales desviaciones y bajo el mecanismo de control que representa la verificación pública posible mediante los Policy Papers publicados.
+Esta arquitectura de áreas, inspirada en mejores prácticas internacionales y fundamentada en aprendizajes de la experiencia, provee a Proyecta Chile 2050 de una estructura funcional robusta, flexible en su implementación pero clara en sus principios, capaz de sostener la producción de conocimiento prospectivo de largo plazo con incidencia efectiva en políticas públicas.
+
+	•	Area de Desarrollo de Contenidos: Equipo 
+El Área de Desarrollo de Contenidos opera mediante una estructura de equipos que integra coordinaciones internas de la Fundación, participantes expertos y actores externos, articulando capacidades técnicas, facilitación metodológica y conocimiento especializado para producir documentos temáticos de alta calidad basados en procesos prospectivos rigurosos.
+	•	Coordinaciones
+La operación del Área de Desarrollo de Contenidos requiere tres funciones de coordinación diferenciadas y complementarias, cada una enfocada en una dimensión específica del trabajo: la visión integral del proyecto, la calidad de los procesos participativos, y la sedimentación y articulación de contenidos producidos. Estas tres coordinaciones deben ser asumidas por personas distintas para asegurar especialización, evitar sobrecarga de funciones y garantizar que cada dimensión reciba la atención y el expertise necesarios. Esta separación de roles permite además distribuir responsabilidades de manera que el sistema pueda operar con múltiples mesas temáticas simultáneas (entre 3 y 6) manteniendo estándares de calidad consistentes.
+Coordinador General
+El Coordinador General del Área de Desarrollo de Contenidos tiene como función principal velar por el avance integral del trabajo de las mesas y elaboración de sus productos, asegurando coherencia entre los distintos procesos involucrados. Este rol implica mantener una visión sistémica del conjunto de mesas temáticas activas, sus estados de avance, sus interrelaciones potenciales, y su alineación con los objetivos estratégicos de Proyecta Chile 2050. El Coordinador General opera como articulador entre el Área de Desarrollo de Contenidos y las otras dos áreas del modelo (Área Política y Área Técnica), facilitando la comunicación, coordinación de decisiones sobre convocatorias de nuevas mesas, y resolución de tensiones operativas que puedan surgir.
+Funcionalmente, es probable que este rol sea asumido por quien dirige el Hub de Políticas Públicas de la Fundación o una posición equivalente, dada la centralidad de Proyecta Chile 2050 en la estrategia institucional. Sin embargo, el modelo no prescribe una estructura organizacional específica para la Fundación, reconociendo que esta decisión corresponde a la propia FEF según su realidad institucional, recursos disponibles y forma de operar.
+Coordinador de Mesas
+El Coordinador de Mesas tiene como foco principal asegurar el correcto despliegue del proceso que le permite a las mesas temáticas generar sus respectivos Policy Papers, es decir, garantizar que las sesiones de trabajo ocurran según el programa metodológico establecido, que los procesos participativos sean rigurosos y efectivos, y que la experiencia de los participantes sea de alta calidad. Este rol no implica acompañar el detalle operativo de cada mesa individual—lo cual sería inviable con 3 a 6 mesas operando simultáneamente—sino coordinar a escala mediante el liderazgo, capacitación y monitoreo del equipo de facilitadores que ejecutan directamente las sesiones.
+Las funciones específicas del Coordinador de Mesas incluyen: reclutamiento y selección de facilitadores con el perfil adecuado para procesos prospectivos participativos; capacitación inicial y continua de facilitadores en la metodología de Proyecta Chile y en técnicas de facilitación para grupos de expertos; desarrollo de materiales de trabajo para las sesiones (guiones de sesión, tableros Miro, presentaciones, herramientas metodológicas, etc.); monitoreo del desempeño de facilitadores mediante observación directa o indirecta de sesiones, revisión de registros, y retroalimentación de participantes; intervención cuando sea necesario para resolver problemas metodológicos o de dinámica grupal; y aseguramiento de que cada mesa mantenga niveles altos de participación y compromiso de sus integrantes.
+Este rol fue cumplido durante la consultoría actual en forma conjunta por un miembro del equipo de Grupo Educativo y las coordinadoras del HUB de Políticas Públicas. Esta experiencia permitió desarrollar aprendizajes significativos sobre la importancia de contar con facilitadores bien capacitados, materiales preparados con anticipación, y mecanismos de coordinación ágiles para responder a las necesidades diferenciadas de mesas con temáticas y dinámicas diversas.
+Coordinador de Contenidos
+El Coordinador de Contenidos es un rol nuevo que no existió en la iteración actual de Proyecta Chile, pero cuya necesidad se hizo notar. Durante el proceso de elaboración del Documento de Recomendaciones a Candidaturas Presidenciales 2025, la ausencia de una persona dedicada sistemáticamente a la sedimentación de contenidos y la identificación de articulaciones transversales generó desafíos operativos significativos: dificultades para mantener registro estructurado del avance de cada mesa, pérdida de oportunidades para identificar resonancias entre mesas que trabajaban temas aparentemente distintos, y sobrecarga de trabajo en momentos críticos de síntesis para la elaboración del documento final.
+El Coordinador de Contenidos tiene como foco principal asegurar la calidad del OUTPUT de las mesas temáticas, complementando el trabajo del Coordinador de Mesas. Mientras este último se enfoca en que las sesiones ocurran bien, el Coordinador de Contenidos se enfoca en que lo producido en esas sesiones se capture, estructure, sedimente y articule de manera que genere productos de alta calidad y se identifiquen conexiones entre mesas. Este rol opera en tres dimensiones temporales y una espacial:
+	•	Trabajo vertical (por mesa individual): El Coordinador de Contenidos es responsable de garantizar la elaboración y validación sistemática de los productos que generan las mesas temáticas a lo largo del ciclo de trabajo. Esto implica: verificar que cada sesión genere registros adecuados según los criterios de calidad establecidos por el Área Técnica; transformar esos registros en documentos intermedios que capturen decisiones, consensos, disensos y avances de cada etapa del proceso prospectivo (visión, escenarios, diagnóstico, propuestas); asegurar que estos documentos intermedios sean validados por los participantes de la mesa antes de avanzar a la siguiente etapa; e integrar progresivamente estos insumos en el documento temático final que constituye el producto de la mesa. Este trabajo vertical evita que la producción del documento final sea una tarea abrumadora al término del proceso, distribuyendo el esfuerzo de síntesis a lo largo de todo el ciclo.
+	•	Trabajo horizontal (entre mesas): El Coordinador de Contenidos identifica y documenta resonancias transversales entre las distintas mesas temáticas, incluso cuando trabajan temas aparentemente muy distintos. Esta función se apoya en los ejes transversales basados en las megatendencias de la Fundación, que funcionan como lentes analíticos para detectar patrones recurrentes, tensiones compartidas, y oportunidades de sinergia entre propuestas de distintas mesas. Por ejemplo, múltiples mesas pueden identificar la transformación digital como habilitador crítico de sus propuestas, o pueden coincidir en señalar barreras regulatorias similares en sus diagnósticos. El Coordinador de Contenidos documenta estas resonancias, las comunica a las mesas relevantes para enriquecer mutuamente su trabajo, y genera productos de síntesis transversal que serán insumos fundamentales para la elaboración de la Hoja de Ruta. Este trabajo horizontal es posible mediante análisis temático sistemático de los documentos de las mesas, uso de herramientas de inteligencia artificial para análisis de texto a escala, y matrices de cruces entre mesas y ejes transversales.
+	•	Trabajo temporal (sincrónico y asincrónico): El Coordinador de Contenidos opera tanto sincrónicamente—trabajando con las 3 a 6 mesas que están activas simultáneamente en un momento dado—como asincrónicamente—reconociendo que cuando nuevas mesas se activan en ciclos posteriores, sus contenidos pueden enriquecer y actualizar los cruces transversales identificados previamente, y que documentos de mesas previas deben estar accesibles y bien organizados para informar el trabajo de nuevas mesas sobre temas relacionados.
+Además de estas tres dimensiones de trabajo sustantivo, el Coordinador de Contenidos cumple funciones de aseguramiento de calidad y comunicación institucional: reporta periódicamente al Área Técnica sobre la calidad de los productos que se están generando, identificando tempranamente si alguna mesa presenta dificultades que requieran intervención; genera documentos de síntesis para las propias mesas (para que puedan verse reflejadas en productos intermedios claros) y para las otras áreas (particularmente el Área Política, proveyéndoles visibilidad de lo que sucede en las mesas sin que deban monitorearlo directamente); y mantiene un sistema de gestión del conocimiento que asegure que todo lo producido esté adecuadamente documentado, organizado y accesible.
+Este rol es crítico en dos momentos del ciclo de Proyecta Chile: durante la operación continua con 3 a 6 mesas temáticas activas, donde el trabajo vertical y horizontal debe ocurrir permanentemente; y durante la preparación de la Hoja de Ruta periódica (cada 4 años), donde el trabajo previo de identificación de resonancias y sedimentación de contenidos permite que el Área Política pueda liderar la elaboración del documento integrador con insumos ya pre-digeridos y estructurados, en lugar de enfrentar la tarea imposible de sintetizar desde cero el trabajo de múltiples mesas en un plazo acotado.
+	•	Participantes Directos
+El trabajo sustantivo de las mesas temáticas es realizado por tres tipos de participantes directos que se involucran de manera continua durante el ciclo de trabajo de la mesa (típicamente 5 a 6 meses).
+Facilitadores
+Los facilitadores son profesionales provistos por la Fundación Encuentros del Futuro, que tienen como función liderar y acompañar a las mesas temáticas en el desarrollo del programa metodológico en cada mesa temática. El facilitador acompaña a la mesa a lo largo de todo su ciclo, adaptando técnicas y herramientas a las características específicas del grupo y del tema.
+Los facilitadores son gestionados y capacitados por el Coordinador de Mesas, quien asegura que cuenten con las competencias necesarias para facilitar procesos prospectivos participativos con grupos de expertos: manejo de dinámicas grupales, conocimiento de la metodología de Proyecta Chile, capacidad de gestionar disensos constructivamente, y habilidad para mantener el foco en productos concretos sin perder la riqueza del debate.
+Coordinadores Temáticos
+Los Coordinadores Temáticos (nota al pie: antes llamados "coordinadores de mesa", se le cambia el nombre para no generar confusión con el rol del equipo interno) son participantes expertos de la propia mesa temática—no staff de la Fundación—que son elegidos por sus pares desde el conjunto de participantes para asumir funciones de coordinación operativa y de contenido dentro de la mesa específica. Cada mesa cuenta con entre 3 y 5 Coordinadores Temáticos, dependiendo del tamaño del grupo y de la complejidad del tema abordado.
+Los Coordinadores Temáticos toman decisiones junto al facilitador sobre aspectos operativos del proceso (priorización de temas a profundizar, convocatoria de invitados temáticos específicos, distribución de tareas entre sesiones) y ejercen liderazgo de contenido al interior de la mesa, ayudando a mantener coherencia entre las distintas etapas del trabajo prospectivo, identificando vacíos o inconsistencias en los análisis, y apoyando la articulación de las propuestas finales. Son, en cierto sentido, los "dueños de casa" del proceso: representan la voz colectiva de la mesa en sus interacciones con las coordinaciones de la Fundación, velan por que el proceso responda a las necesidades y expectativas del grupo, y asumen responsabilidad por la calidad técnica del producto final.
+La elección de Coordinadores Temáticos por parte de los propios participantes—en lugar de ser designados externamente—es fundamental para la legitimidad del proceso y el compromiso del grupo. Típicamente estos roles recaen en expertos con trayectoria reconocida en el tema, capacidad de articulación, disponibilidad de tiempo, y habilidades de liderazgo colaborativo. Los Coordinadores Temáticos operan durante todo el ciclo de la mesa y son interlocutores privilegiados del Coordinador de Contenidos en el proceso de validación de documentos intermedios y del documento temático final.
+Participantes de las mesas temáticas
+Los participantes de las mesas temáticas son expertos convocados por la Fundación según el tema específico que aborda cada mesa. El perfil de estos participantes varía según la naturaleza del desafío: pueden incluir académicos e investigadores especializados en el tema, representantes de organizaciones de la sociedad civil que trabajan en el área, profesionales del sector público con experiencia en políticas relacionadas, actores del sector privado cuando sean relevantes, y expertos internacionales que aporten perspectivas comparadas.
+La convocatoria busca integrar diversidad de perspectivas (disciplinarias, sectoriales, generacionales, territoriales, de género) para enriquecer el análisis prospectivo, evitando la formación de "cámaras de eco" donde solo una visión del problema y sus soluciones sea representada. El número de participantes por mesa varía típicamente entre 15 y 30 personas, equilibrando la necesidad de diversidad con la viabilidad de procesos deliberativos profundos.
+Los participantes de las mesas asumen un compromiso de participación continua durante el ciclo de trabajo de 5 a 6 meses, lo cual implica: asistencia a sesiones sincrónicas (presenciales o virtuales) con periodicidad aproximadamente quincenal; trabajo asincrónico entre sesiones (revisión de documentos, aportes escritos, consultas a sus redes); y validación de productos intermedios y finales. Este compromiso es formalizado al inicio del proceso mediante mecanismos que pueden incluir cartas de compromiso, declaraciones de conflicto de interés cuando sean pertinentes, y acuerdos sobre reglas de convivencia y modos de trabajo del grupo.
+	•	Voces externas
+Además de los participantes directos que se involucran de manera continua durante el ciclo completo de la mesa, el proceso incorpora actores externos en momentos específicos para enriquecer los análisis con conocimientos especializados, validar productos con audiencias más amplias, y aumentar la legitimidad y representatividad de las propuestas generadas.
+Invitados temáticos
+Los invitados temáticos son expertos convocados puntualmente para aportar conocimiento muy específico sobre algún aspecto del trabajo de la mesa. A diferencia de los participantes regulares, los invitados temáticos no participan en todo el ciclo sino que son incorporados en sesiones específicas donde su expertise es particularmente relevante. Por ejemplo, una mesa que trabaja sobre sistemas de salud podría invitar a un experto internacional en telemedicina para una sesión específica sobre escenarios tecnológicos, o a un representante de pueblos originarios para discutir pertinencia cultural de las propuestas de política.
+La convocatoria de invitados temáticos es decidida por el facilitador en conjunto con los Coordinadores Temáticos de la mesa, respondiendo a necesidades que emergen durante el proceso. Los invitados pueden participar mediante presentaciones breves seguidas de diálogo con la mesa, entrevistas realizadas por subgrupos de la mesa, o provisión de documentos y materiales de referencia. Este mecanismo permite que las mesas accedan a conocimiento de frontera y perspectivas especializadas sin requerir que esos expertos asuman el compromiso de participación continua durante varios meses.
+Stakeholders y ciudadanía
+En momentos específicos del ciclo de trabajo de las mesas—particularmente durante la definición o redefinición de la visión aspiracional 2050 y durante la validación de propuestas de política—se incorporan procesos de consulta ampliada que involucran a stakeholders (actores directamente afectados por las políticas del área temática) y a la ciudadanía general.
+Estos procesos de consulta ampliada cumplen múltiples funciones: aseguran que las visiones y propuestas construidas por las mesas no reflejen únicamente la perspectiva de expertos sino que incorporen las aspiraciones, necesidades y conocimiento práctico de quienes viven cotidianamente las realidades que se busca transformar; aumentan la legitimidad social de las propuestas al demostrar que fueron construidas mediante procesos inclusivos y no solo por élites técnicas o políticas; y pueden identificar dimensiones del problema o barreras a las soluciones que no son evidentes desde el conocimiento experto pero sí desde la experiencia vivida.
+Las metodologías para estos procesos de consulta ampliada pueden incluir: talleres territoriales en distintas regiones del país; consultas digitales mediante plataformas en línea que permitan a cualquier persona aportar comentarios sobre borradores de visión o propuestas; encuestas representativas de opinión pública sobre aspectos específicos; y metodologías específicas para incorporar voces de grupos históricamente subrepresentados como jóvenes, niños y niñas, pueblos originarios, personas con discapacidad, o comunidades rurales, según la pertinencia para cada tema.
+Es importante señalar que estos procesos de consulta ampliada no implican que las decisiones sobre visión y propuestas sean tomadas mediante mecanismos de democracia directa o votación mayoritaria—lo cual sería inconsistente con la naturaleza de un ejercicio prospectivo experto—sino que los insumos recogidos son considerados por la mesa en sus deliberaciones, y la mesa rinde cuenta de cómo esos insumos fueron o no incorporados en el producto final, ejerciendo transparencia sobre los criterios utilizados para las decisiones tomadas.
+
+	•	Tabla 1. Síntesis de roles en el Área de Desarrollo de Contenidos
+             Rol           
+             Tipo de vinculación           
+             Número aproximado           
+             Función principal           
+Coordinaciones
+
+
+
+Coordinador General
+Staff FEF
+1
+Visión integral, coordinación entre áreas
+Coordinador de Mesas
+Staff FEF
+1
+Calidad de procesos (INPUT), liderazgo de facilitadores
+Coordinador de Contenidos
+Staff FEF
+1
+Sedimentación y resonancias (OUTPUT), aseguramiento de calidad
+Participantes Directos
+
+
+
+Facilitadores
+Staff FEF o contrato
+2-6 (según mesas activas)
+Ejecución de programa metodológico por mesa
+Coordinadores Temáticos
+Expertos participantes
+3-5 por mesa
+Coordinación operativa y de contenido dentro de cada mesa
+Participantes de mesas
+Expertos invitados
+15-30 por mesa
+Desarrollo de análisis prospectivo y propuestas
+Participantes Indirectos
+
+
+
+Invitados temáticos
+Expertos externos
+Variable según necesidad
+Conocimiento especializado puntual
+Stakeholders y ciudadanía
+Consulta ampliada
+Variable según metodología
+Validación, legitimación, perspectivas vivenciales
+
+Área de Desarrollo de Contenidos: Procesos
+A continuación, se presenta una propuesta de proceso para mesas temáticas recurrentes, es decir que ya han pasado por un ejercicio de un trabajo conjunto para el desarrollo de un Policy Paper o Policy Brief, y para mesas definidas como nuevas, ya sea para abordar una nueva temática o reformulación completa del tema dentro del programa Proyecta Chile 2050. 
+La propuesta de las hojas de ruta para mesas recurrentes y nuevas, consideran el trabajo bajo un enfoque de sesiones semanales de manera sincrónica como de instancias asincrónicas para facilitar la participación e intercambio de ideas y opiniones entre los miembros de las mesas. 
+También se propone la participación o incorporación de actores externos – por ejemplo: jóvenes, niños y niñas, comunidades afectadas, organizaciones de la sociedad civil y profesionales que aporten perspectivas disruptivas– mediante espacios de escucha y co‑creación.
+Las hojas de ruta se estructuran por etapas y sub‑etapas, que consideran lo siguiente: 
+	•	Cada etapa tiene una propuesta de un objetivo a lograr y se definen productos esperados para cada etapa.
+	•	Cada sub-etapa considera una propuesta de objetivo deseado a desarrollar y se sugieren set de metodologías que permiten guiar o facilitar el trabajo de las mesas y poder avanzar en los objetivos propuestos. Las metodologías propuestas son sólo potenciales opciones y su selección y uso pueden ser adaptadas y/o proponer las que mejor se adapten al tema o perfil de los participantes de cada mesa.
+
+
+Mesas temáticas
+Mesas recurrentes
+La hoja de ruta para estas mesas, se estructuran en 8 etapas, las cuales se propone que sean abordadas en un horizonte de trabajo de al menos 5 meses. Las etapas que se proponen son:
+
+Nº etapa
+Nombre de la etapa
+Objetivo de la etapa
+Producto de la etapa
+0
+Revisión del trabajo realizado y motivación de participantes
+Analizar los resultados previos, ampliar la base de participantes y motivar a la mesa para iniciar un nuevo proceso.
+Síntesis del proceso anterior, lista actualizada de participantes y mensaje de bienvenida que motive la participación.
+1
+Preparación y exploración del entorno
+Sensibilizar a los miembros en prospectiva, identificar actores clave y realizar escaneo de tendencias hacia 2050.
+Documento con el mapeo de actores y lista de megatendencias y drivers relevantes, e identificación de actores externos.
+2
+Construcción de escenarios
+Crear escenarios plausibles a partir de incertidumbres críticas, elaborar narrativas y analizar sus implicaciones.
+Conjunto de 2‑4 escenarios por mesa con descripciones narrativas, matrices de incertidumbre y análisis de implicancias.
+3
+Redefinición de visión y ambición 2050
+Redefinir la visión aspiracional para Chile 2050 en la temática, validándola y co‑construyéndola con actores diversos.
+Visión o ambición 2050 consensuada y validada públicamente, con un resumen de los aportes recibidos.
+4
+Diagnóstico y análisis de brechas
+Actualizar el diagnóstico de la situación actual, identificar las brechas respecto a la visión 2050 y priorizarlas.
+Informe de diagnóstico actualizado, listado de brechas priorizadas con justificación y mapa de causas‑efectos para orientar intervenciones.
+5
+Formulación de líneas de acción y propuestas de política de largo plazo
+Generar y evaluar propuestas de políticas y líneas de acción para cerrar brechas y avanzar hacia la visión 2050.
+Cartera priorizada de líneas de acción y políticas de largo plazo con fichas detalladas, evaluación de impactos y alianzas necesarias.
+6
+Definición de metas y rutas de mediano plazo
+Redefinir metas e indicadores de mediano plazo (2030‑2040) y elaborar un plan de implementación y seguimiento.
+Documento de metas e indicadores de mediano plazo y hoja de ruta de implementación con hitos, responsables y mecanismos de monitoreo.
+7
+Evaluación y retroalimentación
+Evaluar la eficacia del proceso, recoger percepciones, identificar lecciones aprendidas y ajustar la hoja de ruta.
+Informe de evaluación, listado de lecciones aprendidas y versión revisada de la hoja de ruta para futuros procesos.
+
+A continuación se describen cada etapa y recomendaciones generales a considerar.
+
+Etapa 0 – Revisión del trabajo realizado y motivación de participantes 
+Objetivo de la etapa 0: Analizar los resultados del proceso anterior, ampliar la base de participantes mediante convocatorias abiertas e inspirar a los integrantes para iniciar un nuevo proceso de prospectiva.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+	•	Revisión de resultados anteriores
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinador general y Coordinadores de mesa
+Analizar los productos generados en el proceso anterior de la mesa temática para identificar cambios en tendencias, hipótesis formuladas, nuevas brechas y determinar la apertura de la mesa.
+– Revisión documental y síntesis: análisis sistemático de documentos, diagnósticos y propuestas ya elaboradas para extraer aprendizajes y determinar qué debe profundizarse.
+ 
+ 
+– Sesión de retrospectiva: reunión con los participantes de la fase anterior para repasar qué funcionó, qué no y qué se puede mejorar, utilizando técnicas de retroalimentación similares a las de metodologías design Thinking (ej. “start‑stop‑continue”).
+	•	Convocatoria a nuevos participantes y expertos
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinador general y Coordinadores de mesa FEF.
+ 
+Ampliar la base de actores involucrados, incorporando nuevos expertos, representantes de la sociedad civil, representantes de sectores asociados a la temática de la mesa (por ejemplo, jóvenes y niños) y/o representantes de sectores relevantes que no hayan participado anteriormente.
+– Mapa de redes y llamados abiertos: elaboración de un listado de instituciones, comunidades y especialistas potenciales; difusión de una convocatoria abierta mediante boletines, redes sociales y organizaciones aliadas. 
+ 
+Esta metodología se sugiere que sea una función permanente de Proyecta Chile 2050 para sistematizar y mantener actualizada una base de datos de los actores relevantes por tema, los cuales irán cambiando en el tiempo.
+ 
+ 
+– Webinars de presentación: organizar charlas breves en las que se expongan los resultados de la revisión (sub‑etapa 0.1) y se inviten a nuevos actores a sumarse al proceso.
+	•	Motivación y preparación de participantes
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Secretario Ejecutivo, Coordinador general y Coordinadores FEF
+Fortalecer el compromiso y la motivación de quienes integran la mesa, creando un sentido compartido de propósito antes de comenzar el trabajo prospectivo.
+– Charlas inspiradoras: presentaciones de líderes de opinión o de beneficiarios potenciales que relaten cómo las políticas a largo plazo pueden impactar positivamente en sus vidas o presentar ejemplos reales en el desarrollo de políticas públicas de largo plazo (por ejemplo: lo que se hizo en los años 50-60 para erradicar la desnutrición infantil, la creación de la CORFO, entre otros.
+ 
+ 
+– Storytelling y testimonios: compartir historias de participantes anteriores sobre los logros alcanzados y las oportunidades de influir en el futuro, para generar un clima de entusiasmo y pertenencia.
+ 
+ 
+0.4 Definición de reglas y compromiso
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Secretario Ejecutivo, Participantes de mesas, Coordinador general y Coordinadores de mesas
+ 
+ 
+Acordar entre los participantes de cada mesa las normas de convivencia, mecanismos de comunicación, lo qué se espera de cada uno (participación y responsabilidades) y comprometer la participación y aporte de cada miembro.
+– Webinar de compromiso: organizar un encuentro remoto para plantear las reglas y normas del trabajo de las mesas y comprometer formalmente a los participantes de cada mesa, por medio de una firma de documento (digital) respectro a la declaración de compromiso de los participantes, donde se indique de qué manera se va a aportar en cada mesa (participación activa, charlas, investigaciones, antecedentes y/o contactos/redes nacionales e internacionales, entre otros).
+ 
+Productos de la etapa 0: síntesis de los resultados del proceso anterior, lista actualizada de participantes (incluyendo nuevos integrantes y expertos) y bienvenida que motive la participación activa desde la primera sesión de trabajo.
+
+ 
+Etapa 1 – Preparación y exploración del entorno (Semanas 1‑3)
+Objetivo de la etapa 1: Sensibilizar a los participantes de las mesas sobre la importancia de análisis de prospectiva, identificar a los actores clave y realizar un escaneo sistemático de tendencias que impactarán el tema de cada mesa al 2050.
+ 
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+	•	Lanzamiento y sensibilización
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinador general, Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+Alinear a los participantes de las mesas respecto al pensamiento de futuro.
+– Sesión de inducción en prospectiva: exposición sobre qué es la prospectiva, ejemplos donde se ha usado la metodología y el impacto que ha generado, por qué no busca predecir un único futuro y cómo ayuda a detectar tendencias y construir escenarios futuros.
+
+
+– Charla sobre megatendencias globales: breve presentación de las megatendencias y discusión sobre su relevancia para Chile.
+	•	Escaneo del horizonte y análisis de tendencias
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+Identificar tendencias y fuerzas motrices que afectarán el tema al 2050.
+– Horizon scanning (escaneo de horizonte): técnica que permite detectar tendencias tempranas mediante la revisión sistemática de fuentes, identifica oportunidades y amenazas.
+
+
+– Análisis STEEP[1]: herramienta que permite categorizar tendencias en función de dimensiones sociales, tecnológicas, económicas, ambientales, políticas, legales y de valores, para contextualizar los escenarios.
+
+
+– Análisis de tendencias y drivers: organización de la información en principales drivers de cambio y evaluar su nivel de incertidumbre y/o impacto.
+ 
+Producto esperado de la etapa 1: documento de mapeo de actores, lista de megatendencias y drivers relevantes e identificación de actores externos relevantes.
+ 
+
+ 
+Etapa 2 – Construcción de escenarios (Semanas 4‑8)
+Objetivo de la etapa 2: Construir un conjunto de escenarios plausibles a partir de las incertidumbres críticas, desarrollar narrativas de manera detallada y analizar las implicaciones de cada escenario para orientar la visión futura.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+2.1 Definición de ejes de incertidumbre
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+Seleccionar los principales ejes o parámetros que condicionan las incertidumbres que estructurarán los futuros de la temática de cada mesa.
+– Ejes de incertidumbre (2×2 o 3×3): herramienta para escoger dos (o más) incertidumbres con alto impacto y alta incertidumbre para crear matrices de escenarios.
+
+
+– Metodología de Alternativas Futuras: metodología que propone cuatro arquetipos –crecimiento, restricción, colapso y transformación– para explorar caminos posibles.
+
+
+– Mapas morfológicos: construir una tabla con las principales variables y sus posibles estados; combinar valores para generar escenarios coherentes.
+2.2 Elaboración de relatos de escenarios
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Desarrollar narrativas que describan de mejor manera los escenarios identificados para ayudar a los participantes a posicionarlos en estos escenarios.
+– Storytelling y design fiction: metodología que permite crear relatos de manera detallada que permitan describir la vida cotidiana, la economía y las instituciones en cada escenario.
+
+
+– Causal Layered Analysis (CLA): método de Sohail Inayatullah que profundiza en niveles de causa (sistémico, discursivo, mitos), permitiendo generar relatos más profundos y reflexivos.
+ 
+
+– Fichas ‘Postcards from the Future’: breve ejercicio en el que los participantes redactan una postal desde el futuro; esta técnica ayuda a imaginar futuros y trabaja con señales y tendencias.
+ 
+2.3  identificación y mapeo de actores
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Reconocer a los principales actores que serán afectados por los escenarios definidos por la mesa.
+ 
+– Mapeo de actores: realizar un mapa de poder–interés para identificar a los principales actores internos y externos que se verán impactados con los escenarios futuros detectados por la mesa.
+2.4 Análisis de implicaciones
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Evaluar las consecuencias de cada escenario para los principales actores detectados en la sub etapa anterior.
+– Rueda de futuros (Futures Wheel): método para visualizar consecuencias directas e indirectas de un cambio, permitiendo mapear las ramificaciones de tendencias y eventos.
+
+
+– Análisis de riesgos y oportunidades: identificar riesgos y oportunidades que emergen en cada escenario; priorizarlos según impacto y probabilidad.
+ 
+Productos esperados de la etapa 2: conjunto de escenarios documentados (2–4 por mesa) con descripciones narrativas, matrices de incertidumbre y evaluación de implicancias.
+
+ 
+Etapa 3 – Redefinición de visión y ambición 2050 (Semanas 8‑10)
+Objetivo de la etapa 3: redefinir una visión aspiracional de cómo debería ser Chile en 2050 en la temática abordada, incorporando la validación y co-construcción con actores diversos para asegurar un consenso amplio.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+3.1 Redefinición de visión aspiracional
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinador General, Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Revisar o formular la visión de cómo debería ser Chile en 2050 para el tema en cuestión, considerando los indicadores o metas que permitan operacionalizarla, la última versión de la visión global de Chile 2050 (documento a candidatos), la visión definida por cada submesa o mesa y los escenarios elaborados.
+– Taller de visión (Visioning workshop): ejercicio participativo donde se discute la visión deseada, se identifican valores compartidos y se formulan frases de futuro deseado.
+
+
+– Apoyo de técnicas apreciativas: analizar qué funciona bien en el presente y proyectar cómo podría potenciarse en el futuro.
+
+
+– Involucramiento de jóvenes y niños: integrar dinámicas diseñadas específicamente para que niños y jóvenes expresen su visión.
+3.2 Validación y co‑construcción de la visión
+ 
+Modalidad propuesta: Asincrónica o Sincrónica
+ 
+Participantes: Coordinador general, Coordinadores de mesas, Coordinadores FEF y participantes de mesas
+ 
+Ajustar la visión a partir de la retroalimentación de actores externos y asegurar que refleje intereses diversos.
+– World Café o diálogos ciudadanos: sesiones abiertas con actores externos (comunidades, sector privado, academia) donde se presentan los escenarios y la visión y se recogen comentarios.
+
+
+– Delphi participativo (Real‑time Delphi): encuesta iterativa y anónima a expertos y actores clave para evaluar la pertinencia y alcance de la visión, recoger opiniones y recibir retroalimentación.
+
+
+– Co‑construcción (co‑design): talleres donde actores externos y expertos colaboran para ajustar la visión.
+
+
+– Encuestas: recoger la percepción de actores externos para evaluar la pertinencia y alcance de la visión, recoger opiniones y recibir retroalimentación.
+Productos esperados de la etapa 3: visión/ambición al 2050 consensuada y validada por actores relevantes externos a las mesas, enunciada con indicadores y metas relevantes y con un texto breve y aspiracional, junto con un resumen de aportes recibidos durante la validación.  
+Etapa 4 – Diagnóstico y análisis de brechas (Semanas 10‑12)
+Objetivo de la etapa 4: Actualizar el diagnóstico de la situación actual, identificar las brechas entre la situación actual y la visión 2050 y priorizar aquellas que requieren intervención mediante políticas públicas.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+4.1 Diagnóstico de la situación actual
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Comprender el estado actual de la temática de la mesa (políticas vigentes, datos cuantitativos, experiencias).
+– Análisis situacional con STEEP: utilizar la misma estructura de factores sociales, tecnológicos, económicos, ambientales, políticos y de valores para evaluar la situación actual.
+
+
+– Análisis documental y entrevistas/exposiciones: revisar políticas vigentes, estadísticas, consultar a organizaciones de la sociedad civil y/o invitar a responsables públicos y expertos en la temática para consultar o exponer respecto a diagnósticos de la temática de la mesa.
+4.2 Identificación de brechas
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Determinar la brecha entre la situación actual y la visión deseada para 2050.
+– Análisis de brechas: contrastar metas de la visión con indicadores actuales; identificar diferencias cualitativas y cuantitativas.
+
+
+– Árbol de problemas / análisis de causas y consecuencias: diagramar problemas centrales, causas y consecuencias, para comprender qué factores originan las brechas.
+
+
+– Futures Wheel invertida: emplear la técnica de Rueda de Futuros para mapear efectos negativos de no actuar.
+4.3 Priorización de brechas
+ 
+Modalidad propuesta: Sincrónica o Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Seleccionar las brechas más críticas que deben abordarse con políticas públicas.
+– Delphi o Real‑time Delphi: realizar rondas de consulta anónima a expertos y actores externos para priorizar las brechas.
+
+
+– Análisis multicriterio: evaluar cada brecha según impacto, urgencia y factibilidad de cierre.
+ 
+Productos esperados de la etapa 4: informe de diagnóstico actualizado, listado de brechas priorizadas con justificación y un mapa de causas y efectos que ayude a orientar intervenciones.
+
+ 
+Etapa 5 – Formulación de líneas de acción y propuestas de política de largo plazo (Semanas 12‑15)
+Objetivo de la etapa 5: Generar y evaluar propuestas de políticas públicas y líneas de acción de largo plazo que permitan cerrar las brechas identificadas y avanzar hacia la visión 2050.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+5.1 Generación de ideas y propuestas
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Crear una cartera amplia de iniciativas de política y líneas de acción para alcanzar la visión 2050.
+– Lluvia de ideas estructurada: sesiones de ideación donde los participantes generan propuestas sin juzgarlas, agrupándolas por categorías.
+
+
+– Rueda de futuros (Futures Wheel) aplicada a propuestas: explorar las consecuencias directas e indirectas de cada propuesta para identificar efectos colaterales.
+5.2 Evaluación de iniciativas
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Analizar la factibilidad, impactos y riesgos de cada iniciativa y seleccionar las más eficaces.
+– Matriz de impacto‑factibilidad: evaluar cada propuesta según su impacto potencial y la factibilidad de implementación.
+
+
+– Delphi / Real‑time Delphi: obtener evaluaciones anónimas de expertos y actores sobre cada propuesta, permitiendo refinarlas y alcanzar consensos.
+
+
+– World Café o foros de discusión: someter las propuestas a discusión abierta con actores externos (comunidades, jóvenes, sector privado) para recoger percepciones y validar su pertinencia.
+ 
+ 
+5.3 Co‑diseño de políticas y alianzas
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Refinar las propuestas seleccionadas y sus planes de implementación.
+– Taller de co‑diseño: sesiones donde expertos y actores externos trabajan juntos en el diseño detallado de las políticas (objetivos específicos, instrumentos, actores responsables).
+
+
+– Metodología de planeación de escenarios de políticas: construir mini‑escenarios de implementación y evaluar impactos sobre diferentes grupos.
+5.4 Redacción y validación final
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+Elaborar documentos con propuestas y líneas de acción, asegurar coherencia con la visión y validarlos.
+– Redacción de propuestas y sesiones de focus para validación: estructurar las iniciativas en fichas con problemas, objetivos, acciones, indicadores y costos. Junto a lo anterior realizar sesiones de focus con expertos externos a la mesa (coordinadores de otras mesas en curso, expertos en políticas públicas y/o otros actores relevantes).
+
+
+– Consulta pública: publicar las propuestas para recibir comentarios ciudadanos; se recomienda un período de consulta en línea y sesiones presenciales con jóvenes y comunidades.
+ 
+Productos esperados de la etapa 5: cartera priorizada de líneas de acción y propuestas de política pública de largo plazo, con fichas detalladas, evaluación de impactos y alianzas necesarias para su puesta en marcha.  
+Etapa 6 – Definición de metas y rutas de mediano plazo (Semanas 16‑18)
+Objetivo de la etapa 6: Redefinir metas e indicadores de mediano plazo para avanzar en las líneas de acción para apoyar el logro de la visión 2050 y elaborar un plan de implementación y seguimiento que oriente la acción en los próximos años.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+6.1 Retrospección para metas intermedias
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Identificar los hitos y metas necesarias a mediano plazo (2030–2040), a partir de la visión 2050.
+– Backcasting normativo: técnica que parte de un futuro deseado y retrocede hasta el presente para definir etapas; esta metodología es idónea para problemas complejos y orientados a objetivos.
+
+
+– Líneas de tiempo inversas: trazar una línea de tiempo desde 2050 hacia atrás, identificando hitos críticos, logros y políticas necesarias en cada período.
+6.2 Definición de indicadores y metas
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Establecer indicadores y metas específicas, medibles, alcanzables, relevantes y temporales.
+– Metodología SMART: formular indicadores cuantitativos y cualitativos asociados a cada línea de acción.
+
+
+– Indicadores participativos: involucrar a jóvenes y comunidades en la definición de indicadores que reflejen sus preocupaciones.
+6.3 Plan de implementación y seguimiento
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Elaborar una hoja de ruta de ejecución para las políticas propuestas y asignar responsabilidades.
+– Roadmapping: construir un mapa de ruta que integre las líneas de acción, los hitos de backcasting y los responsables en un cronograma.
+ 
+Productos esperados de la etapa 6: documento de metas de mediano plazo y cuadro de indicadores, hoja de ruta de implementación con hitos y responsables, mecanismos de monitoreo y actualización.  
+Etapa 7 – Evaluación y retroalimentación (Semanas 18‑20)
+Objetivo de la etapa 7: Evaluar la eficacia del proceso prospectivo, recoger la percepción de los participantes, identificar lecciones aprendidas y actualizar la hoja de ruta para futuros procesos.
+Sub‑etapa
+Objetivo
+Metodologías sugeridas
+7.1 Evaluación del proceso
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Revisar la eficacia de la hoja de ruta y la satisfacción de los participantes.
+– Encuestas y grupos focales: recoger la percepción de los miembros de las mesas y de actores externos sobre la calidad de los procesos y productos.
+
+
+– Evaluación de participación infantil y juvenil: consultar a los niños y jóvenes sobre la pertinencia de su participación y las barreras encontradas.
+7.2 Identificación de lecciones aprendidas
+ 
+Modalidad propuesta: Sincrónica
+ 
+Participantes: Coordinadores de mesas, Participantes de mesas y Coordinadores FEF
+ 
+Determinar qué funcionó bien y qué debe ajustarse en futuras iteraciones.
+– Reunión de retrospectiva: aplicar metodologías ágiles para identificar fortalezas, debilidades y oportunidades de mejora.
+
+
+– Análisis de coherencia: revisar si los resultados cumplen con los principios de la visión y con los objetivos de la hoja de ruta.
+7.3 Ajustes a la hoja de ruta
+ 
+Modalidad propuesta: Asincrónica
+ 
+Participantes: Coordinadores de mesas y Coordinadores FEF
+Incorporar las lecciones aprendidas para futuros ciclos de prospectiva.
+– Revisión y actualización del plan: actualizar la hoja de ruta incorporando mejoras, simplificaciones o nuevos métodos.
+
+
+– Difusión de resultados: publicar un informe final que resuma el proceso, los aprendizajes y las recomendaciones para próximos ejercicios.
+ 
+Productos esperados de la etapa 7: informe de evaluación, listado de lecciones aprendidas y versión revisada de la hoja de ruta para futuros procesos.
+ 
+Comunicación y participación continua – Componente Transversal de la hoja de ruta
+La comunicación es una componente transversal de hoja de ruta que se propone para el desarrollo de contenido de las mesas temáticas. Lo anterior busca mantener una comunicación permanente que informe avances y motive a los miembros y promueva espacios de participación abiertos para recoger aportes y fortalecer la legitimidad del proceso.
+Para lo anterior se debe considerar que a lo largo de todo el proceso es necesario desplegar un plan de comunicación que mantenga informados y motivados a los miembros de las mesas y fomente la participación de otros actores. A nivel general se propone lo siguiente:
+	•	Boletines semanales y plataformas digitales: enviar resúmenes de avances y publicar materiales en una plataforma colaborativa.
+	•	Sesiones abiertas: cada mes se realizará un seminario abierto donde las mesas presenten sus avances y reciban preguntas de la ciudadanía y/o actores claves.
+	•	Campañas en redes sociales: difundir hitos clave y convocar a consultas públicas, usando lenguaje inclusivo y formatos accesibles.
+	•	Soporte asincrónico: habilitar foros y herramientas de mensajería para que los miembros puedan comentar documentos entre sesiones.
+ 
+
+ 
+La aplicación de este plan de comunicaciones se recomienda aplicar en cada etapa de la siguiente forma:
+	•	Etapa 0 – Revisión del trabajo realizado y motivación de participantes: utilizar boletines, redes sociales y el desarrollo de webinars para compartir la síntesis de los resultados del proceso anterior de cada mesa que se desea reabrir y para generar la convocatoria a nuevos participantes. El contenido de los mensajes deber focalizarse en motivar, explicar la importancia de retomar el trabajo de las mesas e incluir a representantes de la sociedad civil y actores no tradicionales relevantes asociados a las distintas temáticas de las mesas.
+	•	Etapa 1 – Preparación y exploración del entorno: difundir el lanzamiento del proceso, las megatendencias identificadas y el mapa de actores mediante infografías y eventos en línea. Publicar un glosario de conceptos y abrir espacios de comentarios para que actores externos sugieran tendencias o factores de cambio.
+	•	Etapa 2 – Construcción de escenarios: presentar los ejes de incertidumbre seleccionados y las narrativas de escenarios a través de artículos breves, videos o exposiciones interactivas. Invitar al público a imaginar sus propios futuros y recoger sus percepciones a través de preguntas en redes sociales o encuestas.
+	•	Etapa 3 – Redefinición de visión y ambición 2050: comunicar la visión redefinida y/o co‑construida en términos claros y accesibles. Organizar sesiones abiertas y encuestas para validar la visión y recibir aportes de ciudadanos, con especial énfasis en jóvenes y grupos menos representados.
+	•	Etapa 4 – Diagnóstico y análisis de brechas: divulgar los resultados del diagnóstico y las brechas identificadas en documentos de síntesis y presentaciones. Potencialmente se recomienda crear foros para discutir prioridades y permitir que diferentes actores opinen sobre aquellas brechas que consideren más importantes.
+	•	Etapa 5 – Formulación de líneas de acción y propuestas de política de largo plazo: socializar las propuestas de políticas y líneas de acción mediante fichas o documentos resúmenes, videos explicativos y/o generar espacios de debates en redes sociales. El foco de lo anterior es poder generar una retroalimentación sobre el impacto y la factibilidad de las iniciativas. Otro elemento a considerar es el de organizar seminarios para discutir con especialistas y la ciudadanía u otros actores claves de la sociedad civil.
+	•	Etapa 6 – Definición de metas y rutas de mediano plazo: comunicar las metas y el cronograma resultante mediante infografías interactivas y calendarios. Es aconsejable explicar cómo cada acción contribuye a la visión 2050 y lo relevante que se cumplan los principales hitos que se proponen en los planes de trabajo de las políticas que proponen las mesas.
+	•	Etapa 7 – Evaluación y retroalimentación: se recomienda difundir los principales hallazgos y lecciones aprendidas a través de un documento final, resúmenes ejecutivos, desarrollo de webinars de cierre y publicaciones de los resultados y productos de las mesas a través de las redes sociales. Los contenidos de los mensajes que se generar, deben estar focalizados en invitar a los participantes y actores externos a evaluar el proceso y proponer mejoras para futuros ciclos.
+ 
+ 
+Recomendación para el uso de la inteligencia artificial (IA) en la hoja de ruta
+A continuación, se presenta una sugerencia para utilizar la IA como herramienta de apoyo para facilitar el desarrollo de cada etapa planteada en la hoja de ruta propuesta:
+	•	Etapa 0 – Revisión del trabajo realizado y motivación de participantes: 
+	•	Utilizar herramientas de IA generativas[2] para resumir documentos y reportes previos, extraer los principales hallazgos y brechas levantadas en el proceso anterior de cada mesa. 
+	•	Para apoyar la convocatoria, pueden emplearse el uso de agentes[3] entrenados para el análisis de redes sociales para identificar expertos y actores no tradicionales (por ejemplo, analizar publicaciones públicas para detectar líderes de opinión en temas relacionados).
+ 
+	•	Etapa 1 – Preparación y exploración del entorno: 
+	•	Para la consolidación datos históricos y diferentes fuentes (bases de datos, noticias, redes sociales), se recomienda el uso de herramientas de IA generativas para sistematizar y clasificar investigaciones y levantar información de valor para las mesas temáticas. Para lo anterior se recomienda por ejemplo el uso de Google NotebookLM o Coral IA.
+	•	A partir de la información anterior entrenar un agente para clasificar tendencias según su relevancia y frecuencia, y detectar correlaciones entre variables sociales, tecnológicas y ambientales y para detectar sensibilidades y/o tendencias de opinión en foros o medios para medir la percepción pública de ciertos temas. Para el desarrollo de agentes con baja utilización de códigos, se recomiendan el uso de n8n, Dify, AutoGPT y Rasa.
+	•	Etapa 2 – Construcción de escenarios: 
+	•	Dada la particularidad de cada temática y nivel de data a utilizar en cada mesa, se recomienda el desarrollo o entrenamiento de agentes particulares de la temática, para así asistir en la creación de escenarios a través del análisis de grandes fuentes de datos históricos, elaborar combinaciones factibles de tendencias y ayudarlos a formular narrativas innovadoras. 
+	•	Junto a lo anterior, se sugiere el desarrollo o entrenamiento de un agente especializados en apoyar a las mesas en tener una mirada integral respecto a los impactos de los escenarios en otras temáticas (mesas), con el propósito de fundamentar y calibrar la selección de escenarios que la mesa desee abordar.
+	•	Etapa 3 – Redefinición de visión y ambición 2050: 
+	•	Se recomienda el uso de IA generativa para sistematizar la retroalimentación de consultas y encuestas públicas, agrupar comentarios y detectar patrones de opinión, con el propósito de ayudar a las mesas en discutir la necesidad de replantear una nueva visión o para incorporar nuevas perspectivas que ajusten la visión planteada inicialmente en cada mesa. Para lo anterior se recomienda por ejemplo el uso de Google NotebookLM o Coral IA.
+	•	Etapa 4 – Diagnóstico y análisis de brechas: 
+	•	Se recomienda en esta etapa el uso de IA generativa para el análisis de datos cuantitativos y cualitativos (estadísticas, entrevistas, documentos) para detectar tendencias y relaciones de factores de la situación actual de cada mesa y ayudar a los participantes en identificar brechas con mayor precisión y visualizar consensos y disensos.
+	•	Etapa 5 – Formulación de líneas de acción y propuestas de política de largo plazo: 
+	•	En esta etapa se recomienda el uso de agentes especializados en proponer ideas de políticas basadas en casos comparables y simular impactos de las distintas propuestas sobre indicadores sociales, económicos, ambientales u otros que se definan. 
+	•	Para la construcción de matrices de impacto‑factibilidad y ofrecer análisis de sensibilidad, se sugiere el uso de IA generativa o el desarrollo de agente para revisar las recomendaciones que se planteen automáticamente y no reproducir sesgos existentes y ajustar las propuestas al contexto chileno.
+	•	Etapa 6 – Definición de metas y rutas de mediano plazo: 
+	•	En esta etapa se recomienda el desarrollo de un agente para apoyar el análisis de retrospectiva mediante modelos de optimización que identifiquen rutas eficientes para alcanzar las metas que se planteen las mesas, analizar diferentes combinaciones de políticas y recursos y ayudar a estimar tiempos, costos y efectos colaterales de las acciones programadas.
+	•	Etapa 7 – Evaluación y retroalimentación: 
+	•	Se recomienda el uso de IA generativa para analizar encuestas y resultados de grupos focales, identificar patrones y temas emergentes, categorizar comentarios y cruzar datos de participación con variables demográficas para detectar grupos subrepresentados, con el propósito de ayudar en generar lecciones aprendidas y ajustar la hoja de ruta para un nuevo proceso.
+ 
+Recomendaciones generales para el desarrollo de agentes:
+	•	Definir propósito y alcance que tendrá el agente, describiendo las tareas que resolverá, el público objetivo al cual estará dirigido y definiendo los casos o tipo de ejemplos respecto a los productos esperados para el agente.
+	•	Recopilar y preparar datos de entrenamiento, con el propósito mejorar el rendimiento del agente. Como ayuda el proceso de apoyo a las mesas se pueden utilizar transcripciones de reuniones, diagnósticos previos elaborados por otras mesas, documentos de políticas públicas y/o ejemplos de líneas de acción o análisis de escenarios considerados o catalogados como exitosos o buenos desarrollados en procesos anteriores o por casos internacionales.
+	•	Seleccionar la o las herramientas a utilizar en el desarrollo del agente. Para lo anterior se recomiendan herramientas de agentes basados en LLM[4] (p. ej. LangGraph, AutoGen) y/o herramientas de baja utilización de códigos como son n8n, Dify, AutoGPT y Rasa entre otros.
+	•	Diseñar la arquitectura del agente, con el propósito de definir cómo operará con el usuario, de qué manera se integrará con las fuentes de datos (público y/o propias) y con otras herramientas de salida (por ejemplo planillas de cálculo, procesadores de textos, entre otros). Junto a lo anterior se determinan las reglas de toma de decisiones y los mecanismos aprendizaje continuo.
+	•	Desarrollar y entrenar al agente, codificando las funcionalidades principales, ajustando el o los modelos utilizados con los datos preparados e integrando los distintos componentes que utilizará el agente (como por ejemplo herramientas externas y/o bases de datos).
+	•	Probar e iterar la interacción y resultados del agente, el rendimiento y precisión de los resultados esperados y el tiempo de respuesta.
+	•	Implementar el agente y desplegar su utilización de manera gradual para facilitar la detección de errores y recibir comentarios de los usuarios. Junto a lo anterior, se recomienda la supervisión continua del agente para detectar sesgos o errores y así ajustar la solución.
+	•	De manera transversal se debe garantizar la trasparencia y la seguridad a lo largo del proceso para asegurar la transparencia, la equidad y la protección de datos personales y auditar regularmente los modelos para evitar sesgos.
+	•	Finalmente se debe de iterar e incorporar mejoras continuas al agente, dado que debe actualizarse con nuevas reglas, datos y del feedback que puedan dar los usuarios de las mesas de trabajo.
+
+
+[1] STEEP: Social (Social), Tecnológico (Technological), Económico (Economic), Ecológico (Ecological o Environmental) y Político (Political).
+[2] Son sistemas capaces de generar texto, imágenes u otros medios en respuesta a indicaciones. Estos sistemas operan bajo modelo que permiten aprender de patrones y estructuras de datos de entrenamiento que permiten producir nuevos datos. Ejemplos de herramientas de IA generativas son Chat GTP y Gemini (entre otros), los cuales operan bajos modelos (GTP-5 y Gemini 2.5)
+[3] Son sistemas que utiliza inteligencia artificial para actuar de forma autónoma, interactuando con su entorno (BBDD internas, fuentes externas, reglas de negocio, entre otras) y tomar decisiones para cumplir objetivos predefinidos con una intervención humana mínima.
+[4] Large Language Model. Son sistemas de inteligencia artificial entrenados para entender y generar lenguaje humano, utilizando gran volumen de texto, el uso de patrones y relaciones lingüísticas.
+
+
+Mesas nuevas
+
+Hoja de Ruta
+	•	En el modelo que proponemos, tendremos un coordinador de contenidos y una validación constante de los productos de las mesas. Esto es algo que no tuvimos.
+	•	Recomendar repetir el ejercicio cada ciclo presidencial (pero con más anticipación). 
+	•	Instancia técnica encargada de validar la vigencia del último contenido generado por mesas cerradas.
+	•	Comenzar con un relato armado (propósito, imagen objetivo, temáticas a destacar). Storytelling. (Esto requiere tener a disposición de manera clara los últimos productos)
+	•	Actualización de “Megatendencias” para el “ciclo” de nuevas mesas temáticas que se abre después de la publicación de esta nueva “Hoja de Ruta”.
+Etapas
+¿En qué medida lo que propusimos en esta iteración flota y en qué medida no? ¿Por qué? ¿Qué falta?
+	•	Definir propósito.
+	•	Definir relato.
+
+Consideraciones generales
+	•	Validación pública y sistemática de cada documento generado por la mesa (proceso y resultado).
+	•	Plantillas validadas desde el inicio.
+	•	Distancia estrecha en el uso de IA. 
+	•	Prompts disponibles e iterados.
+
+Referencias
+CEPAL. (2014). Prospectiva y política pública para el cambio estructural en América Latina y el Caribe. https://repositorio.cepal.org/handle/11362/37057
+Godet, M. (2007). Manual de prospectiva estratégica: De la anticipación a la acción. Dunod.
+Godet, M., & Durance, P. (2007). Prospectiva estratégica: Problemas y métodos (Cuadernos de LIPSOR, n.º 20, 2ª ed.). CEPAL. https://archivo.cepal.org/pdfs/GuiaProspectiva/Godet2007.pdf
+Kerr, C., & Phaal, R. (2022). Roadmapping methodology: Conceptual foundations. Cambridge Institute for Manufacturing. https://www.cambridgeroadmapping.net/roadmapping
+Oficina de Planeamiento y Presupuesto de Uruguay. (2016). Introducción a la prospectiva — Síntesis metodológica. Dirección de Planificación, OPP Uruguay. https://www.opp.gub.uy/sites/default/files/documentos/2018-05/Manual_Prospectiva.pdf
+Oficina del Primer Ministro de Finlandia. (2023). Government Foresight Report. https://valtioneuvosto.fi/en/foresight
+Phaal, R. (2019, 17 de octubre). The role of roadmapping in the Futures Toolkit. UK Government Office for Science, Futures, Foresight and Horizon Scanning Blog. https://foresightprojects.blog.gov.uk/2019/10/17/the-role-of-roadmapping-in-the-futures-toolkit/
+United Nations Development Programme. (2022). UNDP RBAP: Foresight playbook — Overview of foresight tools. https://www.undp.org/sites/g/files/zskgke326/files/2022-07/UNDP-RBAP-Foresight-Playbook-Appendix-2022_0.pdf
+Universidad Academia de Humanismo Cristiano. (s.f.). Documentos de trabajo y Policy Papers. https://www.academia.cl/investigacion/documentos-de-trabajo-y-policy-papers/
+University of North Carolina Writing Center. (s.f.). Policy briefs. https://writingcenter.unc.edu/tips-and-tools/policy-briefs/
+
+

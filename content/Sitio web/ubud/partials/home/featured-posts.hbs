@@ -1,0 +1,22 @@
+{{!-- Homepage featured posts --}}
+
+{{#get 'posts' filter='featured:true' limit=@custom.number_of_featured_posts}}
+  {{#if posts}}
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+        <div class='c-title-bar'>
+          <h2 class='c-title-bar__title'>{{t 'Featured Posts' }}</h2>
+          <span class='c-title-bar__divider'></span>
+        </div>
+      </div>
+    </div>
+
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+        {{#foreach posts}}
+          {{> post-card }}
+        {{/foreach}}
+      </div>
+    </div>
+  {{/if}}
+{{/get}}

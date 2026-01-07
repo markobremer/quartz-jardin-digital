@@ -1,0 +1,26 @@
+/*------------------------------------*\
+  Components > Logo
+\*------------------------------------*/
+
+@use "../settings/type";
+@use "../tools/mixins";
+
+.c-logo {
+  margin-right: var(--space-32);
+
+  &__link {
+    display: block;
+    line-height: 1;
+    font-weight: var(--font-weight-bold);
+    font-size: type.$type--h-xxs;
+    font-family: var(--gh-font-heading, var(--font-family));
+    
+    @include mixins.attention() {
+      color: var(--ghost-accent-color);
+    }
+  }
+
+  &__img {
+    max-height: var(--space-40);
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Skip to content": "דלג לתוכן",
+  "Table of Contents": "תוכן העניינים",
+
+  "Search": "לחפש",
+
+  "Comments": "הערות",
+
+  "Loading": "טוען",
+  "More Posts ↓": "מאמרים נוספים ↓",
+  "All Posts →": "כל המאמרים →",
+
+  "Recent Posts": "מאמרים אחרונים",
+  "Featured Posts": "מאמרים נבחרים",
+  "Related Posts": "פוסטים קשורים",
+  "Page Not Found": "דף לא נמצא",
+  "Published with {ghostLink} & {themeLink}": "פורסם עם מערכות {ghostLink} ו- {themeLink} בהתאמה לעברית.",
+
+  "Share on Twitter": "שתפו בטוויטר",
+  "Share on Facebook": "שתפו בפייסבוק",
+  "Share on LinkedIn": "שתפו בלינקדאין",
+  "Share on Pinterest": "שתפו בפינטרסט",
+  "Share via Email": "שתפו במייל",
+  "Copy link": "העתק לינק",
+  "Link copied to clipboard": "לינק הועתק",
+
+  "Archive": "ארכיון",
+  "Tags": "תגיות",
+  "1 min read": "1 דקה לקריאה",
+  "% min read": "% min read",
+
+  "Paid": "בתשלום",
+  "Members": "חברים",
+  "Public": "ציבורי",
+
+  "Account": "חשבון",
+  "Log in": "התחברות",
+  "Subscribe": "הרשמה",
+  "Membership": "חברות",
+  "Your email address": "כתובל דוא״ל",
+  "{siteTitle} Newsletter": " ניוזלטר {siteTitle}",
+  "Please check your inbox and click the link to complete the login.": "בדקו את תיבת הדוא״ל שלכם ולחצו על הלינק לסיום ההתחברות.",
+  "Please check your inbox and click the link to confirm your subscription.": "בדקו את תיבת הדוא״ל שלכם ולחצו על הלינק לאישור ההרשמה.",
+  "Please enter a valid email address!": "נא להקליד כתובת דוא״ל תקנית",
+  "An error occurred, please try again later.": "קרתה טעות. אנא נסו שוב.",
+
+  "Already have an account?": "משתמש קיים?",
+  "Don't have an account yet?": "איך לך חשבון?",
+
+  "This content is for Members": "תוכן למנויים רשומים בלבד",
+  "This content is for Paid Members": "תוכן למנויים בתשלום בלבד",
+  "This content is for Subscribers on the ": "תוכן זה מיועד למנויים באתר ",
+  "Join the newsletter to receive the latest updates in your inbox.": "הירשמו לקבלת המאמרים ישירות לדוא״ל."
+}

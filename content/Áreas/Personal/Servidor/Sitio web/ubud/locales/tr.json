@@ -1,0 +1,55 @@
+{
+  "Skip to content": "içeriğe geç",
+  "Table of Contents": "İçindekiler",
+
+  "Search": "Ara",
+
+  "Comments": "Yorumlar",
+
+  "Loading": "Yükleniyor",
+  "More Posts ↓": "Daha Fazla Gönderi ↓",
+  "All Posts →": "Tüm gönderiler →",
+
+  "Recent Posts": "Son Gönderiler",
+  "Featured Post": "Öne Çıkan Gönderiler",
+  "Related Posts": "İlgili Mesajlar",
+  "Page Not Found": "Sayfa Bulunamadı",
+  "Published with {ghostLink} & {themeLink}": "{ghostLink} ve {themeLink} ile oluşturuldu",
+
+  "Share on Twitter": "Twitter'da Paylaş",
+  "Share on Facebook": "Facebook'ta Paylaş",
+  "Share on LinkedIn": "LinkedIn'de Paylaş",
+  "Share on Pinterest": "Pinterest'te Paylaş",
+  "Share via Email": "E-Posta ile Paylaş",
+  "Copy link": "Bağlantıyı kopyala",
+  "Link copied to clipboard": "Bağlantı panoya kopyalandı",
+
+  "Archive": "Arşiv",
+  "Tags": "Etiketler",
+  "1 min read": "1 dakikada okunur",
+  "% min read": "% dakikada okunur",
+
+  "Paid": "Ücretli",
+  "Members": "Üyeler",
+  "Public": "Herkese Açık",
+
+  "Account": "Hesap",
+  "Log in": "Giriş Yap",
+  "Subscribe": "Abone Ol",
+  "Membership": "Üyelik",
+  "Your email address": "E-Posta adresiniz",
+  "{siteTitle} Newsletter": "{siteTitle} Haber bülteni",
+  "Please check your inbox and click the link to complete the login.": "Lütfen gelen kutunuzu kontrol edin ve girişi tamamlamak için bağlantıya tıklayın.",
+  "Please check your inbox and click the link to confirm your subscription.": "Lütfen gelen kutunuzu kontrol edin ve aboneliğinizi onaylamak için bağlantıya tıklayın.",
+  "Please enter a valid email address!": "Lütfen geçerli bir e-posta adresi girin!",
+  "An error occurred, please try again later.": "Bir hata meydana geldi, lütfen tekrar deneyin.",
+
+  "Already have an account?": "Zaten bir hesabınız var mı?",
+  "Don't have an account yet?": "Henüz bir hesabınız yok mu?",
+
+  "This content is for Members": "Bu İçerik Üyeler içindir",
+  "This content is for Paid Members": "Bu İçerik Ücretli Üyeler içindir",
+  "This content is for Subscribers on the ": "Bu içerik, aboneler içindir ",
+  "Upgrade your account": "Hesabınızı yükseltin",
+  "Join the newsletter to receive the latest updates in your inbox.": "Bültene abone olun ve son güncellemeleri gelen kutunuza alın."
+}

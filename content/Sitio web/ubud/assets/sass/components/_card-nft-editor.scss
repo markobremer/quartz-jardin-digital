@@ -1,0 +1,59 @@
+/*------------------------------------*\
+  Components > Card NFT / Editor
+\*------------------------------------*/
+
+.c-content {
+  .kg-nft-card {
+    background-color: var(--background-primary);
+  }
+
+  .kg-nft-card a.kg-nft-card-container {
+    max-width: 100%;
+    box-shadow: none;
+    color: var(--color-text-primary);
+    border-radius: var(--space-4);
+    box-shadow: inset 0 0 0 1px var(--color-border);
+  }
+
+  .kg-ntf-image-container {
+    background-color: var(--background-secondary);
+    border-radius: var(--space-4) var(--space-4) 0 0;
+  }
+
+  .kg-nft-image {
+    aspect-ratio: 16 / 9;
+    border-radius: var(--space-4) var(--space-4) 0 0;
+  }
+
+  .kg-nft-metadata {
+    padding: var(--space-32);
+  }
+
+  .kg-nft-header h4.kg-nft-title {
+    font-size: var(--font-size-large);
+    line-height: var(--line-height-large);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text-primary);
+  }
+
+  .kg-nft-creator {
+    margin: var(--space-8) 0 0;
+
+    span {
+      font-weight: var(--font-weight-medium);
+      color: var(--color-text-primary);
+    }
+  }
+
+  .kg-nft-creator {
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+    color: var(--color-text-secondary);
+  }
+
+  .kg-nft-card p.kg-nft-description {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+    color: var(--color-text-primary);
+  }
+}

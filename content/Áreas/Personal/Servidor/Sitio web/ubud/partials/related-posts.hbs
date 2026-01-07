@@ -1,0 +1,21 @@
+<hr>
+{{#get 'posts' limit='3' filter='tags:[{{post.tags}}]+id:-{{post.id}}' as |related-posts|}}
+  {{#if related-posts}}
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+        <div class='c-title-bar'>
+          <h3 class='c-title-bar__title'>{{t 'Related Posts' }}</h3>
+          <span class='c-title-bar__divider'></span>
+        </div>
+      </div>
+    </div>
+
+    <div class='o-grid'>
+      <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+        {{#foreach related-posts}}
+          {{> post-card}}
+        {{/foreach}}
+      </div>
+    </div>
+  {{/if}}
+{{/get}}

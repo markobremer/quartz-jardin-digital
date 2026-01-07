@@ -1,0 +1,145 @@
+/*------------------------------------*\
+  Components > Card Header / Editor
+\*------------------------------------*/
+
+@use "../settings/type";
+@use '../components/button';
+@use "../vendor/mq";
+
+.kg-header-card.kg-width-full {
+  width: 100vw;
+}
+
+.kg-content-wide {
+  .kg-header-card-content {
+    width: 100%;
+    margin: auto;
+  }
+
+  &:not(.kg-layout-split) .kg-header-card-content {
+    max-width: calc(var(--grid-width) - var(--space-80));
+  }
+
+  &.kg-layout-split .kg-header-card-content {
+    @include mq.mq($from: desktop) {
+      max-width: calc(var(--grid-width) - var(--space-80));
+    }
+  }
+}
+
+.kg-header-card-heading {
+  font-family: var(--gh-font-heading, var(--font-family));
+}
+
+.c-content_ {
+  .kg-header-card {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    [class^='c-home'] & {
+      width: 100%;
+    }
+
+    + .kg-header-card {
+      margin-top: 0;
+    }
+
+    > * + * {
+      margin-top: var(--space-32);
+    }
+
+    > * {
+      max-width: var(--content-width);
+    }
+
+    :is(.kg-header-card-header, .kg-header-card-subheader) {
+      padding-left: var(--space-32);
+      padding-right: var(--space-32);
+    }
+
+    :is(.kg-header-card-button) {
+      margin-left: var(--space-32);
+      margin-right: var(--space-32);
+    }
+  }
+
+  // Sizes
+
+  .kg-size-small {
+    padding: var(--space-64) 0;
+  }
+
+  .kg-size-medium {
+    padding: var(--space-96) 0;
+  }
+
+  .kg-size-large {
+    padding: var(--space-128) 0;
+  }
+
+  // Styles
+
+  .kg-header-card-header {
+    font-size: type.$type--h-sm;
+    line-height: type.$type--h-sm-lh;
+  }
+
+  .kg-header-card-subheader {
+    font-size: var(--font-size-large);
+    line-height: var(--line-height-large);
+  }
+
+  .kg-header-card-button {
+    @extend .c-btn;
+  }
+
+  .kg-style-light {
+    --color-text-button: var(--color-text-button-headerCardStyleLight);
+    --color-background-button: var(--color-background-button-headerCardStyleLight);
+
+    color: var(--color-text-headerCardStyleLight);
+    background-color: var(--color-background-headerCardStyleLight);
+  }
+
+  .kg-style-dark {
+    --color-text-button: var(--color-text-button-headerCardStyleDark);
+    --color-background-button: var(--color-background-button-headerCardStyleDark);
+
+    color: var(--color-text-headerCardStyleDark);
+    background-color: var(--color-background-headerCardStyleDark);
+  }
+
+  .kg-style-accent {
+    --color-text-button: var(--color-text-button-headerCardStyleAccent);
+    --color-background-button: var(--color-background-button-headerCardStyleAccent);
+
+    color: var(--color-text-headerCardStyleAccent);
+    background-color: var(--color-background-headerCardStyleAccent);
+  }
+
+  .kg-style-image {
+    --color-text-button: var(--color-text-button-headerCardStyleImage);
+    --color-background-button: var(--color-background-button-headerCardStyleImage);
+
+    color: var(--color-text-headerCardStyleImage);
+    background-color: var(--color-background-headerCardStyleImage);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+    &:before {
+      position: absolute;
+      content: '';
+      inset: 0;
+      background: linear-gradient(0, transparent, rgba(0, 0, 0, .5));
+    }
+
+    * {
+      z-index: 1;
+    }
+  }
+}

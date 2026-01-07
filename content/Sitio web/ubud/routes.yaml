@@ -1,0 +1,17 @@
+routes:
+  /:
+    data: page.home
+    template:
+      - home
+  /archive/:
+    controller: channel
+    template: archive
+
+collections:
+  /blog/:
+    permalink: /{slug}/
+    template: index
+
+taxonomies:
+  tag: /tag/{slug}/
+  author: /author/{slug}/

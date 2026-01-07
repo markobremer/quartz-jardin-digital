@@ -1,0 +1,12 @@
+/*------------------------------------*\
+  Components > Post
+\*------------------------------------*/
+
+.c-post {
+  margin: auto;
+  max-width: var(--content-width);
+
+  > * + * {
+    margin-top: var(--space-32);
+  }
+}

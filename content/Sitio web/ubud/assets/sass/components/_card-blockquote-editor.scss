@@ -1,0 +1,14 @@
+/*------------------------------------*\
+  Components > Card Blockquote / Editor
+\*------------------------------------*/
+
+.kg-blockquote-alt {
+  padding-left: var(--space-24);
+  border-left: var(--space-4) solid var(--ghost-accent-color);
+
+  border-left: 0;
+  text-align: center;
+  font-style: italic;
+  font-size: var(--font-size-large);
+  line-height: var(--line-height-large);
+}

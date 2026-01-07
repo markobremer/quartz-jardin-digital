@@ -1,0 +1,20 @@
+/*------------------------------------*\
+  Components > Header
+\*------------------------------------*/
+
+@use "../vendor/mq";
+
+.c-header {
+  padding: var(--space-24) 0;
+
+  @include mq.mq($from: desktop) {
+    padding: var(--space-40) 0;
+  }
+
+  &__inner {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

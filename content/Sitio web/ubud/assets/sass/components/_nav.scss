@@ -1,0 +1,262 @@
+/*------------------------------------*\
+  Components > Site Navigation
+\*------------------------------------*/
+
+@use "../tools/mixins";
+@use "../vendor/mq";
+
+.c-nav-wrap {
+  @include mq.mq($until: desktop) {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100dvh;
+    padding: var(--space-24);
+    background-color: var(--background-secondary);
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(.96);
+
+    &.is-active {
+      opacity: 1;
+      visibility: visible;
+      transform: scale(1);
+      transition: all half(var(--motion-duration)) cubic-bezier(.694, 0, .335, 1);
+    }
+  }
+
+  @include mq.mq($from: desktop) {
+    display: block;
+    flex: 2;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+.c-nav {
+  @include mq.mq($until: desktop) {
+    width: 100%;
+    height: 100dvh;
+    overflow: auto;
+    display: flex;
+    gap: var(--space-16);
+    flex-direction: column;
+    padding: var(--space-24);
+    border-radius: var(--space-8);
+    background: var(--background-primary);
+  }
+
+  @include mq.mq($from: desktop) {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  &__item {
+    &:not(:last-child) {
+      @include mq.mq($from: desktop) {
+        margin-right: var(--space-20);
+      }
+    }
+
+    &--hasDropDown {
+      @include mq.mq($from: desktop) {
+        position: relative;
+
+        > .c-nav__link:after {
+          all: unset;
+          content: '↓';
+          padding-left: var(--space-4);
+        }
+
+        &:hover,
+        &:focus-within {
+          > .c-nav__link:after {
+            background-color: transparent;
+          }
+
+          .c-nav__dropDown {
+            opacity: 1;
+            visibility: visible;
+          }
+        }
+      }
+    }
+  }
+
+  &__dropDown {
+    z-index: 1;
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: var(--space-24);
+    padding: var(--space-24);
+    border-radius: var(--space-4);
+    background: var(--background-secondary);
+
+    .c-nav__item {
+      margin-right: 0 !important;
+
+      &:not(:last-child) {
+        margin-bottom: var(--space-16);
+      }
+    }
+  }
+
+  &__item--hasIcon {
+    @include mq.mq($until: desktop) {
+      display: inline-block;
+    }
+
+    &:not(:last-child) {
+      @include mq.mq($from: desktop) {
+        margin-right: var(--space-8);
+      }
+    }
+  }
+
+  &__item__icon {
+    display: flex;
+    width: var(--space-32);
+    height: var(--space-32);
+    justify-content: center;
+    fill: var(--color-text-primary);
+
+    &:empty {
+      background-color: var(--background-secondary);
+    }
+
+    @include mq.mq($from: desktop) {
+      position: relative;
+
+      &:after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 2px;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        background-color: transparent;
+      }
+    }
+
+    @include mixins.attention() {
+      &:after {
+        background-color: var(--color-text-primary);
+      }
+    }
+  }
+
+  &__link {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+    font-weight: var(--font-weight-medium);
+    white-space: nowrap;
+
+    @include mq.mq($until: desktop) {
+      font-size: var(--font-size-xsmall);
+      line-height: var(--line-height-xsmall);
+    }
+
+    @include mq.mq($from: desktop) {
+      position: relative;
+
+      &:after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 2px;
+        position: absolute;
+        bottom: - 2px;
+        background-color: transparent;
+      }
+    }
+
+    &--current {
+      &:after {
+        background-color: var(--color-text-primary);
+      }
+
+      .home-template & {
+        &:after {
+          background-color: transparent;
+        }
+      }
+    }
+
+    @include mixins.attention() {
+      &:after {
+        background-color: var(--color-text-primary);
+      }
+    }
+  }
+}
+
+.c-nav-toggle {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 10;
+  height: var(--space-16);
+  width: var(--space-24);
+  cursor: pointer;
+  transform: translateY(-50%);
+
+  @include mq.mq($from: desktop) {
+    display: none;
+  }
+
+  &__icon {
+    position: absolute;
+    left: 0;
+    height: 1px;
+    width: var(--space-24);
+    background: var(--color-text-primary);
+    cursor: pointer;
+
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      height: 100%;
+      background-color: inherit;
+    }
+
+    &:before { transform: translateY(16px) }
+    &:after { transform: translateY(7px); }
+
+    .c-nav-toggle--close & {
+      height: 2px;
+      background-color: transparent;
+
+      &:before,
+      &:after {
+        position: relative;
+        visibility: visible;
+        background: var(--color-text-primary);
+      }
+
+      &:before {
+        top: 9px;
+        transform: rotate(-45deg);
+      }
+
+      &:after {
+        top: 7px;
+        transform: rotate(45deg);
+      }
+    }
+  }
+}

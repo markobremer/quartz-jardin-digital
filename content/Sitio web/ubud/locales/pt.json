@@ -1,0 +1,55 @@
+{
+  "Skip to content": "Ir para o conteúdo",
+  "Table of Contents": "Índice",
+
+  "Search": "Pesquisa",
+
+  "Comments": "Comentários",
+
+  "Loading": "Carregando",
+  "More Posts ↓": "Mais mensagens ↓",
+  "All Posts →": "Todas as publicações →",
+
+  "Recent Posts": "Postagens recentes",
+  "Featured Posts": "Publicações em destaque",
+  "Related Posts": "Postagens relacionadas",
+  "Page Not Found": "Página não encontrada",
+  "Published with {ghostLink} & {themeLink}": "Publicado com {ghostLink} & {themeLink}",
+
+  "Share on Twitter": "Compartilhar no Twitter",
+  "Share on Facebook": "Compartilhar no Facebook",
+  "Share on LinkedIn": "Compartilhar no LinkedIn",
+  "Share on Pinterest": "Compartilhar no Pinterest",
+  "Share via Email": "Compartilhar via e-mail",
+  "Copy link": "Link de cópia",
+  "Link copied to clipboard": "Link copiado para a área de transferência",
+
+  "Archive": "Arquivo",
+  "Tags": "Tag",
+  "1 min read": "1 minuto ler",
+  "% min read": "% minuto ler",
+
+  "Paid": "Paga",
+  "Members": "Membros",
+  "Public": "Pública",
+
+  "Account": "Conta",
+  "Log in": "Assinar em",
+  "Subscribe": "Se inscrever",
+  "Membership": "Filiação",
+  "Your email address": "Seu endereço de email",
+  "{siteTitle} Newsletter": "{siteTitle} Boletim de Notícias",
+  "Please check your inbox and click the link to complete the login.": "Verifique sua caixa de entrada e clique no link para concluir o login.",
+  "Please check your inbox and click the link to confirm your subscription.": "Verifique sua caixa de entrada e clique no link para confirmar sua assinatura.",
+  "Please enter a valid email address!": "Por favor insira um endereço de e-mail válido!",
+  "An error occurred, please try again later.": "Ocorreu um erro. Por favor tente novamente mais tarde.",
+
+  "Already have an account?": "já tem uma conta?",
+  "Don't have an account yet?": "Não tem uma conta ainda?",
+
+  "This content is for Members": "Este conteúdo é para membros",
+  "This content is for Paid Members": "Este conteúdo é para membros pagos",
+  "This content is for Subscribers on the ": "Este conteúdo é para Assinantes no ",
+  "Upgrade your account": "Atualize sua conta",
+  "Join the newsletter to receive the latest updates in your inbox.": "Participe do boletim para receber as atualizações mais recentes em sua caixa de entrada."
+}

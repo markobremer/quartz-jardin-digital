@@ -1,0 +1,54 @@
+/*------------------------------------*\
+  Components > Hero
+\*------------------------------------*/
+
+@use "../vendor/mq";
+
+.c-home {
+  margin-bottom: var(--space-32);
+  background-color: var(--background-hero);
+
+  @include mq.mq($from: desktop) {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: var(--space-40);
+    grid-template-areas: 'media content';
+    margin-bottom: var(--space-40);
+
+    &--content-only {
+      display: block;
+    }
+  }
+
+  &--content-only {
+    border-radius: var(--space-4);
+  }
+
+  &__media {
+    @include mq.mq($from: desktop) {
+      grid-area: media;
+    }
+  }
+
+  &__image {
+    @include mq.mq($until: desktop) {
+      margin: auto;
+    }
+  }
+
+  &__content {
+    padding: var(--space-32);
+
+    @include mq.mq($from: desktop) {
+      grid-area: content;
+      display: flex;
+      align-items: center;
+      padding: var(--space-40) var(--space-40) var(--space-40) 0;
+
+      &--only {
+        padding: var(--space-40);
+      }
+    }
+  }
+}

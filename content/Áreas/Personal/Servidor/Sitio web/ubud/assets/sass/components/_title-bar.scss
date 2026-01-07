@@ -1,0 +1,47 @@
+/*------------------------------------*\
+  Components > title bar
+\*------------------------------------*/
+
+@use "../settings/type";
+@use "../vendor/mq";
+
+.c-title-bar {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: var(--space-40);
+  grid-template-areas: 'title divider';
+  align-items: center;
+  margin-bottom: var(--space-24);
+  min-height: var(--space-32);
+
+  @include mq.mq($from: desktop) {
+    min-height: var(--space-40);
+  }
+
+  @include mq.mq($from: tablet) {
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-areas: 'title title title divider divider divider divider divider divider divider divider divider';
+  }
+
+  &--wide {
+    @include mq.mq($from: desktop) {
+      grid-template-areas: 'title title divider divider divider divider divider divider divider divider divider divider';
+    }
+  }
+
+  &__title {
+    grid-area: title;
+    font-size: type.$type--h-xxxs;
+    line-height: type.$type--h-xxxs-lh;
+    font-weight: var(--font-weight-bold);
+    font-family: var(--gh-font-heading, var(--font-family));
+    white-space: nowrap;
+  }
+
+  &__divider {
+    grid-area: divider;
+    height: 2px;
+    background-color: var(--color-text-primary);
+  }
+}

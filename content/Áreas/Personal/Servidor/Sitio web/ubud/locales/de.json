@@ -1,0 +1,55 @@
+{
+  "Skip to content": "Zum Inhalt springen",
+  "Table of Contents": "Inhaltsverzeichnis",
+
+  "Search": "Suche",
+
+  "Comments": "Kommentare",
+
+  "Loading": "Wird geladen",
+  "More Posts ↓": "Weitere Artikel ↓",
+  "All Posts →": "Alle Artikel →",
+
+  "Recent Posts": "kürzliche Artikel",
+  "Featured Posts": "Beliebte Beiträge",
+  "Related Posts": "zusammenhängende Posts",
+  "Page Not Found": "Seite nicht gefunden",
+  "Published with {ghostLink} & {themeLink}": "Veröffentlicht mit {ghostLink} & {themeLink}",
+
+  "Share on Twitter": "Auf Twitter teilen",
+  "Share on Facebook": "Auf Facebook teilen",
+  "Share on LinkedIn": "Auf LinkedIn teilen",
+  "Share on Pinterest": "Auf Pinterest teilen",
+  "Share via Email": "Per E-Mail teilen",
+  "Copy link": "Link kopieren",
+  "Link copied to clipboard": "Link in die Zwischenablage kopiert",
+
+  "Archive": "Archiv",
+  "Tags": "Stichworte",
+  "1 min read": "1 minuten gelesen",
+  "% min read": "% minuten gelesen",
+
+  "Paid": "Bezahlt",
+  "Members": "Mitglieder",
+  "Public": "Öffentlichkeit",
+
+  "Account": "Konto",
+  "Log in": "Einloggen",
+  "Subscribe": "Abonnieren",
+  "Membership": "Mitgliedschaft",
+  "Your email address": "Deine E-Mail-Adresse",
+  "{siteTitle} Newsletter": "{siteTitle} Newsletter",
+  "Please check your inbox and click the link to complete the login.": "Bitte überprüfen Sie Ihren Posteingang und klicken Sie auf den Link, um die Anmeldung abzuschließen.",
+  "Please check your inbox and click the link to confirm your subscription.": "Bitte überprüfen Sie Ihren Posteingang und klicken Sie auf den Link, um Ihr Abonnement zu bestätigen.",
+  "Please enter a valid email address!": "Bitte geben Sie eine gültige E-Mail-Adresse ein!",
+  "An error occurred, please try again later.": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.",
+
+  "Already have an account?": "Hast du schon ein Konto?",
+  "Don't have an account yet?": "Sie haben noch keinen Account?",
+
+  "This content is for Members": "Dieser Inhalt ist für Mitglieder",
+  "This content is for Paid Members": "Dieser Inhalt ist für bezahlte Mitglieder",
+  "This content is for Subscribers on the ": "This content is for Subscribers on the ",
+  "Upgrade your account": "Aktualisieren Sie Ihr Konto",
+  "Join the newsletter to receive the latest updates in your inbox.": "Treten Sie dem Newsletter bei, um die neuesten Updates in Ihrem Posteingang zu erhalten"
+}

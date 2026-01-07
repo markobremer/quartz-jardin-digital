@@ -1,0 +1,33 @@
+/*------------------------------------*\
+  Components > Share Icons
+\*------------------------------------*/
+
+@use "../tools/mixins";
+
+.c-share {
+  display: flex;
+
+  &__item {
+    &:not(:last-child) {
+      margin-right: var(--space-8);
+    }
+  }
+
+  &__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--space-40);
+    height: var(--space-40);
+    border-radius: 100%;
+    border: 1px solid var(--color-border);
+
+    @include mixins.attention() {
+      opacity: .8;
+    }
+  }
+
+  &__icon {
+    fill: var(--color-text-primary);
+  }
+}

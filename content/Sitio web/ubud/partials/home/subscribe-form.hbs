@@ -1,0 +1,33 @@
+{{!--
+
+  ## Visible on:
+  1. Homepage content section
+
+  ## This partial is called on the following theme files:
+  1. partials/home/style-image-left.hbs
+  2. partials/home/style-image-right.hbs
+  3. partials/home/style-image-circle.hbs
+  4. partials/home/style-image-center.hbs
+  5. partials/home/style-image-wide.hbs
+  6. partials/home/style-image-full.hbs
+
+  ## Visible if:
+  1. The user is not a member
+  1. The website *Subscription access* is `Anyone can sign up`
+
+  ## Hidden if:
+  1. The user is already a member
+  2. The website *Subscription access* is set to `Nobody` or `Only people I invite`
+--}}
+
+{{#unless @member}}
+  {{#if @site.members_enabled}}
+    {{#unless @site.members_invite_only}}
+      {{>
+        subscribe-form
+        nameLabel='home-content-subscribe-form-name'
+        emailLabel='home-content-subscribe-form-email'
+      }}
+    {{/unless}}
+  {{/if}}
+{{/unless}}

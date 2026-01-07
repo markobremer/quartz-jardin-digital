@@ -1,0 +1,34 @@
+{{!-- Homepage / Image Circle Style --}}
+
+{{#page}}
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--center o-grid__col--9-10-m o-grid__col--2-3-l'>
+      <div class='c-home-circle'>
+        {{#if feature_image}}
+          {{#match @custom.homepage_layout_style "Image Circle Small"}}
+            {{> home/style-image-circle--small }}
+          {{/match}}
+
+          {{#match @custom.homepage_layout_style "Image Circle Medium"}}
+            {{> home/style-image-circle--medium }}
+          {{/match}}
+
+          {{#match @custom.homepage_layout_style "Image Circle Large"}}
+            {{> home/style-image-circle--large }}
+          {{/match}}
+
+          {{#match @custom.homepage_layout_style "Image Circle xLarge"}}
+            {{> home/style-image-circle--xLarge }}
+          {{/match}}
+        {{/if}}
+        <div class='c-home-circle__content'>
+          <section class='c-content'>
+            {{ content }}
+
+            {{> home/subscribe-form }}
+          </section>
+        </div>
+      </div>
+    </div>
+  </div>
+{{/page}}

@@ -1,0 +1,57 @@
+/*------------------------------------*\
+  Components > Footer
+\*------------------------------------*/
+
+@use "../tools/mixins";
+@use "../vendor/mq";
+
+.c-footer {
+  padding: var(--space-32) 0;
+  margin-top: var(--space-40);
+  text-align: center;
+}
+
+.c-footer-copy {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-xxsmall);
+  line-height: var(--line-height-xxsmall);
+
+  a {
+    color: var(--color-text-secondary);
+
+    @include mixins.attention() {
+      color: var(--ghost-accent-color);
+    }
+  }
+}
+
+.c-footer-nav {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  margin-bottom: var(--space-8);
+
+  li {
+    @include mq.mq($until: desktop) {
+      margin-bottom: var(--space-4);
+    }
+
+    &:not(:last-child) {
+      margin-right: var(--space-16);
+    }
+  }
+
+  a {
+    font-size: var(--font-size-xxsmall);
+    line-height: var(--line-height-xxsmall);
+    color: var(--color-text-secondary);
+
+    &:after {
+      height: 0;
+    }
+
+    @include mixins.attention() {
+      color: var(--ghost-accent-color);
+    }
+  }
+}

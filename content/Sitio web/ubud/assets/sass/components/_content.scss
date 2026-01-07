@@ -1,0 +1,129 @@
+/*------------------------------------*\
+  Components > Content
+\*------------------------------------*/
+
+@use "../settings/type";
+@use "../tools/mixins";
+
+.c-content {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  word-break: break-word;
+
+  &--has-shadow {
+    mask-image: linear-gradient(to bottom, var(--color-text-primary) 30%, transparent 100%);
+  }
+
+  > * {
+    min-width: 100%;
+  }
+
+  > * + * {
+    margin-top: var(--space-24);
+  }
+
+  // Remove space between full-width cards
+  > .kg-width-full + .kg-width-full:not(.kg-width-full.kg-card-hascaption + .kg-width-full) {
+    margin-top: 0;
+  }
+
+  a:not([class]) {
+    text-decoration: underline;
+    text-underline-offset: var(--space-4);
+
+    @include mixins.attention() {
+      color: var(--ghost-accent-color);
+    }
+  }
+
+  table {
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+  }
+
+  hr {
+    margin-bottom: 0;
+    border-top: 1px solid var(--color-border);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: var(--space-40);
+    letter-spacing: var(--font-letter-space-negative);
+    font-family: var(--gh-font-heading, var(--font-family));
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    + * {
+      margin-top: var(--space-8);
+    }
+  }
+
+  h1 {
+    font-size: type.$type--h-sm;
+    line-height: type.$type--h-sm-lh;
+
+    + h2, + h3, + h4, + h5, + h6 {
+      margin-top: var(--space-16);
+    }
+  }
+
+  h2 {
+    font-size: type.$type--h-xs;
+    line-height: type.$type--h-xs-lh;
+
+    + h3, + h4, + h5, + h6 {
+      margin-top: var(--space-16);
+    }
+  }
+
+  h3 {
+    font-size: type.$type--h-xxs;
+    line-height: type.$type--h-xxs-lh;
+
+    + h4, + h5, + h6 {
+      margin-top: var(--space-16);
+    }
+  }
+
+  h4 {
+    font-size: type.$type--h-xxs;
+    line-height: type.$type--h-xxs-lh;
+
+    + h5, + h6 {
+      margin-top: var(--space-8);
+    }
+  }
+
+  h5 {
+    font-size: type.$type--h-xxxs;
+    line-height: type.$type--h-xxxs-lh;
+
+    + h6 {
+      margin-top: var(--space-8);
+    }
+  }
+
+  dd, ol, ul {
+    padding-left: var(--space-12);
+    padding-right: var(--space-16);
+
+    > * + * {
+      margin-top: var(--space-12);
+    }
+
+    // Target Safari Only
+    &:not(:root:root) {
+      -webkit-padding-start: var(--space-12);
+    }
+  }
+
+  // Hide Ghost built-in upgrade call to action box
+  .gh-post-upgrade-cta {
+    display: none;
+    visibility: hidden
+  }
+}

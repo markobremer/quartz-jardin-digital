@@ -1,0 +1,37 @@
+{{!-- Homepage layout styles --}}
+
+{{#match @custom.homepage_layout_style "Image Left"}}
+  {{> home/style-image-left }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Right"}}
+  {{> home/style-image-right }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Circle Small"}}
+  {{> home/style-image-circle }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Circle Medium"}}
+  {{> home/style-image-circle }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Circle Large"}}
+  {{> home/style-image-circle }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Circle xLarge"}}
+  {{> home/style-image-circle }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Center"}}
+  {{> home/style-image-center }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Wide"}}
+  {{> home/style-image-wide }}
+{{/match}}
+
+{{#match @custom.homepage_layout_style "Image Full"}}
+  {{> home/style-image-full }}
+{{/match}}

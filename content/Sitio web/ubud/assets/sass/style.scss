@@ -1,0 +1,34 @@
+// *------------------------------------*\
+// Main Style
+// *------------------------------------*/
+
+// Tools
+@use 'tools/_all' as tools;
+
+
+// Settings
+@use 'settings/_all' as settings;
+
+
+// Vendor
+@use 'vendor/_all' as vendor;
+
+
+// Generic
+@use 'generic/_all' as generic;
+
+
+// Objects
+@use 'objects/_all' as objects;
+
+
+// Elements
+@use 'elements/_all' as elements;
+
+
+// Components
+@use 'components/_all' as components;
+
+
+// Trumps
+@use 'trumps/_all' as trumps;

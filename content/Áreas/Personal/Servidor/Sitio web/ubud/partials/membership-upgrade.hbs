@@ -1,0 +1,27 @@
+<section class='c-subscribe'>
+  <div class='c-subscribe__content u-text-center'>
+    {{#has visibility='members'}}
+      <h2 class='c-subscribe__heading u-type-500 u-mb-16'>{{t 'This content is for Members' }}</h3>
+    {{/has}}
+
+    {{#has visibility='paid'}}
+      <h2 class='c-subscribe__heading u-type-500 u-mb-8'>{{t 'This content is for Paid Members' }}</h2>
+      <p class='u-mb-16'>{{t 'Unlock full access to {siteTitle} and see the entire library of members-only content.' siteTitle=@site.title}}</p>
+    {{/has}}
+
+    {{#has visibility='tiers'}}
+      <h2 class='c-subscribe__heading u-type-500 u-mb-16'>{{t 'This Content is for Subscribers on the '}}{{tiers}}</h2>
+    {{/has}}
+
+    {{#if @member}}
+      <a class='c-btn' href='#/portal/account/plans'>{{t 'Upgrade your account'}}</a>
+    {{else}}
+      <a class='c-btn' href='#/portal/signup'>{{t 'Subscribe'}}</a>
+      <p class='u-type-xs  u-mt-16 u-type-500'>{{t 'Already have an account?'}} <a href='#/portal/signin' class='u-link'>{{t 'Log in'}}</a></p>
+    {{/if}}
+  </div>
+
+  <div class='c-subscribe__icon'>
+    {{> subscribe-box-icon }}
+  </div>
+</section>

@@ -1,0 +1,20 @@
+<footer class='c-footer'>
+  <div class='o-grid'>
+
+    {{#if @site.secondary_navigation}}
+      <div class='o-grid__col--initial-grow o-grid__col--4-4-s'>
+        <ul class='c-footer-nav o-plain-list'>
+          {{ navigation type='secondary' }}
+        </ul>
+      </div>
+    {{/if}}
+
+    <div class='o-grid__col--initial-grow o-grid__col--4-4-s'>
+      <div class='c-footer-copy'>
+        &copy; {{ date format='YYYY' }} {{ @site.title }} -
+        {{{t 'Published with {ghostLink} & {themeLink}' ghostLink='<a href=\'https://ghost.org\'>Ghost</a>' themeLink='<a href=\'https://aspirethemes.com/themes/ubud\'>Ubud</a>' }}}
+      </div>
+    </div>
+
+  </div>
+</footer>

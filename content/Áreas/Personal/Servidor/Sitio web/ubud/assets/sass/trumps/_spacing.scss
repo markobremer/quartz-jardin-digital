@@ -1,0 +1,43 @@
+/*------------------------------------*\
+  Trumbs > Spacing
+\*------------------------------------*/
+
+@use "../vendor/mq";
+
+.u-mt-8 {
+  margin-top: var(--space-8);
+}
+
+.u-mt-16 {
+  margin-top: var(--space-16);
+}
+
+.u-mt-32 {
+  margin-top: var(--space-32);
+}
+
+.u-mb-8 {
+  margin-bottom: var(--space-8);
+}
+
+.u-mb-16 {
+  margin-bottom: var(--space-16);
+}
+
+.u-mb-24 {
+  margin-bottom: var(--space-24);
+}
+
+.u-mb-32 {
+  margin-bottom: var(--space-32);
+}
+
+.u-p-32 {
+  padding: var(--space-32);
+}
+
+.u-p-40-lg {
+  @include mq.mq($from: desktop) {
+    padding: var(--space-40);
+  }
+}

@@ -1,0 +1,19 @@
+- Primer entregable fue para los candidatos, en otras iteraciones tenemos que apuntar a que nuestros públicos congreso, los gremios y mundo privado.
+- Voceros de los consensos, parte de la estrategia del área política. Otra figura, distinta de los coordinadores. Opción de formarlos.
+- ¿Cómo mantenemos a los expertos vinculados?, cómo proponemos nuevas 
+- ¿Política o comunicación? Sensibilidad a la significancia del concepto hoy en día.
+- Ejemplo de vocero de forestal, “es parte de un diseño de esta institución”.
+- “Tenemos que tener un consejo asesor parlamentario: 5 diputados y 5 senadores. Protagonismo gana-gana”.
+- “Soy Proyecta Chile”: estrategia de incidencia basada en “fidelizar” a aliados militantes del consenso. Advocacy, “eso se entrena”, lo invistes y le entregas herramientas para lograrlo.
+- Experiencia de GE de “inocular contenido” a alcaldes... ¿Qué posibilidad tiene Proyecta Chile de utilizar una estrategia similar? No sólo un contenido, sino que una “forma de conversar”.
+- ¿Cómo se logra que la participación de los expertos (y funciones adicionales) no sea sólo altruismo, sino que también hayan beneficios concretos que lo haga atractivo? Ej: visibilidad, formación, estatus.
+- Sobre la territorialidad... ¿Qué posibilidad hay que los ejercicios de prospectiva que facilitan desde la Fundación no sean sólo temáticos, sino que también territoriales? Ej: “Concepción 2050”.
+- El riesgo de representatividad no está en el eje político, sino que en el clivaje élite/pueblo.
+- Kit metodológico para facilitarle la pega a quienes quieren desplegar procesos similares pero no saben cómo. “El consenso como cultura, y el instrumental para poder realizarlo”.
+- “Nuestra función es promover el consenso”: Esto debe ser el mantra que organiza todas los objetivos y actividades de la Fundación.
+- Objetivo de generación de consenso debe ser responsabilidad del área técnica especificar criterios.
+- Importancia de generar un ánimo de esperanza. Ejemplo del problema que implica su pérdida con el concepto de ecoansiedad.
+- Área de comunidad y vinculación con el medio. Podcast de proyecta Chile.
+- Hernán: “Todavía no tengo tan claro cuál es nuestra ambición, cuánto queremos incidir”.
+- Cuando se desarrollan propuestas, el paso siguiente es identificar cuáles son los obstáculos o cuellos de botella que impiden su implementación. 
+- “Frustración al llegar a conversar con un gobierno entrante por no tener una hoja de ruta lo suficientemente precisa”.

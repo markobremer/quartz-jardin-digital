@@ -1,0 +1,13 @@
+/*------------------------------------*\
+  Trumbs > Links
+\*------------------------------------*/
+
+@use "../tools/mixins";
+
+.u-link {
+  color: var(--ghost-accent-color);
+
+  @include mixins.attention() {
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,3 @@
+Considerar lo planteado en [este artículo](https://readwise.io/reader/shared/01ke56vt4s2atem22b4kjzm2m4) respecto del cómo las capacidades requeridas en un mundo laboral percolado por la IA serán menos vinculadas a la ejecución y más a la capacidad de hacer buenas preguntas.
+
+Vincular esto con lo planteado por [[Anette Karmiloff-Smith]] en términos de su idea de  [[redescripción representacional]] y cómo esta implica que las capacidades [[metacognición|metacognitivas]] de hacerse preguntas para cuestionar los propios [[modelos cognitivos]] son la más alta representación de las capacidades computacionales humanas

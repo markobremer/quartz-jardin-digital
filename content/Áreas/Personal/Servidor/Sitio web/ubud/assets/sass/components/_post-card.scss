@@ -1,0 +1,166 @@
+/*------------------------------------*\
+  Components > Post Card
+\*------------------------------------*/
+
+@use "../tools/mixins";
+@use "../vendor/mq";
+
+.c-post-card {
+  position: relative;
+  padding-bottom: var(--space-32);
+
+  @include mq.mq($from: desktop) {
+    padding-bottom: var(--space-40);
+  }
+
+  &:not(:first-child) {
+    padding-top: var(--space-32);
+
+    @include mq.mq($from: desktop) {
+      padding-top: var(--space-40);
+    }
+
+    &:before {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 1px;
+      position: absolute;
+      top: 0;
+      background-color: var(--color-border);
+    }
+  }
+
+  @include mq.mq($from: tablet) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: var(--space-40);
+    grid-auto-columns: 50vmax;
+    grid-template-areas: 'meta meta meta content content content content content content media media media';
+
+    &--no-image {
+      grid-template-areas: 'meta meta meta content content content content content content content content content';
+    }
+
+    &--wide {
+      grid-template-areas: 'meta meta content content content content content content content media media media';
+    }
+
+    &__meta {
+      grid-area: meta;
+    }
+
+    &__content {
+      grid-area: content;
+    }
+
+    &__media {
+      grid-area: media;
+    }
+  }
+
+  &__meta {
+    @include mq.mq($until: tablet) {
+      margin-bottom: var(--space-8);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+
+  &__date {
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+    color: var(--color-text-secondary);
+  }
+
+  &__visibility {
+    font-size: var(--font-size-xxsmall);
+    line-height: var(--line-height-xxsmall);
+    text-transform: uppercase;
+    letter-spacing: var(--font-letter-space);
+    color: var(--color-text-secondary);
+
+    @include mq.mq($from: tablet) {
+      margin-top: var(--space-8);
+    }
+
+    span {
+      display: none;
+      visibility: hidden;
+    }
+
+    &--paid .paid,
+    &--tiers .paid,
+    &--members .members,
+    &--public .public {
+      display: block;
+      visibility: visible;
+    }
+
+    &--is-member.c-post-card__visibility--public,
+    &--is-member.c-post-card__visibility--members {
+      display: none;
+      visibility: hidden
+    }
+
+    &--is-paid-member {
+      display: none;
+      visibility: hidden
+    }
+  }
+
+  &__title {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-small);
+    font-family: var(--gh-font-heading, var(--font-family));
+  }
+
+  &__url:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+
+  &__excerpt {
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+    margin-top: var(--space-8);
+    overflow-y: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    word-wrap: anywhere;
+  }
+
+  &__image-wrap {
+    display: block;
+    position: relative;
+    padding-top: 66.66%;
+    background-color: var(--background-secondary);
+
+    @include mq.mq($until: tablet) {
+      margin-top: var(--space-16);
+    }
+  }
+
+  &__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @include mixins.attention() {
+    .c-post-card__url {
+      border-bottom: 2px solid var(--color-text-primary);
+    }
+  }
+}

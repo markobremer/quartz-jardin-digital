@@ -1,0 +1,45 @@
+// ------------------------------------
+// Components > Card General Style / Editor
+// ------------------------------------
+
+@use "../vendor/mq";
+
+.kg-card figcaption {
+  width: 100%;
+  text-align: center;
+  padding: var(--space-16);
+  font-size: var(--font-size-xsmall);
+  line-height: var(--line-height-xsmall);
+  color: var(--color-text-secondary);
+  background-color: var(--background-primary);
+}
+
+.kg-width-wide {
+  width: 100%;
+
+  @include mq.mq($from: desktop) {
+    width: 100vw;
+    max-width: calc(var(--grid-width) - var(--space-80));
+  }
+
+  [class^='c-home'] & {
+    width: 100%;
+  }
+}
+
+.kg-width-full {
+  figcaption {
+    padding-left: var(--space-16);
+  }
+
+  @include mq.mq($from: tablet) {
+    :is(video, .kg-image) {
+      max-width: 100vw;
+      pointer-events: none;
+
+      [class^='c-home'] & {
+        max-width: 100%;
+      }
+    }
+  }
+}

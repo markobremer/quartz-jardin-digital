@@ -1,0 +1,53 @@
+<header class='c-header'>
+  <a href='#main-content' class='c-skip-to-content'>{{t 'Skip to content' }}</a>
+
+  <div class='o-grid'>
+    <div class='o-grid__col'>
+      <div class='c-header__inner'>
+        <div class='c-logo'>
+          {{#if @site.logo}}
+            <a href='{{ @site.url }}'>
+              <img class='c-logo__img' src='{{ @site.logo }}' alt='{{ @site.title }}' width='' height=''>
+            </a>
+          {{else}}
+            <a class='c-logo__link' href='{{ @site.url }}'>{{ @site.title }}</a>
+          {{/if}}
+        </div>
+
+        <nav class='c-nav-wrap' aria-label='Main Navigation'>
+          <ul class='c-nav o-plain-list'>
+            {{ navigation }}
+
+            {{#if @site.members_enabled}}
+              {{#if @member}}
+                <li class='c-nav__item is-membership'><a href='#/portal/account' class='c-nav__link'>{{t 'Account' }}</a></li>
+              {{else}}
+                <li class='c-nav__item is-membership'><a href='#/portal/signin' class='c-nav__link'>{{t 'Log in' }}</a></li>
+                {{#unless @site.members_invite_only}}
+                  <li class='c-nav__item is-membership'><a href='#/portal/signup' class='c-nav__link u-color-brand'>{{t 'Membership' }}</a></li>
+                {{/unless}}
+              {{/if}}
+            {{/if}}
+
+            {{> social-icons }}
+
+            {{#if @custom.show_search}}
+              <li class='c-nav__item c-nav__item--hasIcon'>
+                <button class='toggle-search-button' data-ghost-search>
+                  <span class='c-nav__item__icon' data-icon='ei-search' data-size='s'></span>
+                  <span class='u-hidden-visually'>{{t 'Search' }}</span>
+                </button>
+              </li>
+            {{/if}}
+          </ul>
+        </nav>
+
+        <div class='js-nav-toggle c-nav-toggle'>
+          <span class='c-nav-toggle__icon'></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+{{> drop-down-js }}

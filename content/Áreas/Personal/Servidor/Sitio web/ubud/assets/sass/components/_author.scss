@@ -1,0 +1,99 @@
+/*------------------------------------*\
+  Components > Author
+\*------------------------------------*/
+
+@use "../settings/type";
+@use "../tools/mixins";
+@use "../vendor/mq";
+
+.c-author {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-32);
+  margin-bottom: var(--space-32);
+  text-align: center;
+  border-radius: var(--space-4);
+  background-color: var(--background-secondary);
+
+  @include mq.mq($from: tablet) {
+    flex-direction: row;
+    text-align: left;
+    align-items: flex-start;
+  }
+
+  @include mq.mq($from: desktop) {
+    margin-bottom: var(--space-40);
+  }
+
+  &__media {
+    width: var(--space-80);
+    height: var(--space-80);
+    border-radius: 100%;
+    margin-bottom: var(--space-16);
+    background-color: var(--background-primary);
+
+    @include mq.mq($from: tablet) {
+      margin-bottom: 0;
+      margin-right: var(--space-24);
+    }
+  }
+
+  &__image {
+    object-fit: cover;
+    width: var(--space-80);
+    height: var(--space-80);
+    min-width: var(--space-80);
+    border-radius: 100%;
+  }
+
+  &__title {
+    font-size: type.$type--h-xs;
+    line-height: type.$type--h-xs-lh;
+    font-family: var(--gh-font-heading, var(--font-family));
+  }
+
+  &__bio {
+    font-size: var(--ub-font-size-small);
+    line-height: var(--line-height-small);
+    margin-top: var(--space-8);
+    word-break: break-word;
+  }
+}
+
+.c-author__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: var(--space-8);
+  color: var(--color-text-secondary);
+
+  @include mq.mq($from: tablet) {
+    justify-content: flex-start;
+  }
+
+  &-item {
+    display: flex;
+    align-items: center;
+    font-size: var(--font-size-xsmall);
+
+    &:not(:last-child) {
+      margin-right: var(--space-8);
+    }
+
+    a {
+      @include mixins.attention() {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &-icon {
+    fill: var(--color-text-secondary);
+    vertical-align: bottom;
+
+    @include mixins.attention() {
+      fill: var(--ghost-accent-color);
+    }
+  }
+}
