@@ -27,18 +27,45 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Clone Obsidian vault
+      - name: Clone Obsidian vault (with history for dates)
         run: |
-          git clone --depth 1 https://x-access-token:${{ secrets.VAULT_TOKEN }}@github.com/ph27p2t9hq-ship-it/obsidian-vault.git vault-temp
+          git clone https://x-access-token:${{ secrets.VAULT_TOKEN }}@github.com/ph27p2t9hq-ship-it/obsidian-vault.git vault-temp
 
-      - name: Sync Zettelkasten to content
+      - name: Sync Zettelkasten to content root
         run: |
-          rm -rf content/Zettelkasten
-          cp -r vault-temp/Zettelkasten content/
-          # Recreate symlink for index
-          rm -f content/index.md
-          ln -s Zettelkasten/Bienvenidos.md content/index.md
-          # Cleanup
+          # Clear existing content except static files
+          find content -mindepth 1 -not -name '.gitkeep' -not -name '.gitignore' -delete 2>/dev/null || true
+
+          # Copy Zettelkasten files directly to content (not in subfolder)
+          cp -r vault-temp/Zettelkasten/* content/
+
+          # Set Bienvenidos.md as index
+          if [ -f content/Bienvenidos.md ]; then
+            cp content/Bienvenidos.md content/index.md
+          fi
+
+      - name: Add modification dates to frontmatter
+        run: |
+          cd vault-temp
+          for file in Zettelkasten/*.md; do
+            filename=$(basename "$file")
+            target="../content/$filename"
+            if [ -f "$target" ]; then
+              # Get last modification date from git
+              mod_date=$(git log -1 --format="%aI" -- "$file" 2>/dev/null | cut -d'T' -f1)
+              if [ -n "$mod_date" ]; then
+                # Check if file has frontmatter
+                if head -1 "$target" | grep -q "^---"; then
+                  # Add modified date to existing frontmatter
+                  sed -i "2i modified: $mod_date" "$target"
+                else
+                  # Create frontmatter with modified date
+                  sed -i "1i ---\nmodified: $mod_date\n---\n" "$target"
+                fi
+              fi
+            fi
+          done
+          cd ..
           rm -rf vault-temp
 
       - uses: actions/setup-node@v4

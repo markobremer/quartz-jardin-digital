@@ -38,10 +38,23 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "Ideas" }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false,
+        repelForce: 0.5,
+        centerForce: 0.5,
+        opacityScale: 3,
+      },
+      globalGraph: {
+        showTags: false,
+        repelForce: 0.3,
+        centerForce: 0.5,
+        opacityScale: 3,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -62,7 +75,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ title: "Ideas" }),
   ],
   right: [],
 }
