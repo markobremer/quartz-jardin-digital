@@ -44,6 +44,24 @@ jobs:
             cp content/Bienvenidos.md content/index.md
           fi
 
+      - name: Sync Readwise as unlisted (for embeds only)
+        run: |
+          # Copy Readwise folder
+          if [ -d vault-temp/Readwise ]; then
+            cp -r vault-temp/Readwise content/Readwise
+
+            # Mark all Readwise files as unlisted (won't appear in explorer/graph)
+            find content/Readwise -name "*.md" -type f | while read file; do
+              if head -1 "$file" | grep -q "^---"; then
+                # Has frontmatter - add unlisted after first line
+                sed -i '2i unlisted: true' "$file"
+              else
+                # No frontmatter - create it
+                sed -i '1i ---\nunlisted: true\n---\n' "$file"
+              fi
+            done
+          fi
+
       - name: Add modification dates to frontmatter
         run: |
           cd vault-temp
