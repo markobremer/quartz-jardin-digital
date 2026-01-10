@@ -46,18 +46,22 @@ jobs:
 
       - name: Sync Readwise as unlisted (for embeds only)
         run: |
-          # Copy Readwise folder
+          # Copy Readwise folder (excluding Tweets which have problematic YAML)
           if [ -d vault-temp/Readwise ]; then
-            cp -r vault-temp/Readwise content/Readwise
+            mkdir -p content/Readwise
+            # Copy all except Tweets folder
+            find vault-temp/Readwise -mindepth 1 -maxdepth 1 -type d ! -name "Tweets" -exec cp -r {} content/Readwise/ \;
+            # Copy root level files
+            find vault-temp/Readwise -maxdepth 1 -name "*.md" -exec cp {} content/Readwise/ \;
 
-            # Mark all Readwise files as unlisted (won't appear in explorer/graph)
+            # Mark all Readwise files as unlisted using awk (more robust)
             find content/Readwise -name "*.md" -type f | while read file; do
               if head -1 "$file" | grep -q "^---"; then
-                # Has frontmatter - add unlisted after first line
-                sed -i '2i unlisted: true' "$file"
+                # Has frontmatter - insert unlisted after opening ---
+                awk 'NR==1 {print; print "unlisted: true"; next} 1' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
               else
                 # No frontmatter - create it
-                sed -i '1i ---\nunlisted: true\n---\n' "$file"
+                { echo "---"; echo "unlisted: true"; echo "---"; echo ""; cat "$file"; } > "$file.tmp" && mv "$file.tmp" "$file"
               fi
             done
           fi
