@@ -10,3 +10,8 @@
 .explorer ul > li > .folder-container > .folder-button {
   font-weight: normal;
 }
+
+// Backlinks: normal font weight instead of bold
+.backlinks ul > li > a {
+  font-weight: normal;
+}
