@@ -38,7 +38,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ title: "Ideas" }),
+    Component.Explorer({
+      title: "Ideas",
+      filterFn: (node) => !node.file?.slug?.startsWith("Readwise/"),
+    }),
   ],
   right: [
     Component.Graph({
@@ -75,7 +78,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ title: "Ideas" }),
+    Component.Explorer({
+      title: "Ideas",
+      filterFn: (node) => !node.file?.slug?.startsWith("Readwise/"),
+    }),
   ],
   right: [],
 }
