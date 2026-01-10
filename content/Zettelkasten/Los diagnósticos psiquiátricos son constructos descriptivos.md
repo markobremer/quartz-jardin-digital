@@ -1,3 +1,0 @@
-No entidades etiológicas. Lo describe acertadamente [[Jonathan Shedler]] en [este artículo](https://readwise.io/reader/shared/01ke7ww0az68w5gy4pgb6c4cgbhttps://readwise.io/reader/shared/01ke7ww0az68w5gy4pgb6c4cgb).
-
-El problema es que entender esto no es sencillo, y por esta razón las personas tienden a reificar estos conceptos y cometer en un error categorial, cayendo en el riesgo de identificarse con ellos. Esto es lo que está en juego (y explica) el [[Efecto Rumpelstinskin]].

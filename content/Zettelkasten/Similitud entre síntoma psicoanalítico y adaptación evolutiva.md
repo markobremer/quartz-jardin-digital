@@ -1,9 +1,0 @@
-La siguiente cita muestra cómo los rasgos adaptativos tienen que encontrar una solución óptima para una ecuación que tiene muchas variables, y cómo estas están sujetas a un perpetuo cambio:
-
-> "las adaptaciones nunca son una solución ideal para todos los desafíos de la supervivencia, sino que son el producto de una negociación: un mismo rasgo puede resultar conveniente para determinadas cosas e inconveniente para otras. Por ejemplo, la capacidad de camuflarse es genial a la hora de evitar ser devorado por un predador, pero se torna un obstáculo cuando el desafío ya no es la mera supervivencia sino conseguir una pareja sexual para dejar descendencia. La naturaleza presiona todo el tiempo en diversas direcciones y el fenotipo resultante es una especie de solución de compromiso en ese tironeo" ([Location 283](https://readwise.io/to_kindle?action=open&asin=B0B5KFCMZK&location=283))
-
-Los [[Síntoma Psicoanalítico|síntomas psicoanalíticos]] también involucran un tradeoff entre la satisfacción de procesos. Las metáforas que utiliza Freud sobre cómo el Yo está constantemente negociando con el Ello y el Superyó para encontrar una solución óptima de equilibrio entre los tres da cuenta de ello.
-
-La idea de la similitud entre ambos procesos es interesante, porque abre la posiblidad de extender esta comparación y empezar a pensar el aparato psíquico como un ecosistema poblado de procesos de naturaleza diversa, en constante [[Adaptación|adaptación]] y [[Coevolución|coevolución]], que generan "presiones adaptativas" qué sólo se pueden resolver parcial y localmente [^1]. *Extender y clarificar esta última idea. Vincular mejor con pie de página.*
-
-[^1]: Por ejemplo, el proceso secundario es una lógica que se desarrolla espontáneamente para regular la libre descarga del proceso primario, garantizando así la satisfacción real (y no alucinatoria) del deseo.

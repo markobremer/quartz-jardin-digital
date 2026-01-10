@@ -1,6 +1,0 @@
-Alude a la capacidad de nuestro [[Sistema nervioso]] para modificarse a sí mismo. Se le reconoce como condición necesaria para el [[Aprendizaje]], y se puede implementar al menos en dos niveles:
-
-- En la [[Sinapsis]].
-- En las [[Poda Neuronal|podas neuronales]].
-
-Es importante tener en consideración que esta plasticidad no es sólo “para bien”, ya que una capacidad previamente desarrollada puede perderse con el desuso. Un ejemplo súper concreto y relevante de esta última posibilidad es lo que Maryanne Wolfe propone en su libro [[Maryanne Wolf - reader, come home|Reader, come Home]], en donde argumenta que las [[Affordances]] de los smartphones y dispositivos digitales promueven un tipo de lectura superficial (*skimming*), caracterizada por rápidos cambios de contexto que impiden el desarrollo de una relación profunda con la lectura. Esta última es una capacidad superior del sistema nervioso que nos permite generar ricas y detalladas simulaciones del mundo literario, para luego sumergirnos en ellas y experienciarlas. Wolfe dice que esta experiencia es una especie de campo de entrenamiento para el desarrollo de la empatía, y que, a pesar de haber logrado desarrollarla, puede perderse por dejar de ejercitarla.

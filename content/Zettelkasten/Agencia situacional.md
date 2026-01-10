@@ -1,3 +1,0 @@
-Hace referencia al hecho de que [nuestra fuerza de voluntad está sobrevalorada](https://www.nytimes.com/2025/12/28/opinion/willpower-doesnt-work-this-does.html/), y que tanto la investigación como entrevistas con personas exitosas de alto rendimiento muestran que el éxito en el [[Autorregulación|autocontrol]] no viene dado por la cantidad de esfuerzo que uno es capaz de (o está dispuesto a) hacer, sino que por cómo uno configura su entorno para [[Deseo|desafiar lo menos posible]] a un recurso limitado. #pub 
-
-Es un argumento a favor de que prohibir los [[smartphones]] en los colegios es una buena idea.

@@ -1,1 +1,0 @@
-En su más mínima expresión, dentro del ámbito de la [[Inteligencia Artificial]], el contexto hace referencia a la palabra o frase que el modelo utiliza para hacer [[predicciones]]

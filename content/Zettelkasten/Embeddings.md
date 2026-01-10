@@ -1,1 +1,0 @@
-Representaciones vectoriales de un texto, que permite realizar computaciones matemáticas sobre ellos para analizarlos y vincularlos.

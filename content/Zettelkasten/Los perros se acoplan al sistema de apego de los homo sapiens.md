@@ -1,3 +1,0 @@
-Algo que subjetivamente podría declararse sin problemas, ahora ha sido [[David Grimm - how dogs stole our hearts|respaldado experimentalmente]]: el contacto visual entre perros y sus amos está directamente correlacionado con los niveles de oxitocina en la orina.
-
-He escuchado que los músculos de la órbita de los ojos es un rasgo adaptativo del cual se presume una función evolutiva similar. Está como para profundizar en este tema y transformarlo en una #publicación.

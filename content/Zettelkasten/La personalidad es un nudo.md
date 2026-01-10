@@ -1,7 +1,0 @@
-Tengo la intención de escribir sobre la [[transferencia]] [[Psicoanálisis|psicoanalítica]] como la enactuación de patrones relacionales que se adquirieron durante la infancia. 
-
-Para hacerlo, me gustaría recurrir a la noción de “nudos”. Pienso particularmente en Ronald Laing y cómo los utiliza poéticamente para capturar cierta estabilización de patrones intra e interpersonales, pero también creo que podría ser útil pensarlo desde la topología en general, y la lógica Lacaniana de nudos, aunque estas últimas son sólo presentimientos, ya que no me manejo muy bien en estas ideas.
-
-También, me gustaría trabajar desde los sistemas complejos. Alguna vez leí que, desde esta perspectiva, es posible pensar en el paso de lo cuantitativo a lo cualitativo a partir de la lógica de la transición de fases (ej: cuando paso cierto umbral crítico, se genera un efecto no linear que reorganiza el sistema). Pienso que los patrones de personalidad, que se enactúan en la transferencia, tienen también esta lógica de poder asumir ciertas configuraciones estables (como los orbitales de los electrones) o formas caóticas (que sería el caso del delirio psicótico o, en menor medida, el funcionamiento borderline).
-
-Creo que la personalidad es básicamente un ordenamiento estable de distintas fuerzas estructurales del psiquismo, que sería puede pensar como los ordenamientos dinámicos pero estables en ecosistemas.
