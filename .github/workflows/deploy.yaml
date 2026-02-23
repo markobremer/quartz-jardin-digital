@@ -37,7 +37,7 @@ jobs:
           find content -mindepth 1 -not -name '.gitkeep' -not -name '.gitignore' -delete 2>/dev/null || true
 
           # Copy Zettelkasten files directly to content (not in subfolder)
-          cp -r vault-temp/Zettelkasten/* content/
+          cp -r vault-temp/informacion/Zettelkasten/* content/
 
           # Set Bienvenidos.md as index
           if [ -f content/Bienvenidos.md ]; then
@@ -69,7 +69,7 @@ jobs:
       - name: Add modification dates to frontmatter
         run: |
           cd vault-temp
-          for file in Zettelkasten/*.md; do
+          for file in informacion/Zettelkasten/*.md; do
             filename=$(basename "$file")
             target="../content/$filename"
             if [ -f "$target" ]; then
