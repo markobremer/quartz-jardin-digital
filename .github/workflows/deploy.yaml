@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:  # Permite ejecutar manualmente
-  repository_dispatch:  # Permite trigger desde otro repo
+  workflow_dispatch:
+  repository_dispatch:
     types: [vault-updated]
   schedule:
-    - cron: '0 */6 * * *'  # Cada 6 horas como respaldo
+    - cron: '0 */6 * * *'
 
 permissions:
   contents: read
@@ -37,7 +37,7 @@ jobs:
           find content -mindepth 1 -not -name '.gitkeep' -not -name '.gitignore' -delete 2>/dev/null || true
 
           # Copy Zettelkasten files directly to content (not in subfolder)
-          cp -r vault-temp/informacion/Zettelkasten/* content/
+          cp -r vault-temp/metabolizar/zettelkasten/* content/
 
           # Set Bienvenidos.md as index
           if [ -f content/Bienvenidos.md ]; then
@@ -47,12 +47,12 @@ jobs:
       - name: Sync Readwise as unlisted (for embeds only)
         run: |
           # Copy Readwise folder (excluding Tweets which have problematic YAML)
-          if [ -d vault-temp/Readwise ]; then
+          if [ -d vault-temp/asimilar/readwise ]; then
             mkdir -p content/Readwise
             # Copy all except Tweets folder
-            find vault-temp/Readwise -mindepth 1 -maxdepth 1 -type d ! -name "Tweets" -exec cp -r {} content/Readwise/ \;
+            find vault-temp/asimilar/readwise -mindepth 1 -maxdepth 1 -type d ! -name "Tweets" -exec cp -r {} content/Readwise/ \;
             # Copy root level files
-            find vault-temp/Readwise -maxdepth 1 -name "*.md" -exec cp {} content/Readwise/ \;
+            find vault-temp/asimilar/readwise -maxdepth 1 -name "*.md" -exec cp {} content/Readwise/ \;
 
             # Mark all Readwise files as unlisted using awk (more robust)
             find content/Readwise -name "*.md" -type f | while read file; do
@@ -69,7 +69,7 @@ jobs:
       - name: Add modification dates to frontmatter
         run: |
           cd vault-temp
-          for file in informacion/Zettelkasten/*.md; do
+          for file in metabolizar/zettelkasten/*.md; do
             filename=$(basename "$file")
             target="../content/$filename"
             if [ -f "$target" ]; then
@@ -82,7 +82,10 @@ jobs:
                   sed -i "2i modified: $mod_date" "$target"
                 else
                   # Create frontmatter with modified date
-                  sed -i "1i ---\nmodified: $mod_date\n---\n" "$target"
+                  sed -i "1i ---
+modified: $mod_date
+---
+" "$target"
                 fi
               fi
             fi
