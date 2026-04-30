@@ -29,7 +29,7 @@ jobs:
 
       - name: Clone Obsidian vault (with history for dates)
         run: |
-          git clone https://x-access-token:${{ secrets.VAULT_TOKEN }}@github.com/ph27p2t9hq-ship-it/obsidian-vault.git vault-temp
+          git clone https://x-access-token:${{ secrets.VAULT_TOKEN }}@github.com/markobremer/obsidian-vault.git vault-temp
 
       - name: Sync Zettelkasten to content root
         run: |
